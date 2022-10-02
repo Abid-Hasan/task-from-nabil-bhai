@@ -1,0 +1,19 @@
+{
+  "app_name": "Al Quran (Tafsir & neno kwa neno)",
+  "save": "Hifadhi",
+  "delete": "Futa",
+  "close": "Funga",
+  "cancel": "Kufuta",
+  "ok": "Sawa",
+  "share_image": "*Picha(screenshot)",
+  "share_text": "Maandishi",
+  "ayah_copied_popup": "Mstari kunakiliwa",
+  "stringshotshare": "Sambaza screenshot*",
+  "popup_open_in_sura_view": "Maono ya sura",
+  "popup_tafsir_ibn_kathir": "Tafsir/Note View",
+  "popup_play_this_ayah": "Cheza hii Ayah",
+  "searchTitle": "Tafuta kwa maneno",
+  "searchhelptext": "Mifano\nTumia nambari ya sura:nambari ya Ayah ili kufikia Ayah upesi",
+  "noWordTyped": "Hakuna kilichoandikwa",
+  "search_in_all_collections": "Tafuta kwa mukusanyiko wote"
+}

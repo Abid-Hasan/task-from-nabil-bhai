@@ -1,0 +1,23 @@
+{
+  "app_name": "अल कुरआन (तफ्सिर र शब्दश:)",
+  "save": "सुरक्षित गर्नुहोस्",
+  "delete": "मेटाउनुहोस्",
+  "close": "बन्द गर्नुहोस्",
+  "cancel": "रद्द गर्नुहोस्",
+  "ok": "हुन्छ",
+  "share_image": "फोटो (स्क्रिनसट)",
+  "stringshotshare": "स्क्रिनसट शेयर गर्नुहोस्",
+  "popup_open_in_sura_view": "सुरह अनुसार",
+  "popup_play_this_ayah": "यो आयत सुन्नुहोस्",
+  "searchTitle": "वाक्यांशहरू द्वारा खोज्नुहोस्",
+  "noWordTyped": "केही टाइप गरिएको छैन",
+  "filter_hint": "अलग गर्न टाईप गर्नुहोस्",
+  "writenote": "नोट लेख्नुहोस्",
+  "choose_translations": "अनुवाद छनौट गर्नुहोस्",
+  "auto_scroll": "स्वत: स्क्रोल",
+  "menu_share": "शेयर",
+  "string-array.verb_form_names.item_0": "पूर्ण काल",
+  "string-array.verb_form_names.item_1": "अपूर्ण काल",
+  "string-array.verb_form_names.item_2": "आज्ञार्थक",
+  "string-array.verb_form_names.item_3": "सक्रिय सह्भागिता"
+}
