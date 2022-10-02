@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Korán</string>
+    <!-- CommonOperations -->
+    <string name="cancel">Mégsem</string>
+    <string name="ayah_copied_popup">Ája kimásolva</string>
+    <!--Search-->
+    <!-- Viewer Activity -->
+    <!-- sura metainfo -->
+    <string name="makki">Mekkai</string>
+    <string name="madani">Medinai</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">Megszakítás&#8230;</string>
+    <string name="timing_database">Szükséges fájlok</string>
+    <string name="quran_sura">Szúrák</string>
+    <string name="quran_ayah">Ája</string>
+    <string name="quran_page">Oldal</string>
+    <string name="quran_juz2">Dzsuz</string>
+    <!-- Bookmark -->
+    <!--menu-->
+    <string name="menu_bookmarks">Könyvjelzők</string>
+    <string name="menu_jump">Ugrás</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="menu_search">Keresés</string>
+    <!--Options-->
+    <!--Tutorials-->
+    <!--Tutorial overlay-->
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Sikeres letöltés</string>
+    <string name="download_processing">Letöltés feldolgozása&#8230;</string>
+    <string name="notification_download_canceled">Letöltés megszakítva</string>
+    <string name="download_non_wifi_prompt">Nem használ Wi-Fi-t. Mindenképpen letölti az adatokat?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">Letöltve %1$s / %2$s</string>
+    <string name="download_sura_progress">Letöltve %1$s / %2$s szúra %3$d</string>
+    <string name="process_progress">Fájl feldolgozása %1$d / %2$d</string>
+    <!-- Audio panel -->
+    <string name="play_apply">Alkalmaz</string>
+    <string name="play">Lejátszás</string>
+    <string name="stop">Leállítás</string>
+    <string name="downloading_title">Letöltés&#8230;</string>
+    <string name="downloading_message">Kérem várjon, amíg a fájlok letöltődnek (a folytatás támogatott).</string>
+    <string name="remove_dlg_title">Eltávolítja a fordítást?</string>
+    <string name="remove_dlg_msg">Biztos, hogy eltávolítja ezt: %1$s?</string>
+    <string name="remove_button">Eltávolítás</string>
+    <!--Tajweed Activity-->
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <!--todo indopak under construction -->
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <!-- Match results -->
+    <!--quran planner-->
+    <!--changelog-->
+</resources>

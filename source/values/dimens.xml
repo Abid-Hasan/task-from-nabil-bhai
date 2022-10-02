@@ -1,0 +1,103 @@
+<resources>
+    <integer name="seekbar_arabic_max">40</integer>
+    <integer name="seekbar_arabic_min">18</integer>
+
+    <integer name="seekbar_trans_max">30</integer>
+    <integer name="seekbar_trans_min">12</integer>
+
+    <integer name="seekbar_arabic_default">24</integer>
+    <integer name="seekbar_trans_default">20</integer>
+
+    <dimen name="audiobar_button_width">48dp</dimen>
+    <dimen name="audiobar_separator_padding">40dp</dimen>
+    <dimen name="audiobar_text_font_size">12sp</dimen>
+
+    <!-- repeat -->
+    <dimen name="repeat_superscript_text_size">10sp</dimen>
+    <dimen name="repeat_text_y_padding">4dp</dimen>
+
+    <dimen name="layout_padding">12dp</dimen>
+
+    <dimen name="roundedCorner_0">4dp</dimen>
+    <dimen name="roundedCorner_2">16dp</dimen>
+    <dimen name="roundedCorner_4">32dp</dimen>
+
+    <dimen name="padding_1">8dp</dimen>
+    <dimen name="padding_2">16dp</dimen>
+    <dimen name="padding_3">24dp</dimen>
+    <dimen name="padding_4">32dp</dimen>
+    <dimen name="padding_5">40dp</dimen>
+    <dimen name="padding_6">48dp</dimen>
+    <dimen name="padding_7">56dp</dimen>
+    <dimen name="padding_8">64dp</dimen>
+    <dimen name="padding_10">80dp</dimen>
+    <dimen name="padding_19">152dp</dimen>
+
+    <dimen name="height_1">8dp</dimen>
+    <dimen name="height_2">16dp</dimen>
+    <dimen name="height_3">24dp</dimen>
+    <dimen name="height_4">32dp</dimen>
+    <dimen name="height_12">96dp</dimen>
+
+    <dimen name="width_9">72dp</dimen>
+
+    <dimen name="no_elevation">0dp</dimen>
+    <dimen name="elevation_1">8dp</dimen>
+
+    <dimen name="space_0">2dp</dimen>
+    <dimen name="space_1">4dp</dimen>
+    <dimen name="space_1_negative">-4dp</dimen>
+    <dimen name="space_2">8dp</dimen>
+    <dimen name="space_2_negative">-8dp</dimen>
+    <dimen name="space_3">16dp</dimen>
+    <dimen name="space_4">24dp</dimen>
+    <dimen name="space_5">32dp</dimen>
+    <dimen name="space_6">48dp</dimen>
+    <dimen name="blank_note_size">128dp</dimen>
+    <dimen name="space_7">56dp</dimen>
+
+    <dimen name="planner_circular_progress_size">142dp</dimen>
+
+    <dimen name="tajweed_arabic_font_size">25sp</dimen>
+
+    <dimen name="space_40">40dp</dimen>
+
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="icon_size_2">32dp</dimen>
+    <dimen name="icon_size_5">40dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <dimen name="radio_button_conner_radius">8dp</dimen>
+    <dimen name="radio_button_stroke_border">2dp</dimen>
+
+    <dimen name="check_box_dimen">35dp</dimen>
+
+    <dimen name="thumb_width">30dp</dimen>
+    <dimen name="thumb_height">30dp</dimen>
+    <dimen name="corner_radius_1">4dp</dimen>
+    <dimen name="corner_radius_2">8dp</dimen>
+
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+
+    <dimen name="progress_bar_width">6dp</dimen>
+    <dimen name="progress_bar_padding">5.5dp</dimen>
+    <dimen name="toolbar_height">48dp</dimen>
+
+    <dimen name="notification_details_image_height">144dp</dimen>
+
+    <dimen name="drawer_footer_view_margin">12dp</dimen>
+    <dimen name="drawer_footer_view_height">45dp</dimen>
+    <dimen name="drawer_footer_view_width">45dp</dimen>
+
+    <dimen name="zero_dimen">0dp</dimen>
+
+    <dimen name="Size24">24dp</dimen>
+
+    <dimen name="update_button_height">28dp</dimen>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">Proqramla paylaşın</string>
+    <string name="shareApk">Apk fayla paylaşın</string>
+    <string name="sharelink">Linki paylaşın</string>
+    <string name="getapp">Quran App yükləyin:</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">Peyğəmbər (s.ə.s) demişdi: \"İnsanlara təşəkkür etməyən, Allah şükür etmir\" [Abu Daud 4811]\n\nProqramı qiymətləndirmək üçün bir az vaxt ayırın və bizə yeni yaxşı əməllər etmək üçün ilham verin!</string>
+    <string name="ratingtext">Sizin verdiyiniz qiymət bizim üçün çox vacibdir</string>
+    <string name="menu_rate">Qiymətləndirin!</string>
+    <string name="ratelater">Sonra</string>
+    <string name="ratenothanks">Xeyr, sağolun</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Tərcümə etmək</string>
+    <!--more apps -->
+    <string name="devDetails">Sadəlik, keyfiyyət, in şaa Llah</string>
+</resources>

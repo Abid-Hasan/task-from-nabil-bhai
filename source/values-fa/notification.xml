@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>آیه ی روز</item>
+        <item>آیه‌ی امروز</item>
+        <item>آیا با خواندن یک آیه از خود مراقبت می کنید؟</item>
+        <item>یک آیه امروز یاد بگیرید</item>
+        <item>آیه روزانه</item>
+        <item>آیا دوست دارید یک آیه را یاد بگیرید؟</item>
+        <item>برویم یک آیه یاد بگیریم</item>
+        <item>آیه‌ای برای امروز</item>
+        <item>آیا می‌خواهید یک آیه امروز بخوانید؟</item>
+        <item>برای خواندن یک آیه کلیک کنید</item>
+        <item>خداوند به شما چه می‌خواهد بگوید؟</item>
+        <item>اجازه بدهید خداوند امروز با شما گفتگو کند</item>
+        <item>امروز با خدا صحبت کردید؟</item>
+        <item>بیایید با خدا صحبت کنیم</item>
+        <item>امروز خدا را یاد کردید؟</item>
+        <item>امروز خدا را سپاس گفتید؟</item>
+        <item>بیایید خدا را به یاد آوریم</item>
+        <item>غذای روح</item>
+        <item>وقت تازه کردن ذهن من است</item>
+        <item>پروردگارت را یاد کن</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>میخواهی که درباره قرآن بدانی</item>
+        <item>قرآن درباره چه چیزی سخن می‌گوید</item>
+        <item>خداوند درباره چه چیزی سخن می‌گوید</item>
+        <item>آیه‌ها</item>
+        <item>سوره‌ها</item>
+        <item>موضوع جذاب در قرآن</item>
+        <item>موضوع امروز</item>
+        <item>این را از قرآن بررسی کنید</item>
+        <item>این را از قرآن بیاموزیم</item>
+    </string-array>
+</resources>

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">古兰经</string>
+    <!-- CommonOperations -->
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="close">关闭</string>
+    <string name="cancel">取消</string>
+    <string name="ok">好</string>
+    <string name="share_image">图像（截图）</string>
+    <string name="share_text">正文</string>
+    <string name="ayah_copied_popup">此节已复制</string>
+    <string name="stringshotshare">分享截图</string>
+    <string name="popup_open_in_sura_view">阅读苏勒</string>
+    <string name="popup_tafsir_ibn_kathir">经注/查阅注释</string>
+    <string name="popup_play_this_ayah">播放此节经文</string>
+    <!--Search-->
+    <string name="searchTitle">用短语搜索</string>
+    <string name="searchhelptext">示例:
+
+ \n\n 输入苏勒经文序数快速转到该节经文</string>
+    <string name="noWordTyped">没有输入任何文字</string>
+    <string name="search_in_all_collections">搜索:在所有收藏中</string>
+    <string name="search_in">"搜索:%1$s"</string>
+    <string name="filter_hint">点击筛选</string>
+    <string name="search_result">"%1$s被找到%2$d次"</string>
+    <string name="search_result_root">"词根%1$s被找到%2$d次"</string>
+    <string name="searching">"搜索中...%1$s…"</string>
+    <!-- Viewer Activity -->
+    <string name="root">词根</string>
+    <string name="lemma">词根/派生</string>
+    <string name="click_root_search_quran">点击词根或者段以搜索古兰经</string>
+    <string-array name="verb_form_names">
+        <item>完成时</item>
+        <item>未完成时</item>
+        <item>命令式</item>
+        <item>主动分词</item>
+        <item>被动分词</item>
+        <item>名词形式</item>
+    </string-array>
+    <string name="writenote">记笔记</string>
+    <string name="choose_translations">选择译文</string>
+    <string name="auto_scroll">自动翻阅</string>
+    <string name="jump_sura">跳到苏勒</string>
+    <string name="jump_tafsir">跳到经注</string>
+    <!-- sura metainfo -->
+    <string name="makki">麦加降示</string>
+    <string name="madani">麦地那降示</string>
+    <string name="surah_location">"地点:"</string>
+    <string name="sura_num_ayahs">"经文节数:"</string>
+    <string name="sura_ruku_num">"鞠躬"</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">取消中&#8230;</string>
+    <string name="timing_database">所需文件</string>
+    <string name="quran_sura">苏勒</string>
+    <string name="quran_ayah">节</string>
+    <string name="quran_page">页</string>
+    <string name="quran_hizb">半段</string>
+    <string name="quran_juz2">本</string>
+    <string name="juz2_description">"%1$d%2$s本"</string>
+    <string name="juzpage_description">":页%1$d"</string>
+    <string name="page_description">"页%1$d"</string>
+    <string name="hizb_description">"%1$d%2$s本"</string>
+    <string name="permission_save_in_sdcard">数据储存在sd卡中需要取得权限</string>
+    <string name="permission_save_in_sdcard_unable">无法在内存中储存数据</string>
+    <string name="note_saved">笔记已储存</string>
+    <string name="topics_verses_index">和这节有关的话题</string>
+    <!-- Bookmark -->
+    <string name="create_new">建立新的&#8230;</string>
+    <string name="create_add">建立&amp;添加</string>
+    <string name="bookmark_result">"\'%1$s\' 被找到 %2$d 次"</string>
+    <string name="bookmark_last_read">上次阅读</string>
+    <!--menu-->
+    <string name="menu_share">分享</string>
+    <string name="menu_quran_index">古兰经目录</string>
+    <string name="menu_report">报告</string>
+    <string name="menu_copy">复制</string>
+    <string name="menu_bookmarks">书签</string>
+    <string name="add_bookmarks">添加书签</string>
+    <string name="menu_jump">跳到节</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_search">搜索</string>
+    <string name="menu_notes">笔记</string>
+    <string name="menu_day_ayah">今日经文</string>
+    <!--Options-->
+    <string name="pref_apperance">界面</string>
+    <string name="pref_settings_choose_language">语言</string>
+    <string name="pref_theme">主题</string>
+    <string name="pref_show_translation">显示译文</string>
+    <string name="pref_translations">译文</string>
+    <string name="pref_translation">译文</string>
+    <string name="pref_translation_font_size">译文字体大小</string>
+    <string name="pref_arabic">阿拉伯语</string>
+    <string name="pref_arabic_font_size">阿拉伯语字体大小</string>
+    <string name="pref_showarabic">显示阿拉伯语</string>
+    <string name="pref_arabic_font">阿拉伯语字体</string>
+    <string name="pref_showwordbyword">逐词学习</string>
+    <string name="pref_showtajweed">诵读规则</string>
+    <string name="pref_mushaftype">定本</string>
+    <string name="pref_arabicfont">阿拉伯语</string>
+    <string name="pref_rtl">从右至左阅读模式</string>
+    <string name="pref_keepscreenon">屏幕常亮</string>
+    <string name="pref_audio_manager">音频管理器</string>
+    <string name="pref_audio_manager_summary">管理和下载古兰经诵读</string>
+    <string name="pref_notification_switch">每日提醒</string>
+    <string name="pref_clearsearch">清除搜索历史</string>
+    <string name="searchistoryremoved">搜索历史已清除</string>
+    <string name="pref_tajweedrules">诵读规则</string>
+    <string name="pref_tajweed_summary">停止符，诵读发音规则</string>
+    <string-array name="mushaf_names">
+        <item>乌斯玛尼/马达尼</item>
+        <item>南亚/亚洲（试用）</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>白色</item>
+        <item>黑色（夜晚）</item>
+        <item>绿色</item>
+        <item>棕色</item>
+        <item>Dark Blue</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">下一个</string>
+    <string name="done_tut">明白了</string>
+    <!--Tutorial overlay-->
+    <string name="share_ayah_title">分享此节</string>
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">下载成功</string>
+    <string name="download_processing">处理下载中&#8230;</string>
+    <string name="notification_download_canceled">下载已取消</string>
+    <string name="download_non_wifi_prompt">你没有连接wifi.依然要下载数据？</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">已下载%1$s / %2$s</string>
+    <string name="download_sura_progress">已下载 %1$s / %2$s 苏勒的 %3$d</string>
+    <string name="process_progress">文件处理中%1$d / %2$d</string>
+    <string name="download_all">下载全部</string>
+    <string name="all">全部</string>
+    <string name="downloaded">已下载</string>
+    <string name="available">可用</string>
+    <string name="download_question">下载吗？</string>
+    <string name="partial_text">"(部分)"</string>
+    <string name="error_general">下载失败</string>
+    <string name="error_disk">无足够存储空间</string>
+    <string name="error_network">网络错误</string>
+    <string name="error_insufficient_permissions">不充分的授权</string>
+    <string name="error_invalid_download_retry">文件受损，尝试重新下载</string>
+    <string name="error_network_retry">网络错误，尝试继续 &#8230;</string>
+    <string name="error_error_unknown">未知错误</string>
+    <!-- Audio panel -->
+    <string name="play_apply">应用</string>
+    <string name="previous">上一个</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="stop">停止</string>
+    <string name="next">下一个</string>
+    <string name="repeat_range">重复所选经文</string>
+    <string name="repeat_each_verse">重复此节经文</string>
+    <string name="audio_from">从</string>
+    <string name="audio_to">到</string>
+    <string name="downloading_title">下载中</string>
+    <string name="downloading_message">请等待文件下载（可恢复）</string>
+    <string name="processing">处理中&#8230;</string>
+    <string name="remove_dlg_title">清除这个?</string>
+    <string name="remove_dlg_msg">你要清除%1$s?</string>
+    <string name="remove_dlg_note_msg">你是要移除为 %1$s?作为备注吗？</string>
+    <string name="remove_button">清除</string>
+    <!--Tajweed Activity-->
+    <string name="title_activity_tawjeed_rules">诵读规则</string>
+    <string name="qalqala_tr">尕勒尕拉（回声）</string>
+    <string name="iqlab_tr">伊葛拉布（同化/转换）</string>
+    <string name="idgham_tr">伊德厄姆(省音/合并)</string>
+    <string name="idghamwg_tr">不带乌纳的伊德厄姆</string>
+    <string name="ikhfa_tr">"伊赫发(辅音弱化/隐藏)"</string>
+    <string name="ghunna_tr">乌纳(鼻音化)</string>
+    <string name="must_stop">必须停止</string>
+    <string name="_22_times">被找到22次</string>
+    <string name="better_to_stop">最好停止</string>
+    <string name="bettertostp_603_times">被找到603次</string>
+    <string name="pause_at_one">暂停一下</string>
+    <string name="_12_times">被找到12次</string>
+    <string name="a_slight_pause">轻微的停顿</string>
+    <string name="_7_times">被找到7次</string>
+    <string name="stop_or_continue">停止或者继续</string>
+    <string name="_1972_times">被找到1972次</string>
+    <string name="better_to_continue">最好继续</string>
+    <string name="_1682_times">被找到1682次</string>
+    <string name="dont_stop">不要停止</string>
+    <string name="_68_times">被找到68次</string>
+    <string name="num_times">%1$d 次</string>
+    <string name="num_second">%1$d 部分</string>
+    <string name="num_seconds">%1$d 部分</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="gunnahtext">任何 نّ 或 مّ 将有一个从鼻腔发出的音。</string>
+    <string name="ikhfatext">任何 نْ 或 ً ٍ ٌ 跟在f ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت 这些字母之后将发一个轻微鼻音\n\n或\n\n当字母 ب 出现在 مْ 之后时该字母将在鼻腔中发轻微的鼻音。</string>
+    <string name="idhghamtext">任何 نْ 或 ً ٍ ٌ 跟在 و م ن ي 这些字母中的任何字母之后将与跟着的字母同化并与乌呐一起读\n\或\n\n当一个 مْ 有一个 مّ, 跟着时前字母将与后字母合并将与乌呐一起读。</string>
+    <string name="idhghamwgtext">任何 نْ 或 ً ٍ ٌ 跟着字母 ل 或 ر 将同化到后面的字母但乌呐将不被读出来。</string>
+    <string name="iqlabtext">任何 نْ 或ً ٍ ٌ 有字母 ب 跟着将转化为 م.</string>
+    <string name="qalqalatext">这五个字母 د ج ب ط ق 中的任何一个字母在遇到静音符时并且/或者作为该节经文的最后的字母时，应该发轻回声或颤音。</string>
+    <string name="verb_form_basic">"动词形式1 事例%1$d"</string>
+    <string name="verb_form">"动词形式 %1$d "</string>
+    <string name="word_by_word_language">逐字语言</string>
+    <string-array name="parts_of_speech">
+        <item>助词宾格</item>
+        <item>形容词</item>
+        <!--2-->
+        <item>修缮助词</item>
+        <item>回答助词</item>
+        <item>背离助词</item>
+        <item>表原因的助词</item>
+        <item>表确认的助词</item>
+        <item>旁证助词</item>
+        <item>伴随助词</item>
+        <item>条件助词</item>
+        <item>协调连词</item>
+        <!--11-->
+        <item>示范代词</item>
+        <item>限定词</item>
+        <item>表强调拉姆前缀</item>
+        <item>均衡助词</item>
+        <item>劝解助词</item>
+        <item>解释助词</item>
+        <item>特殊助词</item>
+        <item>将来助词</item>
+        <item>命令式动词型名词</item>
+        <item>命令式拉姆前缀</item>
+        <item>表始助词</item>
+        <item>古兰经的声母</item>
+        <item>解释性助词</item>
+        <item>疑问助词</item>
+        <item>地点副词</item>
+        <item>名词</item>
+        <!--26-->
+        <item>否定助词</item>
+        <item>介词</item>
+        <item>专有名词</item>
+        <item>预防助词</item>
+        <item>禁止助词</item>
+        <item>私有代词</item>
+        <item>目的性 拉姆 前缀</item>
+        <item>关系代词</item>
+        <item>重始助词</item>
+        <item>限制助词</item>
+        <item>后缩助词</item>
+        <item>结果助词</item>
+        <item>从属连词</item>
+        <item>补充助词</item>
+        <item>惊叹助词</item>
+        <item>时间副词</item>
+        <item>动词</item>
+        <!--43-->
+        <item>呼唤助词</item>
+        <item>动名词</item>
+        <item>注意</item>
+        <item>距离</item>
+        <item>地址</item>
+    </string-array>
+    <string name="transliteration_warning_msg">通过音译来阅读/书写古兰经是不正确的。
+这会导致错误的发音和对学习诵读规则有消极的影响。</string>
+    <string name="agree">我同意</string>
+    <string name="transliteration_warning_title">警告！！</string>
+    <string name="file_content_invalid">文件内容无效</string>
+    <string name="imported">导入成功！！</string>
+    <string name="mushaf">穆沙发</string>
+    <string name="click_more">更多请点击</string>
+    <string name="sync_online">在线同步</string>
+    <string name="update">Update</string>
+    <string name="add_note">添加笔记</string>
+    <string name="exact_word_match">准确词语匹配</string>
+    <!--todo indopak under construction -->
+    <string name="suggestion">建议</string>
+    <string name="comment">评论</string>
+    <!--
+    
+    
+    
+    <string name="answer">Random Verse</string>-->
+    <string name="minutes_left">%1$d 分钟</string>
+    <string name="minute_left">%1$d 分钟</string>
+    <string name="less_than_minute">少于一分钟</string>
+    <string name="pref_font_size">字体大小</string>
+    <string name="none_text">无</string>
+    <string name="sign_out">退出</string>
+    <string name="download_app_needed">此功能需下载应用软件</string>
+    <!-- Match results -->
+    <string name="say_in_arabic">请用阿拉伯语讲两句话</string>
+    <string name="saved_in_download_folder">已备份 %1$s 存储到下载文件夹中!</string>
+    <string name="new_version_available">有新版本</string>
+    <string name="please_update_to_new_version">请升级应用软件至新版本以继续使用</string>
+    <string name="skip">跳过</string>
+    <string name="action_undo">撤消</string>
+    <string name="juz_description">%1$d本</string>
+    <!--quran planner-->
+    <!--changelog-->
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <!-- CommonOperations -->
+    <!--Search-->
+    <!-- Viewer Activity -->
+    <!-- sura metainfo -->
+    <!-- End Number picker Strings -->
+    <!-- Bookmark -->
+    <!--menu-->
+    <!--Options-->
+    <!--Tutorials-->
+    <!--Tutorial overlay-->
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <!-- downloading dialogs -->
+    <!-- Audio panel -->
+    <!--Tajweed Activity-->
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="sync_online">シンク オンライン</string>
+    <!--todo indopak under construction -->
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <!-- Match results -->
+    <!--quran planner-->
+    <!--changelog-->
+</resources>

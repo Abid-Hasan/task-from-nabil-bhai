@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">ناردنی بەرنامەکە</string>
+    <string name="share_app_info">"قورئان بەکوردی بەوشەی ڕەوان و جوان ئامادەکراوە بۆ ئێوەی خۆشەویست بۆ خوێندنەوە بە تەفسیری ئاسان و بەرنامەکە چەندین فۆنت و شێوازی جوانی لەخۆ گرتووە.
+
+لە کۆگای بەرنامەکان بەدەستی بێنە: https://goo.gl/w6rESk
+   "</string>
+    <string name="shareApk">ناردنی فایلی بەرنامە</string>
+    <string name="sharelink">ناردنی بەستەر</string>
+    <string name="getapp">دەستکەوتنی بەرنامەی قورئان:</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">پێغەمبەری خوا  ئەفەرموێ: \'\'ئەوەی سوپاسی خەڵک نەکا، سوپاسی خواش ناکات\'\'\n[ابو داود 4811] \n\nپۆلێنمان بکە بۆ زیاتر بەردەوامبین لەگەڵ ئێوەدا!</string>
+    <string name="ratingtext">تۆ ئێمە پۆلێن بکە بە 5 ئەستێرە تا کارەکانمان بەرەو باشتر بڕوات</string>
+    <string name="menu_rate">پۆڵێنکردن!</string>
+    <string name="ratelater">کاتێکی تر</string>
+    <string name="ratenothanks">نا سوپاس</string>
+    <string name="app_details">سوپاس بۆ خوا ئەم بەرنامەی قورئانە ئامرازێکی باشە بۆ تێگەیشتن و قوتابخایەکەیە بۆ خوێندنەوەی قورئان:
+\n
+\n* تەفسیری ئینگلیزی ابن کەسیر لەگەڵ عەرەبی چەسپێنراوە
+\n* کۆدیکی ڕەنگی تەجووید بچووکترین لە قورئان (لە کیت کات بۆ بەرەوژورتر)
+\n* وەرگێڕانی ووشە بە ووشە, ڕێزمانى، ڕەگ و وردەكاريى شێوەى فەرمان
+\n* پەسەندەکان/ئارەزوومەندەکان جیاکردنەوە بۆ بابەتی بەکارهێنەرێکی تر
+\n* هێزێکی تەواو و دەقێکی تەواو لە گەڕانێکی گرنگدا
+\n* 
+ سيستەمى دەنگيى بەهێز لەگەڵ دووبارە كردنەوە، لێدانی گرووپى بەيت كار دەكەن تا يارمەتى بدەن لە باشترکردن
+\n* نیشانەیەکی نوێی گشتی و خۆشی و جوانی نوسینەکان
+\n* نیشانەی سەرو و خواری خۆکار
+\n* لەهەمان کاتدا قورئان بەچەند شێوازێک وەرگێڕاوە: کوردی, بەنگالی, چینی, ئینگلیزی, فەڕەنسی, هندی, ئەڵمانی, ئەندەنوسی, ئیتاڵی, مەلای, ڕووسی, ئیسپانی, ئوردنی و زیاتر
+\n* چەند خوێندنەوە بەداگرتن بۆ بەيت بە خوێندنەوەى بەيت(پشگیری گلەیس/بەردەوام خوێندنەوە) هەروەک مەنشاوی الفەیزی, حوسەیری (مامۆستا)
+
+\n\nسوپاسنامە:
+\n *Grafian.com بۆ کۆدیکە سەرەتاییەکان.
+\n *Quran.com بۆ سێرڤەرى داتابەيس و ميكانيزمى دەنگى.
+\n *Quran Tafsir .
+وەشانی پارەدان بۆ تەفسیری باشتر و کۆمەڵێ شتی تەواوکەر
+\n *Guidedverses.com .
+بۆ خان و ڕوونكردنەوەى هيلالى
+\n *Quranindex.info بۆ دەسپێکی داتابەیسی قورئان
+\n *پەيمانگاى خوێندنى قورئان بۆ تێگەیشتنی قورئان و ڕێکخستنی فرمانەکانی داتابەيس..
+\n *وە سەرجەم برایان و خوشکانی ديكەى کە بەشێوەی جۆراوجۆر يارمەتى دەرمان بوون لە پرۆژەكەدا، خوا پاداشتی خێری هەموویان بداتەوە
+
+
+\n\n\nزانیاری
+\nهيچ وەرگێڕانى قورئان ناتوانێ سەد لە سەد وورد بێت، وە ناتوانرێ بەكاربهێنرێت وەکو بەديلێكى نووسينى قورئان، ئێمە هەوڵمانداوە بەو پەڕی تواناوە کە كۆمەڵەێكى باش و بەناوبانگی وەرگێڕانى قورئانى پیرۆزتان بۆ دابنێین لەم بەرنامەیەدا، بەڵام .ئێمە ناتوانين ڕاستەقينەييان مسۆگەر بكەين و/يان ووردبین تكايە بەكار بهێنە لە وريايى خۆت
+
+ئەم بەرنامەیە کراوە بە کوردی لەلایەن گۆران غەریب و دیاری دەربەنی.
+(تکایە لە دۆعای خێر بێبەشمان مەکەن).</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">وەرگێڕان</string>
+    <string name="contribute_title">بەشداربە لە خێری نەبڕاوە</string>
+    <string name="contribute_text">کۆمەڵێ بەرنامەی پێویست و بەسوود و نایابن بۆ تۆی مسوڵمان،\n\n 
+ئەم بەرنامەیە هیچ جۆرە ڕیکلام ێکی تێدانیە و بەتەواوەتی خۆڕاییە،\n\n
+ئەوەی گرنگە بەلای ئێمەوە خزمەتکردنی ئوممەتی ئیسلامە بە بەرنامە و خزمەتگوزارییەکانمان، لەبەر ئەوە هاوکارانی تیمەکەمان پێویستیان بەردەوامی و بەرەو پێشچوونی زیاترە، \n\n
+بۆیە چەندێک ئەتوانی بە هاوڕێ و خزم و دۆستانی بناسێنە و بێبەشمان مەکە لە دۆعای خێر. GreenTech بەرنامەکانی ڕێکخراوی</string>
+    <string name="contribute_button">ئەمەوێ بەشداربم</string>
+    <!--more apps -->
+    <string name="devDetails">داهێنان، سادەيى، نايابى</string>
+    <string-array name="appsName" translatable="false">
+        <!--
+            <item>Al Quran (Tafsir &amp; by Word)</item>-->
+        <item>دوعا و زیکر (مسوڵمانی چاکەکار)</item>
+        <!--
+
+            <item>Al Quran (Tafsir &amp; by Word)</item>-->
+        <item>دوعا و زیکر (مسوڵمانی چاکەکار</item>
+        <!--
+
+            <item>Al Quran (Tafsir &amp; by Word)</item>-->
+        <item>واتاى نوێژى بەمەعنا بگرەوە</item>
+        <!--
+
+
+
+            <item>Al Quran (Tafsir &amp; by Word)</item>-->
+        <item>كۆكردنەوەى فەرموودە (هەمووی لەیەک دانەدا)</item>
+        <item>زاناى موسوڵمان و ياوەرەکانیان</item>
+    </string-array>
+    <string-array name="description" translatable="false">
+        <!--
+            <item>"Connect with the Quran through Word by Word translation, Analysis and Tafsir"</item>-->
+        <item>"یاوەری قورئان و کۆکردنەوەی فەرموودەکان بە دروستی و زیکر کەزۆر پێویستە بۆ ژیانی ڕۆژانە"</item>
+        <!--
+
+            <item>"Connect with the Quran through Word by Word translation, Analysis and Tafsir"</item>-->
+        <item>"دوعا و زیکری مسوڵمانان بۆ ڕۆژانە بیخوێنن."</item>
+        <!--
+
+            <item>"Connect with the Quran through Word by Word translation, Analysis and Tafsir"</item>-->
+        <item>"ئایەتەکان بەتەفسیر و ڕەوان نوسراون ئاسان بۆ خوێندنەوە "</item>
+        <!--
+
+
+
+            <item>"Connect with the Quran through Word by Word translation, Analysis and Tafsir"</item>-->
+        <item>"چواردە کتێبی فەرموودە لەلایەن موسنەد ئەحمەد کۆکراونەتەوە"</item>
+        <item>"زانایانی مسوڵمان کەپەیوەندیان هەبووە لە وەرگێرانی فەرموودەکان"</item>
+    </string-array>
+    <string-array name="urls" translatable="false">
+        <!--
+            <item>"market://details?id=com.greentech.quran</item>-->
+        <item>"market://details?id=com.greentech.hisnulmuslim"</item>
+        <!--
+
+            <item>"market://details?id=com.greentech.quran</item>-->
+        <item>""market://details?id=com.greentech.salatbn"</item>
+        <!--
+
+            <item>"market://details?id=com.greentech.quran</item>-->
+        <item>""market://details?id=com.greentech.hadith"</item>
+        <!--
+
+
+
+            <item>"market://details?id=com.greentech.quran</item>-->
+        <item>""market://details?id=com.greentech.muslimscholars"</item>
+        <item>""market://details?id=com.greentech.muslimscholars"</item>
+    </string-array>
+</resources>

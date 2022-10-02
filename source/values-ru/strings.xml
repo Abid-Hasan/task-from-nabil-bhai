@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Al Quran (Tafsir &amp; by Word)</string>
+    <!-- CommonOperations -->
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="close">Закрыть</string>
+    <string name="cancel">Отменить</string>
+    <string name="ok">ОК</string>
+    <string name="share_image">Изображение (Снимок экрана)</string>
+    <string name="share_text">Текст</string>
+    <string name="multiple_ayahs">Несколько</string>
+    <string name="ayah_copied_popup">Аят скопирован</string>
+    <string name="stringshotshare">Поделиться снимком экрана</string>
+    <string name="popup_open_in_sura_view">Режим Сура</string>
+    <string name="popup_tafsir_ibn_kathir">Режим тафсира/заметки</string>
+    <string name="popup_play_this_ayah">Прослушать аят</string>
+    <!--Search-->
+    <string name="searchTitle">Искать используя фразы</string>
+    <string name="searchhelptext">Пример:
+
+\n\nИспользуйте Номер суры:Номер аята для быстрого перехода к аяту</string>
+    <string name="noWordTyped">Ничего не введено</string>
+    <string name="search_in_all_collections">Искать в: Все коллекции</string>
+    <string name="search_in">"Искать в: %1$s"</string>
+    <string name="filter_hint">введите, чтобы отфильтровать</string>
+    <string name="search_result">"\"%1$s\" был найден %2$d раз"</string>
+    <string name="search_result_root">"Корень %1$s был найден %2$d раз"</string>
+    <string name="searching">"Поиск… %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">Корень</string>
+    <string name="lemma">Лемма/Производная</string>
+    <string name="click_root_search_quran">Выберите корень или сегмент для поиска по Корану</string>
+    <string-array name="verb_form_names">
+        <item>Совершенное время</item>
+        <item>Несовершенное время</item>
+        <item>Повелительное наклонение</item>
+        <item>Действительный залог</item>
+        <item>Страдательный залог</item>
+        <item>Форма существительного</item>
+    </string-array>
+    <string name="writenote">Напишите заметку</string>
+    <string name="choose_translations">Выберите перевод</string>
+    <string name="auto_scroll">Автопрокрутка</string>
+    <string name="jump_sura">Перейти к Суре</string>
+    <string name="jump_tafsir">Перейти к Тафсиру</string>
+    <!-- sura metainfo -->
+    <string name="makki">Мекканская</string>
+    <string name="madani">Мединская</string>
+    <string name="surah_location">"Месторасположение: "</string>
+    <string name="sura_num_ayahs">"Аяты: "</string>
+    <string name="sura_ruku_num">"Руку: "</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">Отмена&#8230;</string>
+    <string name="timing_database">Необходимые файлы</string>
+    <string name="quran_sura">Сура</string>
+    <string name="quran_ayah">Аят</string>
+    <string name="quran_page">Страница</string>
+    <string name="quran_hizb">Хизб</string>
+    <string name="quran_juz2">Джуз</string>
+    <string name="juz2_description">"Джуз %1$d%2$s"</string>
+    <string name="juzpage_description">" : Страница %1$d"</string>
+    <string name="page_description">"Страница %1$d"</string>
+    <string name="hizb_description">"Джуз %1$d%2$s"</string>
+    <string name="permission_save_in_sdcard">Необходимо разрешение для сохранения данных на SD карте</string>
+    <string name="permission_save_in_sdcard_unable">Не удалось сохранить данные в памяти</string>
+    <string name="note_saved">Заметка сохранена</string>
+    <string name="topics_verses_index">Темы относящиеся к данному Аяту</string>
+    <!-- Bookmark -->
+    <string name="create_new">Создать новый&#8230;</string>
+    <string name="create_add">Создать и добавить</string>
+    <string name="bookmark_result">"\'%1$s\' был найден %2$d раз"</string>
+    <string name="bookmark_last_read">Последнее прочитанное</string>
+    <!--menu-->
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_quran_index">Индекс Корана</string>
+    <string name="menu_quran_planner">Индекс Корана</string>
+    <string name="menu_report">Сообщить</string>
+    <string name="menu_copy">Копировать</string>
+    <string name="menu_bookmarks">Закладки</string>
+    <string name="add_bookmarks">Добавить закладку</string>
+    <string name="menu_jump">Перейти к аяту</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_notes">Заметки</string>
+    <!--Options-->
+    <string name="pref_apperance">Внешний вид</string>
+    <string name="pref_settings_choose_language">Язык</string>
+    <string name="pref_theme">Фон</string>
+    <string name="pref_show_translation">Показать перевод</string>
+    <string name="pref_translations">Переводы</string>
+    <string name="pref_translation">Перевод</string>
+    <string name="pref_translation_font_size">Размер шрифта перевода</string>
+    <string name="pref_arabic">Арабский</string>
+    <string name="pref_arabic_font_size">Размер арабского шрифта</string>
+    <string name="pref_showarabic">Показать арабский</string>
+    <string name="pref_arabic_font">Арабский шрифт</string>
+    <string name="pref_showwordbyword">Пословный перевод</string>
+    <string name="pref_showtajweed">Таджвид</string>
+    <string name="pref_mushaftype">Тип мусхафа</string>
+    <string name="pref_arabicfont">Арабский</string>
+    <string name="pref_rtl">Режим просмотра справа налево</string>
+    <string name="pref_keepscreenon">Оставить экран открытым</string>
+    <string name="pref_fixed_bars">Фиксированные верхняя и нижняя панели</string>
+    <string name="pref_audio_manager">Менеджер аудио</string>
+    <string name="pref_audio_manager_summary">Чтецы Корана: настройка и загрузка</string>
+    <string name="notification_time">Время уведомления</string>
+    <string name="notification_time_details">До полудня и после полудня</string>
+    <string name="notification">Уведомление</string>
+    <string name="morning">До полудня и</string>
+    <string name="evening">После полудня</string>
+    <string name="pref_notification_switch">Ежедневное напоминание</string>
+    <string name="pref_clearsearch">Очистить историю поиска</string>
+    <string name="searchistoryremoved">История поиска удалена</string>
+    <string name="pref_tajweedrules">Правила таджвида</string>
+    <string name="pref_tajweed_summary">Знаки остановки, правила произношения таджвида</string>
+    <string-array name="mushaf_names">
+        <item>Uthmani</item>
+        <item>IndoPak/Asian (бета)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>Белый</item>
+        <item>Черный (ночной)</item>
+        <item>Зеленый</item>
+        <item>Коричневый</item>
+        <item>Dark Blue (Night)</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">СЛЕДУЮЩИЙ</string>
+    <string name="done_tut">ПОНЯЛ</string>
+    <!--Tutorial overlay-->
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Загрузка успешная</string>
+    <string name="download_processing">Загружается&#8230;</string>
+    <string name="notification_download_canceled">Загрузка отменена</string>
+    <string name="download_non_wifi_prompt">Вы не используете Wi-Fi. Загрузить данные в любом случае?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">Загружено %1$s / %2$s</string>
+    <string name="download_sura_progress">Загружено %1$s / %2$s суры %3$d</string>
+    <string name="process_progress">Обработка файла %1$d / %2$d</string>
+    <string name="download_all">Загрузить Все</string>
+    <string name="all">Все</string>
+    <string name="downloaded">Загрузка завершена</string>
+    <string name="available">Доступно</string>
+    <string name="download_question">Загрузить?</string>
+    <string name="partial_text">" (частично)"</string>
+    <string name="error_general">Ошибка загрузки</string>
+    <string name="error_disk">На диске не достаточно места для загрузки</string>
+    <string name="error_network">Ошибка сети</string>
+    <string name="error_insufficient_permissions">Недостаточно прав</string>
+    <string name="error_invalid_download_retry">Поврежденный файл, попытка повторной загрузки</string>
+    <string name="error_network_retry">Ошибка сети, попытка возобновления&#8230;</string>
+    <string name="error_error_unknown">Неизвестная ошибка</string>
+    <!-- Audio panel -->
+    <string name="play_apply">Применить</string>
+    <string name="previous">Предыдущий</string>
+    <string name="play">Прослушать</string>
+    <string name="pause">Пауза</string>
+    <string name="stop">Стоп</string>
+    <string name="next">Следующий</string>
+    <string name="repeat_range">Повтор выбора:</string>
+    <string name="repeat_each_verse">Повтор аята:</string>
+    <string name="audio_from">от</string>
+    <string name="audio_to">до</string>
+    <string name="downloading_title">Загружается</string>
+    <string name="downloading_message">Подождите, пока все файлы будут загружены (поддерживатеся возобновление загрузки).</string>
+    <string name="processing">Обрабатывается&#8230;</string>
+    <string name="remove_dlg_title">Удалить это?</string>
+    <string name="remove_dlg_msg">Вы уверены, что хотите удалить %1$s?</string>
+    <string name="remove_button">Удалить</string>
+    <!--Tajweed Activity-->
+    <string name="title_activity_tawjeed_rules">Правила таджвида</string>
+    <string name="qalqala_tr">Калькаля (сотрясение)</string>
+    <string name="iqlab_tr">Икляб (ассимиляция)</string>
+    <string name="idgham_tr">Идгам (слияние)</string>
+    <string name="idghamwg_tr">Идгам без гунны</string>
+    <string name="ikhfa_tr">"Ихфа (сокрытие)"</string>
+    <string name="ghunna_tr">Гунна (назализации)</string>
+    <string name="must_stop">Остановка обязательна</string>
+    <string name="_22_times">найдено 22 раз</string>
+    <string name="better_to_stop">Остановка предпочтительна</string>
+    <string name="bettertostp_603_times">найдено 603 раз</string>
+    <string name="pause_at_one">Остановка в одном из указанных мест</string>
+    <string name="_12_times">найдено 12 раз</string>
+    <string name="a_slight_pause">Легкая пауза</string>
+    <string name="_7_times">найдено 7 раз</string>
+    <string name="stop_or_continue">Остановка или продолжение</string>
+    <string name="_1972_times">найдено 1972 раз</string>
+    <string name="better_to_continue">Продолжение предпочтительно</string>
+    <string name="_1682_times">найдено 1682 раз</string>
+    <string name="dont_stop">Остановка запрещена</string>
+    <string name="_68_times">найдено 68 раз</string>
+    <string name="num_times">%1$d раз</string>
+    <string name="num_second">%1$d сек</string>
+    <string name="num_seconds">%1$d сек</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="gunnahtext">Любая نّ или مّ произносится со звуком, выходящим через нос.</string>
+    <string name="ikhfatext">Любая (нун с сукуном) نْ или ً ٍ ٌ (танвин), за которыми следует одна из этих букв ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت произносится с лёгкой назализацией\n\nИЛИ\n\nЛюбая مْ (мим с сукуном), за которой следует буква ب произносится с лёгкой назализацией.</string>
+    <string name="idhghamtext">Любая (нун с сукуном) نْ или ً ٍ ٌ (танвин), за которыми следует одна из этих букв و م ن ي ассимилируется в следующую букву и произносится с гунной\n\nИЛИ\n\nКогда за مْ (мим с сукуном) следует مّ, первая из них ассимилируется во вторую и произносится с гунной.</string>
+    <string name="idhghamwgtext">Любая (нун с сукуном) نْ или ً ٍ ٌ (танвин), за которыми следует ل или ر, ассимилируется в следующую букву, но произносится без гунны.</string>
+    <string name="iqlabtext">Любая (нун с сукуном) نْ или ً ٍ ٌ (танвин), за которой следует буква ب, заменяется буквой م.</string>
+    <string name="qalqalatext">Любая из этих пяти букв د ج ب ط ق в состоянии сукуна ْ &amp;произносится с лёгким призвуком (эхо). Также это происходит в случае, когда одна из этих букв является последней буквой аята.</string>
+    <string name="verb_form_basic">"Форма глагола 1 порода %1$d"</string>
+    <string name="verb_form">"Форма глагола %1$d"</string>
+    <string name="word_by_word_language">Язык пословного перевода</string>
+    <string-array name="parts_of_speech">
+        <item>Предлог винительного падежа</item>
+        <item>Имя прилагательное</item>
+        <!--2-->
+        <item>Частица поправки</item>
+        <item>Частица ответа</item>
+        <item>Частица отрицания</item>
+        <item>Частица выражения причины</item>
+        <item>Частица опеределенности</item>
+        <item>Обстоятельственная частица</item>
+        <item>Частица совместности</item>
+        <item>Частица условия</item>
+        <item>Соединительный союз</item>
+        <!--11-->
+        <item>Указательное местоимение</item>
+        <item>Определитель</item>
+        <item>Префикс \"лям\" для усиления</item>
+        <item>Частица уравнивания</item>
+        <item>Частица исключения</item>
+        <item>Частица пояснения</item>
+        <item>Частица исключения</item>
+        <item>Частица будущего времени</item>
+        <item>Повелительное отглагольное существительное</item>
+        <item>Повелительная частица \"лям\"</item>
+        <item>Частица начинания</item>
+        <item>Отдельные буквы в начале некоторых сур</item>
+        <item>Частица пояснения</item>
+        <item>Вопросительная частица</item>
+        <item>Наречие места</item>
+        <item>Имя существительное</item>
+        <!--26-->
+        <item>Частица отрицания</item>
+        <item>Предлог</item>
+        <item>Имя собственное</item>
+        <item>Частица исключения</item>
+        <item>Частица запрета</item>
+        <item>Личное местоимение</item>
+        <item>Частица цели \"лям\"</item>
+        <item>Относительное местоимение</item>
+        <item>Частица возобновления</item>
+        <item>Частица исключения</item>
+        <item>Частица отказа</item>
+        <item>Частица главноего пердложения внутри сложноподчиненного</item>
+        <item>Частица масдара</item>
+        <item>Дополнительная частица</item>
+        <item>Частица удивления</item>
+        <item>Наречие времени</item>
+        <item>Глагол</item>
+        <!--43-->
+        <item>Частица обращения</item>
+        <item>Судебный глагол</item>
+        <item>"Внимание ! "</item>
+        <item>Расстояние</item>
+        <item>Адрес</item>
+    </string-array>
+    <string name="transliteration_warning_msg">Использование транслитерации для чтения/прописи Корана, не допустимо. Это может привести к ошибочному произношению и к отсутствию стремления изучить правила таджвида.
+дополнительная информация @ https://islamqa.info/en/191497\n\n
+
+Мы должны помнить, что:«Читающий Коран и знающий его наизусть (будет) с благородными и покорными писцами, а тому, кто читает Коран постоянно, испытывая при этом затруднения, (полагается) двойная награда» [Сахих аль-Бухари 4937].\n\n
+Вы можете научиться правильному чтению у шейха / алима / чтеца в вашей местности или на этих сайтах\n
+
+        1. http://www.searchtruth.com/quran_teacher/quran.php\n
+
+        2. http://www.readwithtajweed.com/tajweed_letters.htm\n
+
+Скоро мы удалим транслитерацию, ин шаа Ллах, так как это было нашей ошибкой.
+В качестве альтернативы, если вы хотите проверить свое произношение, скачайте и прослушайте чтение Корана.\n\n
+Пусть Аллах простит нас всех.</string>
+    <string name="agree">Я согласен</string>
+    <string name="transliteration_warning_title">Внимание!!</string>
+    <string name="file_content_invalid">Недопустимое содержимое файла</string>
+    <string name="imported">Успешно импортировано!</string>
+    <string name="mushaf">Мусхаф</string>
+    <string name="click_more">Нажмите чтобы продолжить</string>
+    <string name="sync_online">Синхронизация онлайн</string>
+    <string name="update">Обновление</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="exact_word_match">Точное совпадение слова</string>
+    <!--todo indopak under construction -->
+    <string name="suggestion">Пожелание</string>
+    <string name="comment">Комментарий</string>
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <string name="minutes_left">%1$d минут ·&#160;</string>
+    <string name="minute_left">%1$d минут ·&#160;</string>
+    <string name="less_than_minute">Менее минуты ·&amp;#160</string>
+    <string name="pref_font_size">Размер шрифта</string>
+    <string name="none_text">Пусто</string>
+    <string name="sign_out">Выйти</string>
+    <string name="download_app_needed">Для этого необходимо загрузить приложение</string>
+    <!-- Match results -->
+    <string name="say_in_arabic">Скажите, что-то на арабском</string>
+    <string name="saved_in_download_folder">Резервная копия %1$s сохранена в папке для загрузок!</string>
+    <!--quran planner-->
+    <string name="progress">Прогресс</string>
+    <string name="read">Читать</string>
+    <string name="pages">Страницы</string>
+    <string name="days">Дни</string>
+    <string name="save_progress">Сохранить прогресс</string>
+    <string name="name">Название</string>
+    <string name="number_of_days">Количество дней</string>
+    <string name="juz_description">Джуз %1$d</string>
+    <!--changelog-->
+</resources>

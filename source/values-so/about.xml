@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">Sii share garee si aad ajir uga hesho inshaAllah.</string>
+    <string name="share_app_info">"Ku soo dhawaada somalixisnul "</string>
+    <string name="shareApk">"Somali Xisnul muslim "</string>
+    <string name="sharelink">Link</string>
+    <string name="getapp">Hel quran</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">Rasuulkii Ilaahay [scw] qofkii aan u mahad celin waaya dadka Ilaahyna uma mahad celiyo</string>
+    <string name="ratingtext">Ratingkaaga waa noo muhiim</string>
+    <string name="menu_rate">Rate garee</string>
+    <string name="ratelater">Laga yaabaa xili danbe</string>
+    <string name="ratenothanks">Maya mahadsanid</string>
+    <string name="app_details">Somali quran</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Turjumid</string>
+    <!--more apps -->
+    <string name="devDetails">"Si fiican baad yeeshay. "</string>
+</resources>

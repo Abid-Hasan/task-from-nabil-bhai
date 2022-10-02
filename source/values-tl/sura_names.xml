@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <string-array name="sura_translation">
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pambungad</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Baka</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pamilyang Imran</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Kababaihan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Hapag-Kainan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Bakahan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Tugatog</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Samsam Sa Digmaan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pagsisisi</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Propeta Jonas</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Propeta Hud</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Propeta Jose</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Kulog</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Propeta Abraham</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Malaking Bato</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Bubuyog</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Gabing Paglalakbay</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Yungib</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Mariya</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Mga Titik \'Taa\' at \'Haa\'</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Propeta</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pagdalaw</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Mananampalataya</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Liwanag</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pamantayan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Makata</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Langgam</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Kuwento</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Gagamba</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Romano</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Luqman</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pagtirapa</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Kapisanan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Lungsod Ng Sheba</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Tagapasimula</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Mga Titik \"Ya\" at \"Sin\"</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Sila Na Mga Nakahilera</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Titik \'Saad\'</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Pangkat</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Tagapagpatawad</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ipinaliwanag Sa Detalye</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Sanggunian</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Mga Palamuting Ginto</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Usok</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pagyuko</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Lambak Na Buhangin</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Propeta Muhammad ﷺ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Tagumpay</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Loobang Kuwarto</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Titik \"Qaf\"</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Hanging Nagtatahip</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Bundok</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Bituin</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Buwan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pinakamaawain</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Matinding Pangyayari</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Bakal</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Babaeng Nagsusumamo</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pagpapatapon</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Babaeng Susuriin</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Antas</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Araw Ng Biyernes</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Mapagkunwari</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Maling Akala Sa Isa\'t Isa</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Diborsyo</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pagbabawal</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Kaharian</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Panulat</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Katotohanan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Hagdang Paakyat</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Propeta Noa</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Jinn</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Isang Nakabalot</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Isang Nakabalabal</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Muling Pagkabuhay</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Tao</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Sugo</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pahayag</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Sila Na Kumakaladkad</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Nangunot-noo</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Panlulupig</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pagbibiyak</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pandaraya</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pagkakahati</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Bituin</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Umagang Bituin</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pinakamataas</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Kakila-kilabot</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Bukang Liwayway</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Lungsod</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Init (Araw)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Gabi</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Oras Sa Umaga</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pampalubag-loob</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Igos</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Namuong Dugo</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Kapangyarihan, Ang Tadhana</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Katibayan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Lindol</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Kabayong Pandigma</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Kasamaang-palad</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Paligsahan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Lumulubog Na Araw, Ang Panahon</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Maninirang-puri</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Elepante</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Tribung Quraysh</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Pagbibigay-tulong</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Kasaganaan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Mga Di-mananampalataya</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Banal Na Tulong</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Hibla Ng Palmera</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Kadalisayan</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Madaling Araw</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ang Sangkatauhan</item>
+    </string-array>
+    <string-array name="sura_transliteration">
+        <item>Al-Fatihah</item>
+        <item>Al-Baqarah</item>
+        <item>Ali \'Imran</item>
+        <item>An-Nisa\'</item>
+        <item>Al-Ma\'idah</item>
+        <item>Al-An\'am</item>
+        <item>Al-A\'raf</item>
+        <item>Al-Anfal</item>
+        <item>At-Tawbah</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Ar-Ra\'d</item>
+        <item>Ibrahim</item>
+        <item>Al-Hijr</item>
+        <item>An-Nahl</item>
+        <item>Al-Isra\'</item>
+        <item>Al-Kahf</item>
+        <item>Maryam</item>
+        <item>Ta Ha</item>
+        <item>Al-Anbiya</item>
+        <item>Al-Hajj</item>
+        <item>Al-Mu\'minun</item>
+        <item>An-Nur</item>
+        <item>Al-Furqan</item>
+        <item>Ash-Shu\'ara\'</item>
+        <item>An-Naml</item>
+        <item>Al-Qasas</item>
+        <item>Al-\'Ankabut</item>
+        <item>Ar-Rum</item>
+        <item>Luqman</item>
+        <item>As-Sajdah</item>
+        <item>Al-Ahzab</item>
+        <item>Saba\'</item>
+        <item>Fatir</item>
+        <item>Ya Sin</item>
+        <item>As-Saffat</item>
+        <item>Sad</item>
+        <item>Az-Zumar</item>
+        <item>Ghafir</item>
+        <item>Fussilat</item>
+        <item>Ash-Shura</item>
+        <item>Az-Zukhruf</item>
+        <item>Ad-Dukhan</item>
+        <item>Al-Jathiyah</item>
+        <item>Al-Ahqaf</item>
+        <item>Muhammad</item>
+        <item>Al-Fath</item>
+        <item>Al-Hujurat</item>
+        <item>Qaf</item>
+        <item>Adh-Dhariyat</item>
+        <item>At-Tur</item>
+        <item>An-Najm</item>
+        <item>Al-Qamar</item>
+        <item>Ar-Rahman</item>
+        <item>Al-Waqi\'ah</item>
+        <item>Al-Hadid</item>
+        <item>Al-Mujadilah</item>
+        <item>Al-Hashr</item>
+        <item>Al-Mumtahanah</item>
+        <item>As-Saf</item>
+        <item>Al-Jumu\'ah</item>
+        <item>Al-Munafiqun</item>
+        <item>At-Taghabun</item>
+        <item>At-Talaq</item>
+        <item>At-Tahrim</item>
+        <item>Al-Mulk</item>
+        <item>Al-Qalam</item>
+        <item>Al-Haqqah</item>
+        <item>Al-Ma\'arij</item>
+        <item>Nuh</item>
+        <item>Al-Jinn</item>
+        <item>Al-Muzzammil</item>
+        <item>Al-Muddaththir</item>
+        <item>Al-Qiyamah</item>
+        <item>Al-Insan</item>
+        <item>Al-Mursalat</item>
+        <item>An-Naba\'</item>
+        <item>An-Nazi\'at</item>
+        <item>\'Abasa</item>
+        <item>At-Takwir</item>
+        <item>Al-Infitar</item>
+        <item>Al-Mutaffifin</item>
+        <item>Al-Inshiqaq</item>
+        <item>Al-Buruj</item>
+        <item>At-Tariq</item>
+        <item>Al-A\'la</item>
+        <item>Al-Ghashiyah</item>
+        <item>Al-Fajr</item>
+        <item>Al-Balad</item>
+        <item>Ash-Shams</item>
+        <item>Al-Layl</item>
+        <item>Ad-Duha</item>
+        <item>Ash-Sharh</item>
+        <item>At-Tin</item>
+        <item>Al-\'Alaq</item>
+        <item>Al-Qadr</item>
+        <item>Al-Bayyinah</item>
+        <item>Az-Zalzalah</item>
+        <item>Al-\'Adiyat</item>
+        <item>Al-Qari\'ah</item>
+        <item>At-Takathur</item>
+        <item>Al-\'Asr</item>
+        <item>Al-Humazah</item>
+        <item>Al-Fil</item>
+        <item>Quraish</item>
+        <item>Al-Ma\'un</item>
+        <item>Al-Kawthar</item>
+        <item>Al-Kafirun</item>
+        <item>An-Nasr</item>
+        <item>Al-Masad</item>
+        <item>Al-Ikhlas</item>
+        <item>Al-Falaq</item>
+        <item>An-Nas</item>
+    </string-array>
+</resources>

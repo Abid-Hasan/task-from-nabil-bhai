@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlowLayout">
+        <attr name="horizontalSpacing" format="dimension" />
+        <attr name="verticalSpacing" format="dimension" />
+
+        <attr name="rtl" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="FastTextView">
+        <attr name="android:text" />
+        <attr name="android:gravity" />
+        <attr name="android:ellipsize" />
+        <attr name="android:maxLines" />
+        <attr name="android:textColor" />
+        <attr name="android:textSize" />
+        <attr name="android:lineSpacingExtra" />
+        <attr name="android:lineSpacingMultiplier" />
+    </declare-styleable>
+    <declare-styleable name="FlowLayout_LayoutParams">
+        <attr name="layout_newLine" format="boolean" />
+        <attr name="layout_horizontalSpacing" format="dimension" />
+        <attr name="layout_verticalSpacing" format="dimension" />
+    </declare-styleable>
+
+    <attr name="colorPrimaryLight" format="reference|color" />
+    <attr name="textColorLight" format="reference|color" />
+
+    <declare-styleable name="SegmentedGroup">
+        <attr name="sc_corner_radius" format="dimension" />
+        <attr name="sc_border_width" format="dimension" />
+        <attr name="sc_tint_color" format="color" />
+        <attr name="sc_checked_text_color" format="color" />
+        <attr name="sc_unchecked_tint_color" format="color" />
+    </declare-styleable>
+
+
+    <!-- Range Seekbar -->
+    <declare-styleable name="RangeSeekbar">
+        <attr name="corner_radius" format="integer" />
+        <attr name="min_value" format="integer" />
+        <attr name="max_value" format="integer" />
+        <attr name="min_start_value" format="integer" />
+        <attr name="max_start_value" format="integer" />
+        <attr name="steps" format="integer" />
+        <attr name="gap" format="integer" />
+        <attr name="fix_gap" format="integer" />
+        <attr name="bar_height" format="integer" />
+        <attr name="bar_color_mode" format="integer" />
+        <attr name="bar_color" format="color" />
+        <attr name="bar_gradient_start" format="integer" />
+        <attr name="bar_gradient_end" format="integer" />
+        <attr name="bar_highlight_color_mode" format="integer" />
+        <attr name="bar_highlight_color" format="color" />
+        <attr name="bar_highlight_gradient_start" format="integer" />
+        <attr name="bar_highlight_gradient_end" format="integer" />
+        <attr name="thumb_diameter" format="integer" />
+        <attr name="position" format="integer" />
+        <attr name="data_type" format="integer" />
+        <attr name="text_color" format="color" />
+        <attr name="left_thumb_color" format="color" />
+        <attr name="left_thumb_color_pressed" format="color" />
+        <attr name="left_thumb_image" format="reference" />
+        <attr name="left_thumb_image_pressed" format="reference" />
+        <attr name="right_thumb_color" format="color" />
+        <attr name="right_thumb_color_pressed" format="color" />
+        <attr name="right_thumb_image" format="reference" />
+        <attr name="right_thumb_image_pressed" format="reference" />
+        <attr name="seek_bar_touch_enabled" format="boolean" />
+
+        <attr name="thumb_color" format="color" />
+        <attr name="thumb_color_pressed" format="color" />
+        <attr name="thumb_image" format="reference" />
+        <attr name="thumb_image_pressed" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="RangeSliderWithNumber">
+        <attr name="rsn_min" format="integer" />
+        <attr name="rsn_max" format="integer" />
+        <attr name="rsn_targetColor" format="color" />
+        <attr name="rsn_numberTextColor" format="color" />
+        <attr name="rsn_numberTextSize" format="dimension" />
+        <attr name="rsn_numberMarginBottom" format="dimension" />
+        <attr name="rsn_isShowBubble" format="boolean" />
+        <attr name="rsn_isLineRound" format="boolean" />
+        <attr name="rsn_bubbleResource" format="reference" />
+        <attr name="rsn_circleFocusBitmap" format="reference" />
+        <attr name="rsn_insideRangeLineColor" format="color" />
+        <attr name="rsn_outsideRangeLineColor" format="color" />
+        <attr name="rsn_insideRangeLineStrokeWidth" format="dimension" />
+        <attr name="rsn_outsideRangeLineStrokeWidth" format="dimension" />
+        <attr name="rsn_isShowRuler" format="boolean" />
+        <attr name="rsn_rulerTextColor" format="color" />
+        <attr name="rsn_rulerColor" format="color" />
+        <attr name="rsn_rulerMarginTop" format="dimension" />
+        <attr name="rsn_rulerAndTextMargin" format="dimension" />
+        <attr name="rsn_rulerTextSize" format="dimension" />
+        <attr name="rsn_rulerInterval">
+            <enum name="ten" value="10" />
+            <enum name="twenty" value="20" />
+            <enum name="forty" value="40" />
+            <enum name="fifty" value="50" />
+            <enum name="hundred" value="100" />
+        </attr>
+
+    </declare-styleable>
+
+    <declare-styleable name="DownloadButtonProgress">
+        <attr name="state" format="enum">
+            <enum name="IDLE" value="1" />
+            <enum name="INDETERMINATE" value="2" />
+            <enum name="DETERMINATE" value="3" />
+            <enum name="FINISHED" value="4" />
+        </attr>
+        <attr name="cancelable" format="boolean" />
+        <attr name="hideOnFinish" format="boolean" />
+        <attr name="progressIndeterminateSweepAngle" format="integer" />
+
+        <attr name="idleBackgroundColor" format="color" />
+        <attr name="finishBackgroundColor" format="color" />
+        <attr name="indeterminateBackgroundColor" format="color" />
+        <attr name="determinateBackgroundColor" format="color" />
+
+        <attr name="idleBackgroundDrawable" format="reference" />
+        <attr name="finishBackgroundDrawable" format="reference" />
+        <attr name="indeterminateBackgroundDrawable" format="reference" />
+        <attr name="determinateBackgroundDrawable" format="reference" />
+
+        <attr name="aprogress" format="integer" />
+        <attr name="maxProgress" format="integer" />
+        <attr name="progressWidth" format="dimension" />
+        <attr name="progressMargin" format="dimension" />
+        <attr name="progressDeterminateColor" format="color" />
+        <attr name="progressIndeterminateColor" format="color" />
+
+        <attr name="idleIconDrawable" format="reference" />
+        <attr name="idleIconWidth" format="dimension" />
+        <attr name="idleIconHeight" format="dimension" />
+
+        <attr name="cancelIconDrawable" format="reference" />
+        <attr name="cancelIconWidth" format="dimension" />
+        <attr name="cancelIconHeight" format="dimension" />
+
+        <attr name="finishIconDrawable" format="reference" />
+        <attr name="finishIconWidth" format="dimension" />
+        <attr name="finishIconHeight" format="dimension" />
+    </declare-styleable>
+</resources>

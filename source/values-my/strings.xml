@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Quran</string>
+    <!-- CommonOperations -->
+    <string name="cancel">Batal</string>
+    <string name="ayah_copied_popup">Ayat telah disalin</string>
+    <!--Search-->
+    <!-- Viewer Activity -->
+    <!-- sura metainfo -->
+    <string name="makki">Makkiyah</string>
+    <string name="madani">Madaniyah</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">Membatalkan&#8230;</string>
+    <string name="timing_database">Fail yang Diperlukan</string>
+    <string name="quran_sura">Surah</string>
+    <string name="quran_page">Halaman</string>
+    <string name="quran_juz2">Juz\'</string>
+    <string name="juz2_description">"Juz' %1$d%2$s"</string>
+    <string name="page_description">"Halaman %1$d"</string>
+    <!-- Bookmark -->
+    <!--menu-->
+    <string name="menu_bookmarks">Penanda</string>
+    <string name="menu_jump">Capaian cepat</string>
+    <string name="menu_settings">Tetapan</string>
+    <string name="menu_search">Cari</string>
+    <!--Options-->
+    <!--Tutorials-->
+    <!--Tutorial overlay-->
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Muat Turun Berjaya</string>
+    <string name="download_processing">Proses Muat Turun&#8230;</string>
+    <string name="notification_download_canceled">Muat turun dibatalkan</string>
+    <string name="download_non_wifi_prompt">Anda tidak berada pada jaringan wifi. Teruskan juga muat turun data?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">Muat turun %1$s / %2$s</string>
+    <string name="process_progress">Memproses fail %1$d / %2$d</string>
+    <string name="error_general">Muat turun gagal</string>
+    <string name="error_disk">Tidak cukup ruangan untuk memuat turun</string>
+    <string name="error_network">Tidak dapat memuat turun kerana ralat jaringan</string>
+    <string name="error_insufficient_permissions">Tidak dapat memuat turun kerana ralat keizinan pada peranti</string>
+    <string name="error_invalid_download_retry">Fail dimuat turun tidak lengkap, mencuba untuk muat turun semula</string>
+    <string name="error_network_retry">Ralat jaringan, mencuba semula&#8230;</string>
+    <!-- Audio panel -->
+    <string name="downloading_title">Sedang memuat turun&#8230;</string>
+    <string name="downloading_message">Sila tunggu fail dimuat turun. (Boleh menyambung semula)</string>
+    <string name="processing">Sedang Proses&#8230;</string>
+    <string name="remove_dlg_title">Hapus Terjemahan?</string>
+    <string name="remove_dlg_msg">Apakah anda yakin ingin menghapuskan %1$s?</string>
+    <string name="remove_button">Hapus</string>
+    <!--Tajweed Activity-->
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <!--todo indopak under construction -->
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <!-- Match results -->
+    <!--quran planner-->
+    <!--changelog-->
+</resources>

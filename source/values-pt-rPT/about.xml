@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">Compartilhar aplicativo</string>
+    <string name="share_app_info">Al Qur´an (Tafsir &amp; by Word) é uma ferramenta   de estudo para todos, ela também fornece Ayat por Ayat com a recitação em áudio com a função de repetição, Tafseer Ibn Kathir, Tajweed Colorido com Regras de Recitação, análise de palavra por palavra, diversas traduções, marcadores personalizados, possibilidade de fazer busca em diversas traduções simultaneamente, temas múltiplos, fontes personalizáveis e muito mais.
+
+Obtenha-o agora na Play Store:
+https://gtaf.org/apps/quran \n\n#GreentechApps</string>
+    <string name="shareApk">Compartilhar Arquivo Apk</string>
+    <string name="sharelink">Compartilhar Link</string>
+    <string name="getapp">Obter Al Quran (Tafsir &amp; by Word) App:</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">Rasullullah (sallaallahu aleihi wa assalam) disse: \"Aquele que não agradece as pessoas, não agradece a Allah\" \n[Abu Dawud 4811] \n\nTire uns minutos para classificar-nos e dar-nos sua opinião e sugestões para que continuemos a fazer boas obras.</string>
+    <string name="ratingtext">PARA NÓS A SUA CLASSIFICAÇÃO SIGNIFICA MUITO</string>
+    <string name="menu_rate">Classificar agora!</string>
+    <string name="ratelater">Talvez mais tarde</string>
+    <string name="ratenothanks">Não obrigada</string>
+    <string name="app_details">Alhamdulillah. Al Quran (Tafsir &amp; by Word) é um Qur´an Ferramenta de Estudo que permite que você desfrute: 
+\n 
+\n • English Tafsir Ibn Kathir com fonte Árabe
+\n • Colorido com Regras de Recitação 
+ \"Tajweed\" similar ao iQuran (Para androids Kitkat e acima) 
+\n • Tradução Otimizada Palavra por Palavra, Gramatical, Palavra Raíz e palavras derivadas juntamente com os Detalhes das Formas Verbais.
+\n • Marcados/Favoritos separados por categorias definidas pelo usuário
+\n • Índice do Qur´an 
+\n • Adicionar Notas de forma rápida 
+\n • Marcados/Importar Notas/Exportar de forma online, recursos do arquivo
+\n • Um poderoso mecanismo de pesquisa de texto completo com destaque
+\n • Sistema de áudio robusto com repetição, repetição de Ayats em grupo para-lhe ajudar na memorização
+\n • Diversas fontes, recurso que lhe permite aumentar e diminuir Zoom e Múltiplos Temas para você escolher
+\n • Recurso de Rolagem Automática 
+\n • Diferentes Traduções do Qur´an Visíveis  de forma Simultânea: Bengali, Mandarim, Inglês, Francês, Hindi, Alemão, Indonésio, Italiano, Malaio, Russo, Espanhol, Urdu e muito mais
+\n • Diversas Recitações em áudio disponíveis para Downloads recitações de Ayat por Ayat recitação que (suporta recitação contínua/ sem intervalos) incluindo Mishary Al-Afasy, Husari (Muallim) 
+
+\n\nAgradecimentos: 
+\n • Grafian.com pelos códigos iniciais. 
+\n • Quran.com pelo seu servidor de banco de e pelo mecanismo de áudio. 
+\n • Quran Tafsir Pro App pelo tafsir ibn Kathir e pela coleção de manuscritos. 
+\n • Guidedverses.com pelo comentário de Khan &amp; Hilali. 
+\n • Quranindex.info pelo banco de dados de Índice do Qur\'an . 
+\n • Academy of Quran Studies/Understand Quran \"Academia de Estudos do Qur\'an/ Entendimento do Qur\'an pelo banco de dados De Formas Verbais. 
+\n • E Aos muitos outros irmãos e irmãs que vem ajudando no projeto. Que Allah abençoe todos eles
+
+
+\n\n\nAviso Legal: 
+\nNenhuma tradução do Qur\'an pode ser cem por cento precisa, nem pode ser usada como uma substituição do texto original do Qur\'an. Tentamos fornecer aqui um conjunto de traduções do Qur\'an mais aceitáveis, mas não podemos garantir sua exatidão e / ou precisão. Por favor, use-os a seu critério.</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Ajude-nos a Traduzir</string>
+    <string name="contribute_title">Forme parte de Sadaqa Jariah</string>
+    <string name="contribute_text">GreenTech Apps preenche a necessidade de aplicativos islâmicos modernos, belos e inovadores para você.\n\n
+Os aplicativos não contêm anúncios e são totalmente gratuitos. \n\n
+Para que possamos contribuir mais para a Ummah com novos aplicativos e mais recursos, nossa equipe precisa de doações regulares para que possamos continuar fazendo melhorias.
+Esta é a sua chance de fazer a diferença, beneficiar a Ummah e compartilhar as recompensas.</string>
+    <string name="contribute_button">Eu quero contribuir</string>
+    <!--more apps -->
+    <string name="devDetails">Criatividade, Simplicidade, Excelência In shaa Allah</string>
+</resources>

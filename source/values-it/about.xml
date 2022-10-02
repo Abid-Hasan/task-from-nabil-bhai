@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">Condividi l\'App</string>
+    <string name="share_app_info">Al Quran (Tafsir &amp; by Word) è uno strumento per lo studio del Quran accessibile a tutti. Offre molteplici opzioni: riproduzione audio verso per verso con diverse funzioni di ripetizione, spiegazione e commento (Tafsir) di Ibn Kathir, regole di recitazione (Tajweed) codificate a colori, analisi e traduzione parola per parola, segnapagina e preferiti personalizzabili, funzione di ricerca, molteplici traduzioni simultanee, ampia scelta di temi e font e molto altro ancora.
+\nOttienilo adesso da Google Play Store: https://gtaf.org/apps/quran \n\n#GreentechApps</string>
+    <string name="shareApk">Condividi file Apk</string>
+    <string name="sharelink">Condividi Link</string>
+    <string name="getapp">Ottieni l\'App Quran</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">ll Messaggero di Allah (pbsl) disse: \"Colui che non ringrazia le persone, non ringrazia Allah\"\n[Abu Dawud 4811]\n\nConcediti qualche minuto per darci una valutazione e ispirarci a compiere più buone azioni!</string>
+    <string name="ratingtext">LA TUA VALUTAZIONE SIGNIFICA TANTO PER NOI</string>
+    <string name="menu_rate">Valutalo!</string>
+    <string name="ratelater">Forse dopo</string>
+    <string name="ratenothanks">No grazie</string>
+    <string name="app_details">Alhamdulillah. Al Quran (Tafsir &amp; by Word) è uno strumento per lo studio del Quran che ti permette di usufruire di molteplici funzioni:
+\n
+\n • Tafsir di Ibn Kathir in Inglese con Arabo incluso
+\n • Tajweed codificato a colori simile a iQuran (per versioni Android Kitkat e superiori)
+\n • Traduzione Parola per Parola, Interpretazione, Dettagli sulla Grammatica, sulle Radici e sulle Forme verbali
+\n • Segnapagina/Preferiti divisi in categorie scelte dall\'utente
+\n •  indice del Quran
+\n • Possibilità di scrivere note
+\n • Funzione importa/esporta Segnapagina/Note online e da/verso file
+\n • Una esaustiva funzione di ricerca a tutto testo con evidenziatori
+\n • Un sistema audio molto efficiente con funzione di ripetizione versi singoli e in gruppo per aiutare la memorizzazione
+\n • Molteplici Temi, caratteri e modalità pinch-zoom
+\n • Funzione scorrimento automatico
+\n • Diverse traduzioni del Quran consultabili simultaneamente: Bengali, Cinese, Inglese, Francese, Hindi, Tedesco,  Indonesiano, Italiano, Malese, Russo, Spagnolo, Urdu e altre ancora
+\n • Molteplici recitazioni scaricabili per l\'apprendimento verso per verso (supporta anche la recitazione senza interruzione/continua), inclusi Mishary Al-Afasy e Husari (versione insegnante)
+
+\n\nRingraziamenti:
+\n • Grafian.com per i codici iniziali
+\n • Quran.com per il server database e sistema Audio
+\n • Quran Tafsir Pro App per il Tafsir di Ibn Kathir e il Corpus
+\n • Guidedverses.com per il commento di Khan &amp; Hilali
+\n • Accademy of Quran Studies/Understand Quran per il database delle forme verbali
+\n • QuranWBW.com per il database parola per parola della lingua Hindi e le risorse per la versione indopakistana
+\n • Al Huda International (https://www.alhudapk.com/products/hindi-section.html) per i dati sulla lingua Hindi parola per parola
+\n • Molti altri fratelli e sorelle che hanno aiutato nel progetto. Che Allah li benedica tutti
+
+
+\n\n\nDisclaimer:
+\n Nessuna traduzione del Quran può essere accurata al cento per cento, né può sostituire il testo originale del Quran. Abbiamo cercato di inserire le traduzioni più accreditate, ma non possiamo garantire rispetto alla loro autenticità  e/o accuratezza. Il loro utilizzo, pertanto, è a tua discrezione.</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Aiutaci a tradurre</string>
+    <string name="contribute_title">Diventa parte della Sadaqa Jariah</string>
+    <string name="contribute_short">Contribuisci</string>
+    <string name="contribute_text">GreenTech Apps sviluppa applicazioni islamiche belle, innovative e moderne, adatte alle tue esigenze.
+\n\n
+Le applicazioni non contengono annunci e sono completamente gratuite.\n\n
+Al fine di contribuire di più per la Ummah con nuove app e funzionalità, il nostro team ha bisogno di fondi regolari per andare avanti.\n\n
+Questa è la tua opportunità per fare la differenza! Aiuta la Ummah e condividi la ricompensa.</string>
+    <string name="contribute_button">Vorrei contribuire</string>
+    <!--more apps -->
+    <string name="devDetails">Creatività, Semplicità, Eccellenza, in sha Allah</string>
+</resources>

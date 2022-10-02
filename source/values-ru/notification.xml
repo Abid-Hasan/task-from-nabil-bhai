@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Аят дня</item>
+        <item>Сегодняшний аят</item>
+        <item>Желаете прочитать аят?</item>
+        <item>Выучите аят сегодня</item>
+        <item>В день по аяту</item>
+        <item>Хотите узнать аят?</item>
+        <item>Давайте изучим аят</item>
+        <item>Аят на сегодня</item>
+        <item>Вы читали аят сегодня?</item>
+        <item>Нажмите, чтобы прочитать аят</item>
+        <item>Обращение Аллаха</item>
+        <item>Откройте сердце Аллаху сегодня</item>
+        <item>Вы обращались к Аллаху сегодня?</item>
+        <item>Давайте обратимся к Аллаху</item>
+        <item>Ты поминал Аллаха сегодня?</item>
+        <item>Ты восхвалял Аллаха сегодня?</item>
+        <item>Не забывайте об Аллахе</item>
+        <item>Пища для души</item>
+        <item>Настало время освежить мысли</item>
+        <item>Поминай Аллаха</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Узнайте из Корана</item>
+        <item>Что Коран говорит об этом</item>
+        <item>Что Аллах говорит об этом</item>
+        <item>Аят про это</item>
+        <item>Суры про это</item>
+        <item>Интересная тема в Коране</item>
+        <item>Тема на сегодня</item>
+        <item>Посмотрите в Коране</item>
+        <item>Изучите в Коране</item>
+    </string-array>
+</resources>

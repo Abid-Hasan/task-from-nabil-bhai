@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Ayah sa araw na ito</item>
+        <item>Ayah ngayong araw</item>
+        <item>May panahon ka ba na bumasa ng isang Ayah?</item>
+        <item>Matuto ng isang Ayah sa araw na ito</item>
+        <item>Araw-araw na Ayah</item>
+        <item>Gusto mo bang malaman ang isang Ayah?</item>
+        <item>Mag-aral tayo ng isang Ayah</item>
+        <item>Ayah para sa araw na ito</item>
+        <item>Bumasa ka ba ng isang Ayah ngayong araw?</item>
+        <item>I-klik upang bumasa ng isang Ayah</item>
+        <item>Ano ang sinasabi ng Allah sa iyo?</item>
+        <item>Hayaang kausapin ka ni Allah ngayong araw</item>
+        <item>Nakipag-usap ka ba kay Allah ngayong araw?</item>
+        <item>Makipag-usap tayo kay Allah</item>
+        <item>Naalala mo ba si Allah ngayong araw?</item>
+        <item>Linuwalhati mo ba si Allah ngayong araw?</item>
+        <item>Alalahanin natin si Allah</item>
+        <item>Pagkain para sa kaluluwa</item>
+        <item>Oras upang panariwain ang aking isip</item>
+        <item>Alalahanin ang iyong Panginoon</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Gusto mo bang malaman ang tungkol [sa isang bagay] mula sa Quran?</item>
+        <item>Ano ang sinasabi ng Quran tungkol sa</item>
+        <item>Ano ang sinasabi ng Allah tungkol sa</item>
+        <item>Tungkol sa mga Ayah</item>
+        <item>Mga taludtod tungkol sa</item>
+        <item>Kawili-wiling paksa sa Quran</item>
+        <item>Paksa ngayong araw</item>
+        <item>Tingnan ito mula sa Quran</item>
+        <item>Pag-aralan ito mula sa Quran</item>
+    </string-array>
+</resources>

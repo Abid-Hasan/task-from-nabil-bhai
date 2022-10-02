@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <string-array name="sura_translation">
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الفاتحة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة البقرة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة آل عمران</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة النساء</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة المائدة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الأنعام</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الأعراف</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الأنفال</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة التوبة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة يونس</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة هود</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة يوسف</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الرعد</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة إبراهيم</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الحجر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة النحل</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الإسراء</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الكهف</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة مريم</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة طه</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الأنبياء</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الحج</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة المؤمنون</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة النّور</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الفرقان</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الشعراء</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة النّمل</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة القصص</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة العنكبوت</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الرّوم</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة لقمان</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة السجدة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الأحزاب</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة سبأ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة فاطر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة يس</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الصافات</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة ص</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الزمر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة غافر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة فصّلت</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الشورى</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الزخرف</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الدّخان</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الجاثية</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الأحقاف</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة محمد</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الفتح</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الحجرات</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة ق</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الذاريات</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الطور</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة النجم</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة القمر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الرحمن</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الواقعة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الحديد</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة المجادلة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الحشر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الممتحنة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الصف</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الجمعة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة المنافقون</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة التغابن</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الطلاق</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة التحريم</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الملك</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة القلم</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الحاقة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة المعارج</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة نوح</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الجن</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة المزّمّل</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة المدّثر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة القيامة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الإنسان</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة المرسلات</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة النبأ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة النازعات</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة عبس</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة التكوير</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الإنفطار</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة المطفّفين</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الإنشقاق</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة البروج</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الطارق</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الأعلى</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الغاشية</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الفجر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة البلد</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الشمس</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الليل</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الضحى</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الشرح</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة التين</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة العلق</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة القدر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة البينة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الزلزلة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة العاديات</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة القارعة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة التكاثر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة العصر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الهمزة</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الفيل</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة قريش</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الماعون</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الكوثر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الكافرون</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة النصر</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة المسد</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الإخلاص</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة الفلق</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>سورة النّاس</item>
+    </string-array>
+    <string-array name="sura_transliteration">
+        <item>سورة الفاتحة</item>
+        <item>سورة البقرة</item>
+        <item>سورة آل عمران</item>
+        <item>سورة النساء</item>
+        <item>سورة المائدة</item>
+        <item>سورة الأنعام</item>
+        <item>بەرزایی</item>
+        <item>ئەنفال</item>
+        <item>پەشیمانی</item>
+        <item>یونس</item>
+        <item>هود</item>
+        <item>یوسف</item>
+        <item>هەورە بروسکە</item>
+        <item>ئیبراهیم</item>
+        <item>بەردەڵان</item>
+        <item>هەنگ</item>
+        <item>گەشتی شەو</item>
+        <item>ئەشکەوت</item>
+        <item>مەریەم</item>
+        <item>تەها</item>
+        <item>پێغەمبەران</item>
+        <item>حەج</item>
+        <item>باوەڕدارن</item>
+        <item>ڕووناکی</item>
+        <item>پێوانە</item>
+        <item>شاعیر</item>
+        <item>مێروولە</item>
+        <item>چیرۆک</item>
+        <item>جاڵجاڵۆکە</item>
+        <item>ڕۆم</item>
+        <item>لوقمان</item>
+        <item>سوژدە</item>
+        <item>تیرە</item>
+        <item>شەبا</item>
+        <item>داهێنەر</item>
+        <item>یاسین</item>
+        <item>پلەداران</item>
+        <item>ساد</item>
+        <item>قەرەباڵغ</item>
+        <item>لێخۆشبوو</item>
+        <item>سورة فصّلت</item>
+        <item>سورة الشورى</item>
+        <item>سورة الزخرف</item>
+        <item>سورة الدّخان</item>
+        <item>سورة الجاثية</item>
+        <item>سورة  الأحقاف</item>
+        <item>سورة محمد</item>
+        <item>سورة الفتح</item>
+        <item>سورة الحجرات</item>
+        <item>سورة ق</item>
+        <item>سورة الذاريات</item>
+        <item>سورة الطور</item>
+        <item>سورة النجم</item>
+        <item>سورة القمر</item>
+        <item>سورة الرحمن</item>
+        <item>سورة الواقعة</item>
+        <item>سورة الحديد</item>
+        <item>سورة المجادلة</item>
+        <item>سورة الحشر</item>
+        <item>سورة الممتحنة</item>
+        <item>سورة الصف</item>
+        <item>سورة الجمعة</item>
+        <item>سورة المنافقون</item>
+        <item>سورة التغابن</item>
+        <item>سورة الطلاق</item>
+        <item>سورة التحريم</item>
+        <item>سورة الملك</item>
+        <item>سورة القلم</item>
+        <item>سورة الحاقة</item>
+        <item>سورة المعارج</item>
+        <item>سورة نوح</item>
+        <item>سورة الجن</item>
+        <item>سورة المزّمّل</item>
+        <item>سورة المدّثر</item>
+        <item>سورة القيامة</item>
+        <item>سورة الإنسان</item>
+        <item>سورة المرسلات</item>
+        <item>سورة النبأ</item>
+        <item>سورة النازعات</item>
+        <item>سورة عبس</item>
+        <item>سورة التكوير</item>
+        <item>سورة الإنفطار</item>
+        <item>سورة المطفّفين</item>
+        <item>سورة الإنشقاق</item>
+        <item>سورة البروج</item>
+        <item>سورة الطارق</item>
+        <item>سورة الأعلى</item>
+        <item>سورة الغاشية</item>
+        <item>سورة الفجر</item>
+        <item>سورة البلد</item>
+        <item>خۆر</item>
+        <item>سورة الیل</item>
+        <item>چێشتەنگاو</item>
+        <item>سورة الشرح</item>
+        <item>سورة التین</item>
+        <item>سورة العلق</item>
+        <item>سورة القدر</item>
+        <item>سورة البینة</item>
+        <item>سورة الزلزلة</item>
+        <item>سورة العاديات</item>
+        <item>سورة القارعة</item>
+        <item>سورة التکاثر</item>
+        <item>سورة العصر</item>
+        <item>سورة الهمزة</item>
+        <item>سورة الفیل</item>
+        <item>سورة قریش</item>
+        <item>سورة الماعون</item>
+        <item>سورة الكوثر</item>
+        <item>سورة الكافرون</item>
+        <item>سورة النصر</item>
+        <item>سورة المسد</item>
+        <item>سورة الإخلاص</item>
+        <item>سورة الفلق</item>
+        <item>سورة النّاس</item>
+    </string-array>
+</resources>

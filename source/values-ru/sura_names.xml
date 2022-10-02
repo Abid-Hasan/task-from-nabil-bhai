@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <string-array name="sura_translation">
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Открывающая Книгу</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Корова</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Семейство Имрана</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Женщины</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Трапеза</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Скот</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Преграды</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Трофеи</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Покаяние</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Йунус</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Худ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Йусуф</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Гром</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ибрахим</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ал-Хиджр</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Пчёлы</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ночной перенос</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Пещера</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Марьям</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Та Ха</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Пророки</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Паломничество</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Верующие</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Свет</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Различение</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Поэты</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Муравьи</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Повествование</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Паук</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Римляне</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Лукман</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Земной поклон</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Сонмы</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Саба</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Творец</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Йа Син</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Выстроившиеся в ряды</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Сад</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Толпы</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Прощающий</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Разъяснены</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Совет</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Украшения</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Дым</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Коленопреклонённые</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Пески</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Мухаммад</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Победа</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Покои</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Каф</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Рассеивающие</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Гора</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Звезда</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Луна</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Милостивый</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Событие</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Железо</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Препирательство</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Сбор</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Испытуемая</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ряды</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Собрание</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Лицемеры</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Взаимный обман</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Развод</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Запрещение</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Власть</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Письменная трость</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Неминуемое</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ступени</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Нух</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Джинны</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Закутавшийся</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Завернувшийся</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Воскресение</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Человек</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Посылаемые</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Весть</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Вырывающие</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Нахмурился</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Скручивание</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Раскалывание</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Обвешивающие</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Разверзнется</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Созвездия зодиака</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Идущий ночью</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Высочайший</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Покрывающее</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Заря</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Город</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Солнце</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ночь</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Утро</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Раскрытие</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Смоковница</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Сгусток</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Предопределение</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ясное знамение</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Землетрясение</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Скачущие</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Поражающее</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Страсть к приумножению</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Предвечернее время</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Хулитель</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Слон</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Курайшиты</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Подаяние</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Изобилие</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Неверные</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Помощь</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Пальмовые волокна</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Искренность</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Рассвет</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Люди</item>
+    </string-array>
+    <string-array name="sura_transliteration">
+        <item>Аль-Фатиха</item>
+        <item>Аль-Бакара</item>
+        <item>Аль Имран</item>
+        <item>Ан-Ниса</item>
+        <item>Аль-Ма\'ида</item>
+        <item>Аль-Ан\'ам</item>
+        <item>Аль-А\'раф</item>
+        <item>Аль-Анфаль</item>
+        <item>Ат-Тауба</item>
+        <item>Йунус</item>
+        <item>Худ</item>
+        <item>Йусуф</item>
+        <item>Ар-Ра\'д</item>
+        <item>Ибрахим</item>
+        <item>Аль-Хиджр</item>
+        <item>Ан-Нахль</item>
+        <item>Аль-Исра\'</item>
+        <item>Аль-Кахф</item>
+        <item>Марйам</item>
+        <item>Та Ха</item>
+        <item>Аль-Анбийа\'</item>
+        <item>Аль-Хадж</item>
+        <item>Аль-Му\'минун</item>
+        <item>Ан-Нур</item>
+        <item>Аль-Фуркан</item>
+        <item>Аш-Шу\'ара\'</item>
+        <item>Ан-Намль</item>
+        <item>Аль-Касас</item>
+        <item>Аль-А\'нкабут</item>
+        <item>Ар-Рум</item>
+        <item>Лукман</item>
+        <item>Ас-Саджда</item>
+        <item>Аль-Ахзаб</item>
+        <item>Саба\'</item>
+        <item>Фатыр</item>
+        <item>Йа Син</item>
+        <item>Ас-Саффат</item>
+        <item>Сад</item>
+        <item>Аз-Зумар</item>
+        <item>Гафир</item>
+        <item>Фуссилят</item>
+        <item>Аш-Шура</item>
+        <item>Аз-Зухруф</item>
+        <item>Ад-Духан</item>
+        <item>Аль-Джасийа</item>
+        <item>Аль-Ахкаф</item>
+        <item>Мухаммад</item>
+        <item>Аль-Фатх</item>
+        <item>Аль-Худжурат</item>
+        <item>Каф</item>
+        <item>Аз-Зарийат</item>
+        <item>Ат-Тур</item>
+        <item>Ан-Наджм</item>
+        <item>Аль-Камар</item>
+        <item>Ар-Рахман</item>
+        <item>Аль-Ваки\'а</item>
+        <item>Аль-Хадид</item>
+        <item>Аль-Муджадила</item>
+        <item>Аль-Хашр</item>
+        <item>Аль-Мумтахана</item>
+        <item>Ас-Сафф</item>
+        <item>Аль-Джуму\'а</item>
+        <item>Аль-Мунафикун</item>
+        <item>Ат-Тагабун</item>
+        <item>Ат-Талак</item>
+        <item>Ат-Тахрим</item>
+        <item>Аль-Мульк</item>
+        <item>Аль-Калам</item>
+        <item>Аль-Хакка</item>
+        <item>Аль-Ма\'аридж</item>
+        <item>Нух</item>
+        <item>Аль-Джинн</item>
+        <item>Аль-Муззаммиль</item>
+        <item>Аль-Мудассир</item>
+        <item>Аль-Кийама</item>
+        <item>Аль-Инсан</item>
+        <item>Аль-Мурсалят</item>
+        <item>Ан-Наба\'</item>
+        <item>Ан-Нази\'ат</item>
+        <item>Абаса</item>
+        <item>Ат-Таквир</item>
+        <item>Аль-Инфитар</item>
+        <item>Аль-Мутаффифин</item>
+        <item>Аль-Иншикак</item>
+        <item>Аль-Бурудж</item>
+        <item>Ат-Тарик</item>
+        <item>Аль-А\'ла</item>
+        <item>Аль-Гашийа</item>
+        <item>Аль-Фаджр</item>
+        <item>Аль-Балад</item>
+        <item>Аш-Шамс</item>
+        <item>Аль-Лейл</item>
+        <item>Ад-Духа</item>
+        <item>Аш-Шарх</item>
+        <item>Ат-Тин</item>
+        <item>Аль-Алак</item>
+        <item>Аль-Кадр</item>
+        <item>Аль-Баййина</item>
+        <item>Аз-Залзала</item>
+        <item>Аль-Адийат</item>
+        <item>Аль-Кари\'а</item>
+        <item>Ат-Такасур</item>
+        <item>Аль-Аср</item>
+        <item>Аль-Хумаза</item>
+        <item>Аль-Филь</item>
+        <item>Курайш</item>
+        <item>Аль-Ма\'ун</item>
+        <item>Аль-Каусар</item>
+        <item>Аль-Кафирун</item>
+        <item>Ан-Наср</item>
+        <item>Аль-Масад</item>
+        <item>Аль-Ихлас</item>
+        <item>Аль-Фалак</item>
+        <item>Ан-Нас</item>
+    </string-array>
+</resources>

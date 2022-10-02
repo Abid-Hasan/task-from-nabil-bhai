@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Ayah ya siku</item>
+        <item>Ayah ya leo</item>
+        <item>Unajali kusoma Ayah?</item>
+        <item>Jifunze Ayah leo</item>
+        <item>Ayah ya kila siku</item>
+        <item>Wataka kujua Ayah</item>
+        <item>Tujifunze Ayah moja</item>
+        <item>Ayah ya leo</item>
+        <item>Soma Ayah leo</item>
+        <item>Bonyeza usome Ayah</item>
+        <item>Allah anakwambia nini?</item>
+        <item>Hebu Allah ane nene nawe leo</item>
+        <item>Ume nena na Allah leo?</item>
+        <item>Wacha tu nene na Allah leo</item>
+        <item>Nje umemkumbuka Allah leo?</item>
+        <item>Umemsifu Allah leo</item>
+        <item>Wacha tumkumbuke Allah</item>
+        <item>Chakula ya nafsi</item>
+        <item>Ni wakati wa kuisafisha akili yangu upya</item>
+        <item>Kumbuka mola wako</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Wataka kujua kotaka kwa koran?</item>
+        <item>Koran yasema nini kuhusu</item>
+        <item>Ni nini Allah anasema kuhusu</item>
+        <item>Ayah kuhusu</item>
+        <item>Surah kuhusu</item>
+        <item>Mswanda unaovutia katika koran</item>
+        <item>Mswada wa leo</item>
+        <item>Angalia kutoka kwa koran</item>
+        <item>Fahamu hili kutoka kwa koran</item>
+    </string-array>
+</resources>

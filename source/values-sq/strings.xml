@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Al Quran (Tefsir &amp; fjalë për fjalë)</string>
+    <!-- CommonOperations -->
+    <string name="save">Ruaje</string>
+    <string name="delete">Fshije</string>
+    <string name="close">Dil</string>
+    <string name="cancel">Anulo</string>
+    <string name="ok">Në rregull</string>
+    <string name="share_image">Imazh (Foto e ekranit)</string>
+    <string name="share_text">Tekst</string>
+    <string name="multiple_ayahs">Shumë Ajete</string>
+    <string name="ayah_copied_popup">Ajeti u Kopjua</string>
+    <string name="stringshotshare">Shpërndaje Foton e ekranit</string>
+    <string name="popup_open_in_sura_view">Pamje e Sures</string>
+    <string name="popup_tafsir_ibn_kathir">Pamje Tefsir/Shënime</string>
+    <string name="popup_play_this_ayah">Dëgjo këtë Ajet</string>
+    <!--Search-->
+    <string name="searchTitle">Kërko duke përdorur Frazat</string>
+    <string name="searchhelptext">Shembuj:
+
+ \n\nPërdor Numrin e Sures:Numër Ajeti të kalosh direkt tek një ajet</string>
+    <string name="noWordTyped">Asgjë s\'është shkruar</string>
+    <string name="search_in_all_collections">Kërko në: Të gjitha Koleksionet</string>
+    <string name="search_in">"Kërko në: %1$s"</string>
+    <string name="filter_hint">shkruaj të filtrosh</string>
+    <string name="search_result">"\"%1$s\" u gjet %2$d herë"</string>
+    <string name="search_result_root">"Rrënja %1$s u gjet %2$d herë"</string>
+    <string name="searching">"Në kërkim… %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">Rrënja</string>
+    <string name="lemma">Fjala/E prejardhur</string>
+    <string name="click_root_search_quran">Kliko në rrënjët ose segmentet për të kërkuar në Kuran</string>
+    <string-array name="verb_form_names">
+        <item>Koha e Kryer</item>
+        <item>Koha e pakryer</item>
+        <item>Urdhërore</item>
+        <item>Pjesëz aktive</item>
+        <item>Pjesëz pasive</item>
+        <item>Formë Emërore</item>
+    </string-array>
+    <string name="writenote">Shkruaj një Shënim</string>
+    <string name="choose_translations">Zgjidh Përkthimet</string>
+    <string name="auto_scroll">Kaloji rreshtat automatikisht</string>
+    <string name="jump_sura">KALO tek Surja</string>
+    <string name="jump_tafsir">KALO tek Tefsiri</string>
+    <!-- sura metainfo -->
+    <string name="makki">Mekase</string>
+    <string name="madani">Medinase</string>
+    <string name="surah_location">"Periudha: "</string>
+    <string name="sura_num_ayahs">"Ajetet: "</string>
+    <string name="sura_ruku_num">"Rukus: "</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">Duke anuluar&#8230;</string>
+    <string name="timing_database">Skedarë të kërkuar</string>
+    <string name="quran_sura">Surja</string>
+    <string name="quran_ayah">Ajeti</string>
+    <string name="quran_page">Faqja</string>
+    <string name="quran_hizb">Hizbi</string>
+    <string name="quran_juz2">Xhuzi</string>
+    <string name="juz2_description">"Xhuzi %1$d%2$s"</string>
+    <string name="juzpage_description">" : Faqja %1$d"</string>
+    <string name="page_description">"Faqja %1$d"</string>
+    <string name="hizb_description">"Xhuzi %1$d%2$s"</string>
+    <string name="permission_save_in_sdcard">Duhet leje që të ruhen të dhënat në SD Card</string>
+    <string name="permission_save_in_sdcard_unable">Nuk mund të ruhen të dhënat në Memorie</string>
+    <string name="note_saved">Shënimi u ruajt</string>
+    <string name="topics_verses_index">Temat që lidhen me këtë Ajet</string>
+    <!-- Bookmark -->
+    <string name="create_new">Krijo E Re&#8230;</string>
+    <string name="create_add">Krijo &amp; Shto</string>
+    <string name="bookmark_result">"\'%1$s\' u gjet %2$d herë"</string>
+    <string name="bookmark_last_read">Ajeti që u lexua i fundit</string>
+    <!--menu-->
+    <string name="menu_share">Shpërndaje</string>
+    <string name="menu_quran_index">Indeksi Kuranit</string>
+    <string name="menu_quran_dictionary">Fjalori</string>
+    <string name="menu_quran_planner">Planifikuesi</string>
+    <string name="menu_report">Raporti</string>
+    <string name="menu_copy">Kopjoje</string>
+    <string name="menu_bookmarks">Faqeruajtësit</string>
+    <string name="add_bookmarks">Shto Faqeruajtës</string>
+    <string name="menu_jump">Kalo tek Ajeti</string>
+    <string name="menu_settings">Përshtatjet</string>
+    <string name="menu_search">Kërko</string>
+    <string name="menu_notes">Shënime</string>
+    <string name="menu_day_ayah">Ajeti i sotëm</string>
+    <!--Options-->
+    <string name="pref_apperance">Paraqitja</string>
+    <string name="pref_settings_choose_language">Gjuha</string>
+    <string name="pref_theme">Sfondi</string>
+    <string name="pref_show_translation">Trego Përkthimin</string>
+    <string name="pref_translations">Përkthimet</string>
+    <string name="pref_translation">Përkthimi</string>
+    <string name="pref_translation_font_size">Madhësia e shkrimit në përkthim</string>
+    <string name="pref_arabic">Arabisht</string>
+    <string name="pref_arabic_font_size">Madhësia e shkrimit Arabisht</string>
+    <string name="pref_showarabic">Trego në Arabisht</string>
+    <string name="pref_arabic_font">Shkrimi Arabisht</string>
+    <string name="pref_showwordbyword">Fjalë për Fjalë</string>
+    <string name="pref_showtajweed">Texhvid</string>
+    <string name="pref_mushaftype">Lloji Mus\'haf</string>
+    <string name="pref_arabicfont">Arabisht</string>
+    <string name="pref_rtl">Pamja nga e Djathta në të Majtë</string>
+    <string name="pref_keepscreenon">Mbaje Ekranin Ndezur</string>
+    <string name="pref_fixed_bars">Shirit në krye dhe në fund të faqes të fiksuar</string>
+    <string name="pref_audio_manager">Administrim Zërash</string>
+    <string name="pref_audio_manager_summary">Menaxhoni dhe shkarkoni Recitimet kuranore</string>
+    <string name="notification_time">Koha e Njoftimit</string>
+    <string name="notification_time_details">Paradite dhe Pasdite</string>
+    <string name="notification">Njoftim</string>
+    <string name="morning">ParaDite</string>
+    <string name="evening">PasDite</string>
+    <string name="pref_notification_switch">Njoftim ditor</string>
+    <string name="pref_clearsearch">Pastro Historinë e Kërkimit</string>
+    <string name="searchistoryremoved">Historia e kërkimit është hequr</string>
+    <string name="pref_tajweedrules">Rregullat e Texhvidit</string>
+    <string name="pref_tajweed_summary">Shenjat e Ndalimit, Rregullat e shqiptimit me Texhvid</string>
+    <string-array name="mushaf_names">
+        <item>Uthmani/Madinase</item>
+        <item>Gjuhë IndoPak Aziatike (Beta)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>Ngjyrë e Bardhë</item>
+        <item>E Zezë (Natën)</item>
+        <item>Ngjyrë Jeshile</item>
+        <item>Ngjyrë Kafe</item>
+        <item>Dark Blue (Night)</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">TJETËR</string>
+    <string name="done_tut">E KUPTOVA</string>
+    <!--Tutorial overlay-->
+    <string name="share_ayah_title">Shpërndaje Ajetin</string>
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Shkarkimi i suksesshëm</string>
+    <string name="download_processing">Përpunimi i Shkarkimit&#8230;</string>
+    <string name="notification_download_canceled">Shkarkimi anullohet</string>
+    <string name="download_non_wifi_prompt">Ti nuk jeni në Wi-Fi. Do të shkarkosh të dhënat gjithsesi?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">U shkarkua %1$s / %2$s</string>
+    <string name="download_sura_progress">U shkarkua %1$s / %2$s të Sures %3$d</string>
+    <string name="process_progress">Përpunimi i Skedës %1$d / %2$d</string>
+    <string name="download_all">Shkarko të Gjitha</string>
+    <string name="all">Të Gjitha</string>
+    <string name="downloaded">U shkarkua</string>
+    <string name="available">I Mundshëm</string>
+    <string name="download_question">Do shkarkosh?</string>
+    <string name="partial_text">" (pjesërisht)"</string>
+    <string name="error_general">Shkarkimi dështoi</string>
+    <string name="error_disk">Nuk mjafton hapësira në celular</string>
+    <string name="error_network">Gabim Rrjeti</string>
+    <string name="error_insufficient_permissions">Lejime të pamjaftueshme</string>
+    <string name="error_invalid_download_retry">Skedë e pasaktë, po e rishkarkojmë</string>
+    <string name="error_network_retry">Gabim Rrjeti, nisim nga fillimi&#8230;</string>
+    <string name="error_error_unknown">Gabim i Panjohur</string>
+    <!-- Audio panel -->
+    <string name="play_apply">Apliko</string>
+    <string name="previous">Para kësaj</string>
+    <string name="play">Luaj</string>
+    <string name="pause">Pusho</string>
+    <string name="stop">Ndalo</string>
+    <string name="next">Pas kësaj</string>
+    <string name="repeat_range">Përsërite zgjedhjen:</string>
+    <string name="repeat_each_verse">Përsërite vargun:</string>
+    <string name="audio_from">nga</string>
+    <string name="audio_to">deri</string>
+    <string name="downloading_title">Duke shkarkuar</string>
+    <string name="downloading_message">Ju lutemi prisni që skedat të shkarkohen (ofrohet Rifillimi).</string>
+    <string name="processing">Në përpunim&#8230;</string>
+    <string name="remove_dlg_title">Ta fshij këtë?</string>
+    <string name="remove_dlg_msg">Do që ta fshish \"%1$s\"?</string>
+    <string name="remove_dlg_note_msg">Dëshiron të fshish shënimin për %1$s?</string>
+    <string name="remove_button">Fshije</string>
+    <!--Tajweed Activity-->
+    <string name="title_activity_tawjeed_rules">Rregullat e Texhvidit</string>
+    <string name="qalqala_tr">Qalqala (Jehonë)</string>
+    <string name="iqlab_tr">Iqlab (Asimilim/Ndërrim)</string>
+    <string name="idgham_tr">Idgham (Përjashtim/Bashkim)</string>
+    <string name="idghamwg_tr">Idgham pa Ghunna</string>
+    <string name="ikhfa_tr">"Ikhfa\'a (Dobësim/Fshehje)"</string>
+    <string name="ghunna_tr">Ghunna (Hundëzimi)</string>
+    <string name="must_stop">Duhet të ndalosh</string>
+    <string name="_22_times">gjendet 22 herë</string>
+    <string name="better_to_stop">Më mirë të ndalosh</string>
+    <string name="bettertostp_603_times">gjendet 603 herë</string>
+    <string name="pause_at_one">Pusho në njërën</string>
+    <string name="_12_times">gjendet 12 herë</string>
+    <string name="a_slight_pause">Një pauzë e lehtë</string>
+    <string name="_7_times">gjendet 7 herë</string>
+    <string name="stop_or_continue">Ndalo ose Vazhdo</string>
+    <string name="_1972_times">gjendet 1972 herë</string>
+    <string name="better_to_continue">Më mirë të vazhdosh</string>
+    <string name="_1682_times">gjendet 1682 herë</string>
+    <string name="dont_stop">Mos ndalo</string>
+    <string name="_68_times">gjendet 68 herë</string>
+    <string name="num_times">%1$d herë</string>
+    <string name="num_second">%1$d sek.</string>
+    <string name="num_seconds">%1$d sek.</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="gunnahtext">Çdo نّ ose مّ do të ketë tingullin që buron nga hunda.</string>
+    <string name="ikhfatext">Çdo نْ ose ً ٍ ٌ  e ndjekur nga njëra prej gërmave ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت do të shqiptohet me tingull të lehtë hundor\n\nOSE\n\n Kur gërma ب vjen pas مْ ajo do të shqiptohet me një tingull të lehtë hundor nga hunda.</string>
+    <string name="idhghamtext">Çdo نْ ose me ً ٍ ٌ  e pasuar nga njëra prej këtyre gërmave و م ن ي do të asimilohet në gërmën vijuese dhe do të lexohet me Ghunna \n\nOR\n\n Kur një مْ pasohet nga مّ, i pari do të përfshihet në kjo e fundit dhe do të lexohet me Ghunna.</string>
+    <string name="idhghamwgtext">Çdo نْ ose me ً ٍ ٌ  e pasuar nga njëra prej këtyre gërmave ل ose ر do të asimilohet në gërmën vijuese, por Ghunna nuk do të shqiptohet.</string>
+    <string name="iqlabtext">Çdo نْ ose me ً ٍ ٌ  e pasuar nga njëra prej këtyre gërmave ب do të ndryshojë në një م.</string>
+    <string name="qalqalatext">Secila nga këto pesë gërma د ج ب ط ق kur haset me një Sukun ْ &amp; ose si gërma e fundit të ajetit duhet të recitohet me tingull të lehtë jehone ose pa marrë frymë.</string>
+    <string name="verb_form_basic">"Formë foljore 1 Lakimi %1$d"</string>
+    <string name="verb_form">"Formë foljore %1$d"</string>
+    <string name="word_by_word_language">Gjuha Fjalë pas Fjale</string>
+    <string-array name="parts_of_speech">
+        <item>Pjesëz kallzuese</item>
+        <item>Mbiemër</item>
+        <!--2-->
+        <item>Ndryshesë</item>
+        <item>Pjesëz pohore</item>
+        <item>Pjesëz mospëlqimi</item>
+        <item>Pjesëz shkakore</item>
+        <item>Pjesëz saktësimi</item>
+        <item>Pjesëz rrethanore</item>
+        <item>Pjesëz shoqërimi</item>
+        <item>Pjesëz kushtore</item>
+        <item>Pjesëz bashkërenduese</item>
+        <!--11-->
+        <item>Përemri dëftor</item>
+        <item>Përcaktor</item>
+        <item>Parafjalë shquese \"ل\"</item>
+        <item>Pjesëz barasvlefshmërie</item>
+        <item>Pjesëz nxitëse</item>
+        <item>Pjesëz shpjeguese</item>
+        <item>Pjesëz përjashtuese</item>
+        <item>Pjesëz pritëse</item>
+        <item>Emri foljor urdhëror</item>
+        <item>Parafjalë urdhërore \"ل\"</item>
+        <item>Pjesëz nistore</item>
+        <item>Inicialet kuranore</item>
+        <item>Pjesëz e shpjegimit</item>
+        <item>Pjesëz pyetëse</item>
+        <item>Ndajfolja vendi</item>
+        <item>Emër</item>
+        <!--26-->
+        <item>Pjesëz mohuese</item>
+        <item>Parafjalë</item>
+        <item>Emër i përveçëm</item>
+        <item>Pjesëz parandaluese</item>
+        <item>Pjesëz ndalimi</item>
+        <item>Përemri vetor</item>
+        <item>Parafjalë qëllimoore \"ل\"</item>
+        <item>Përemri lidhor</item>
+        <item>Pjesëz rinisëse</item>
+        <item>Pjesëz kufizuese</item>
+        <item>Pjesëz tërheqse</item>
+        <item>Pjesëz pasive</item>
+        <item>Lidhëz nënrenditëse</item>
+        <item>Pjesëz plotësuese</item>
+        <item>Pjesëz habitore</item>
+        <item>Ndajfolje kohe</item>
+        <item>Folje</item>
+        <!--43-->
+        <item>Pjesëz thirrore</item>
+        <item>Folje emërore</item>
+        <item>Kujdes</item>
+        <item>Distancë</item>
+        <item>Adresa</item>
+    </string-array>
+    <string name="transliteration_warning_msg">Gërmëzimi (leximi /shkrimi) i Kuranit me gërmat e një gjuhe tjetër nga arabishtja nuk është mënyra e duhur, sepse sjell shqiptimin gabim të tekstit dhe e prapëson ta mësojë Texhvidin e duhur.
+
+Kontrolloni për më shumë @ https://islamqa.info/en/191497 \n\n
+
+Ne duhet t\'ju kujtojmë se Allahu (xh.sh.) do të na japë shpërblim të dyfishtë për përpjekjen për të mësuar recitimin e duhur në dashtë Allahu [Bukhari 4937].\n\n
+
+Mund të mësoni nga një Mësues /Recitues /Dijetar i zonës tuaj, e cila parapëlqehet nëse është e mundur.\n
+
+Nëse nuk është e mundur, mund të provoni të mësoni nga këto faqe:\n
+
+1. http://www.iou-gqmc.com/tajweed-programs/ \n
+
+2. http://www.searchtruth.com/quran_teacher/quran.php \n
+
+Përndryshe, ju mund të shkarkoni recitimin nga Imam Ayman Suwaid /Imam Minshawi /Imam Husary nga aplikacioni ynë, dhe dëgjoni recitimet e tyre në rast se doni të kontrolloni shqiptimin.
+
+Gjithashtu ju mund të mësoni nga recitimet e tyre, se si të recitoni siç duhet me Texhvid në dashtë Allahu. 
+
+Ne mund ta heqim këtë gërmëzim në të ardhmen në dashtë Allahu, pasi është edhe gabimi ynë. \n
+
+Allahu na e lehtësoftë për të gjithë ne dhe na faltë për të metat tona.</string>
+    <string name="agree">Jam dakord</string>
+    <string name="transliteration_warning_title">Paralajmërim!!</string>
+    <string name="file_content_invalid">Përmbajtja e pavlefshme e skedes</string>
+    <string name="imported">Importuar me sukses!</string>
+    <string name="mushaf">Mu\'shaf</string>
+    <string name="click_more">Klikoni për më shumë</string>
+    <string name="sync_online">Përditëso Online</string>
+    <string name="update">Përditëso</string>
+    <string name="add_note">Shto Shënim</string>
+    <string name="exact_word_match">Hasja e saktë e Fjalës</string>
+    <!--todo indopak under construction -->
+    <string name="suggestion">Këshillë</string>
+    <string name="comment">Koment</string>
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <string name="minutes_left">%1$d minuta</string>
+    <string name="minute_left">%1$d minutë</string>
+    <string name="less_than_minute">Më pak se një minutë</string>
+    <string name="pref_font_size">Përmasa e gërmave</string>
+    <string name="none_text">Asnjë</string>
+    <string name="sign_out">Dalje</string>
+    <string name="download_app_needed">Nevojitet shkarkimi i aplikacionit</string>
+    <!-- Match results -->
+    <string name="say_in_arabic">Thuaj diçka në arabisht</string>
+    <string name="saved_in_download_folder">Në dosjen e shkarkimit, Rikthimi u ruajt %1$s !</string>
+    <string name="new_version_available">Një Version i ri është gati</string>
+    <string name="please_update_to_new_version">Ju lutemi përditëso aplikacionin në versionin e ri për të vazhduar përdorimin</string>
+    <string name="skip">Kapërceje</string>
+    <string name="action_undo">ZHBËJ</string>
+    <!--quran planner-->
+    <string name="khatmah_on_track">Në vijim</string>
+    <string name="khatmah_session_ahead">%1$d seanca përpara</string>
+    <string name="khatmah_session_behind">%1$d seanca pas</string>
+    <string name="khatmah_in_end_days">(në %1$d ditë)</string>
+    <string name="khatmah_complete">Ju ia arritët kësaj. Urime!</string>
+    <string name="cannot_be_empty">Nuk mund të jetë bosh</string>
+    <string name="current_session">Sesioni aktual</string>
+    <string name="complete">Plotësuar</string>
+    <string name="all_session">Gjithë Sesioni</string>
+    <string name="progress">Ecuria</string>
+    <string name="read">Lexo</string>
+    <string name="pages">Faqet</string>
+    <string name="days">Ditë</string>
+    <string name="save_progress">Ruaje ecurinë</string>
+    <string name="currently_at">Aktualisht në</string>
+    <string name="add_planner">Bëj një Plan</string>
+    <string name="name">Emri</string>
+    <string name="number_of_days">Numri i Ditëve</string>
+    <!--changelog-->
+    <string name="changelog_title">Ç\'të reja ka?</string>
+    <string name="changelog_ok_button">Në rregull</string>
+    <string name="changelog_show_full">Më shumë ...</string>
+    <string name="changelog_full_title">Ndrysho Log</string>
+    <string name="view">Pamje</string>
+    <string name="font">Lloji Shkrimit</string>
+    <string name="content">Përmbajtje</string>
+    <string name="tafsir">Komentim</string>
+    <string name="quick_links">Lidhjet e Shpejta</string>
+    <string name="text_ayatul_kursi">Ajeti Kursij</string>
+    <string name="juz_description">Xhuzi %1$d</string>
+</resources>

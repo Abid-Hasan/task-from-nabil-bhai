@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>दिन की अायत</item>
+        <item>आज की अायत</item>
+        <item>आज एक अायत सिखें</item>
+        <item>दैनिक अायत</item>
+        <item>एक अयत जानना चाहते हैं?</item>
+        <item>चलो एक अायत सीखें</item>
+        <item>आज के लिए अायत</item>
+        <item>अायत पढ़ने के लिए दबायें</item>
+        <item>अल्लाह आपको क्या कह रहा है?</item>
+        <item>अल्लाह आज आपसे बात करते हैं</item>
+        <item>आज अल्लाह के साथ बात की?</item>
+        <item>चलो अल्लाह के साथ बात करते हैं</item>
+        <item>आज अल्लाह को याद किया?</item>
+        <item>आज अल्लाह की स्तुति की?</item>
+        <item>चलो, अल्लाह को याद करें</item>
+        <item>आत्मा के लिए भोजन</item>
+        <item>मेरे दिमाग को ताज़ा करने का समय</item>
+        <item>अपने अल्लाह को याद रखें</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>कुरान से जानना चाहते हैं</item>
+        <item>कुरान ईस के बारे में क्या कहता है</item>
+        <item>अल्लाह इसके बारे में क्या कहता है</item>
+        <item>के बारे में आयत</item>
+        <item>के बारे में अायत</item>
+        <item>कुरान में दिलचस्प विषय</item>
+        <item>आज का विषय</item>
+        <item>कुरान दृष्टिकोण से इसे देखें</item>
+        <item>कुरान से यह सीखो</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Ayat do Dia</item>
+        <item>Ayat de Hoje</item>
+        <item>Que tal ler um Ayat?</item>
+        <item>Aprender um Ayat Hoje</item>
+        <item>Ayat Diário</item>
+        <item>Quer entender um Ayat?</item>
+        <item>Vamos aprender um Ayat</item>
+        <item>Ayat de Hoje</item>
+        <item>Ler um Ayat Hoje?</item>
+        <item>Clique para ler um Ayat</item>
+        <item>O que Allah está a lhe dizer?</item>
+        <item>Deixe que Allah fale com você hoje</item>
+        <item>Você já falou com Allah hoje?</item>
+        <item>Vamos falar com Allah</item>
+        <item>Recordaste a Allah hoje?</item>
+        <item>Louvaste a Allah hoje?</item>
+        <item>Recordemos a Allah!</item>
+        <item>Alimento para a alma</item>
+        <item>Momento para refrescar a memória</item>
+        <item>Recorde-se do seu Senhor</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Quer saber sobre o Qur\'an</item>
+        <item>O que o Qur\'an dizer sobre</item>
+        <item>O que Allah diz sobre</item>
+        <item>Ayats sobre</item>
+        <item>Ayats sobre</item>
+        <item>Tópico Interessante no Qur´an</item>
+        <item>Tópico de Hoje</item>
+        <item>Confira Isto no Qur´an</item>
+        <item>Aprender isso do Qur´an</item>
+    </string-array>
+</resources>

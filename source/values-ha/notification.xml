@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Ayar yau</item>
+        <item>Ayar yau</item>
+        <item>Ko kana sha\'awar karanta Aya daya?</item>
+        <item>Koyi Aya daya a rana</item>
+        <item>Ayar kullun</item>
+        <item>Kana so ka san Aya daya?</item>
+        <item>Mu koyi Aya daya</item>
+        <item>Aya don Yau</item>
+        <item>Karanta aya daya yau</item>
+        <item>Danna don karanta Aya daya</item>
+        <item>Menene Allaah ke fada maka?</item>
+        <item>Bari Allaah Ya yi magana da kai ayau</item>
+        <item>Yi magana da Allaah yau</item>
+        <item>Mu yi magana da Allaah</item>
+        <item>Tuna da Allaah yau</item>
+        <item>Shin ka yabi Allaah kuwa yau?</item>
+        <item>Mu tuna Allaah</item>
+        <item>Abincin ruhi</item>
+        <item>Tuna da Ubangijin ka</item>
+    </string-array>
+</resources>

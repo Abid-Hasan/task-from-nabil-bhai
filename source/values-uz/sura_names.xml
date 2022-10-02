@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <string-array name="sura_translation">
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Fotiha</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Baqara</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Oli Imron</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Niso</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Moida</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Anʼom</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Aʼrof</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Anfol</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Tavba</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Yunus</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Hud</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Yusuf</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Raʼd</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ibdohim</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Xijr</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Nahl</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Isro</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Kahf</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Maryam</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Toxo</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Anbiyo</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Haj</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Moʻminun</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Nur</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Furqon</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Shuaro</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Naml</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Qasos</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ankabut</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Rum</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Luqmon</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Sajda</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ahzob</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Sabaʼ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Fotir</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Yosin</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>As-Saffot</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Sod</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Zumar</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Gʻofir</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Fussilat</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Shuro</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Zuhruf</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Duxon</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Josiya</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ahqof</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Muhammad</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Fath</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Hujurot</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Qof</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Zariyat</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Tur</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Najm</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Qamar</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Rahmon</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Voqea</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Hadid</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Mujodala</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Xashr</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Mumtahana</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Saf</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Juma</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Munofiqun</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Tagʻobun</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Taloq</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Tahrim</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Mulk</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Qalam</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Haaqqah</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Maʼorij</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Nuh</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Jin</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Muzzammil</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Muddassir</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Qiyomat</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Inson</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Mursalat</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Naba</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Naziyat</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Abasa</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Takvir</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Infitor</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Mutaffifun</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Inshiqoq</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Buruj</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Toriq</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Aʼlo</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Gʻoshiya</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Fajr</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Balad</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Shams</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Layl</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Zuho</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Sharh</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Tiyn</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Alaq</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Qadr</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Bayyina</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Zalzala</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Оdiyot</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Qoriʼa</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Takasur</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Asr</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Humaza</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Fil</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Quraysh</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Moʼun</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Kavsar</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Kofirun</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Nasr</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Masad</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Ixlos</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Falaq</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Nos</item>
+    </string-array>
+    <string-array name="sura_transliteration">
+        <item>Fotiha</item>
+        <item>Baqara</item>
+        <item>Oli Imron</item>
+        <item>Niso</item>
+        <item>Moida</item>
+        <item>An\'om</item>
+        <item>A\'rof</item>
+        <item>Anfol</item>
+        <item>Tavba</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Ra\'d</item>
+        <item>Ibrohim</item>
+        <item>Hijr</item>
+        <item>Nahl</item>
+        <item>Isro</item>
+        <item>Kahf</item>
+        <item>Maryam</item>
+        <item>Toho</item>
+        <item>Anbiyo</item>
+        <item>Haj</item>
+        <item>Mu\'minun</item>
+        <item>Nur</item>
+        <item>Furqon</item>
+        <item>Shuaro</item>
+        <item>Naml</item>
+        <item>Qasas</item>
+        <item>Ankabut</item>
+        <item>Rum</item>
+        <item>Luqmon</item>
+        <item>Sajda</item>
+        <item>Ahzob</item>
+        <item>Saba\'</item>
+        <item>Fotir</item>
+        <item>Yosin</item>
+        <item>Soffot</item>
+        <item>Sod</item>
+        <item>Zumar</item>
+        <item>G\'ofir</item>
+        <item>Fussilat</item>
+        <item>Sho\'ro</item>
+        <item>Zuxruf</item>
+        <item>Duxon</item>
+        <item>Josiya</item>
+        <item>Ahqof</item>
+        <item>Muhammad</item>
+        <item>Fath</item>
+        <item>Hujurot</item>
+        <item>Qof</item>
+        <item>Zoriyot</item>
+        <item>Tur</item>
+        <item>Najm</item>
+        <item>Qamar</item>
+        <item>Ar-Rahmon</item>
+        <item>Voqea</item>
+        <item>Hadid</item>
+        <item>Mujodala</item>
+        <item>Hashr</item>
+        <item>Mumtahana</item>
+        <item>Saf</item>
+        <item>Jum\'a</item>
+        <item>Munofiqun</item>
+        <item>Tag\'obun</item>
+        <item>Taloq</item>
+        <item>Tahrim</item>
+        <item>Mulk</item>
+        <item>Qalam</item>
+        <item>Hoqqa</item>
+        <item>Maorij</item>
+        <item>Nuh</item>
+        <item>Jin</item>
+        <item>Muzzammil</item>
+        <item>Muddassir</item>
+        <item>Qiyomat</item>
+        <item>Inson</item>
+        <item>Mursalot</item>
+        <item>Naba\'</item>
+        <item>Noziot</item>
+        <item>Abasa</item>
+        <item>Takvir</item>
+        <item>Infitor</item>
+        <item>Mutaffifun</item>
+        <item>Inshiqoq</item>
+        <item>Buruj</item>
+        <item>Toriq</item>
+        <item>A\'lo</item>
+        <item>G\'oshiya</item>
+        <item>Fajr</item>
+        <item>Balad</item>
+        <item>Shams</item>
+        <item>Layl</item>
+        <item>Zuho</item>
+        <item>Sharh</item>
+        <item>Tin</item>
+        <item>Alaq</item>
+        <item>Qadr</item>
+        <item>Bayyina</item>
+        <item>Zalzala</item>
+        <item>Odiyot</item>
+        <item>Qoria</item>
+        <item>Takosur</item>
+        <item>Asr</item>
+        <item>Humaza</item>
+        <item>Fil</item>
+        <item>Quraysh</item>
+        <item>Mo\'un</item>
+        <item>Kavsar</item>
+        <item>Kofirun</item>
+        <item>Nasr</item>
+        <item>Masad</item>
+        <item>Ixlos</item>
+        <item>Falaq</item>
+        <item>Nos</item>
+    </string-array>
+</resources>

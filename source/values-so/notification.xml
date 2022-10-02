@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Aayada maanta</item>
+        <item>Ayada maanta</item>
+        <item>Maad akhrinaysaa ayad?</item>
+        <item>Baro ayada maanta</item>
+        <item>Maalinkasta aayad</item>
+        <item>Ma rabtaa in aad barato aayad</item>
+        <item>Aanu barano ayad</item>
+        <item>Ayad maanta</item>
+        <item>Akhri aayad maanta</item>
+        <item>Riix ayad</item>
+        <item>Ilaahay muxuu ku sheegayaa?</item>
+        <item>U ogalow in uu Ilaahay kula hadlo maanta</item>
+        <item>Ilaahay lahadal  maanta</item>
+        <item>Ilaahay aan lahadalno</item>
+        <item>Xasuuso Ilaahay maanta?</item>
+        <item>"U tasbiixso Ilaahay maanta "</item>
+        <item>Aanu Ilaahay xasuusano</item>
+        <item>Quudka nafta</item>
+        <item>Waa wakhtigii la cusboonaysii maskada</item>
+        <item>Xasuuso Rabigaaga</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Ma rabtaa in aad wax ka ogaato Quranka</item>
+        <item>Muxuu quranku ka yidhi</item>
+        <item>Muxuu Ilaahay ka yidhi</item>
+        <item>Aayadu waxay ku saabsan tahay</item>
+        <item>Ayaduhu waxay ku saabsan yihiin</item>
+        <item>Waa mawduuc  cajiib ah oo ku yaala Quran</item>
+        <item>"Mawduuca maanta "</item>
+        <item>Fiiri tan Quranka ka yimid</item>
+        <item>Ka baro tan quraana</item>
+    </string-array>
+</resources>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Al Quran</string>
+    <!-- CommonOperations -->
+    <string name="save">I-save</string>
+    <string name="delete">Burahin</string>
+    <string name="close">Isara</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="ok">OK</string>
+    <string name="share_image">Larawan (Eskrenshat)</string>
+    <string name="share_text">Teksto</string>
+    <string name="multiple_ayahs">Maraming Mga Ayah</string>
+    <string name="ayah_copied_popup">Nakopya na ang Ayah</string>
+    <string name="stringshotshare">Ibahagi ang larawan</string>
+    <string name="popup_open_in_sura_view">Tanawing Surah</string>
+    <string name="popup_tafsir_ibn_kathir">Tanawing Tafsir/Tala</string>
+    <string name="popup_play_this_ayah">I-play itong Ayah</string>
+    <!--Search-->
+    <string name="searchTitle">Maghanap</string>
+    <string name="searchhelptext">Mga halimbawa:
+
+ \n\nGamitin ang bilang ng Surah:bilang ng Ayah upang madaling mahanap ang Ayah</string>
+    <string name="noWordTyped">Walang nakasulat</string>
+    <string name="search_in_all_collections">Maghanap sa: Lahat ng Koleksyon</string>
+    <string name="search_in">"Maghanap sa: %1$s"</string>
+    <string name="filter_hint">i-type upang salain</string>
+    <string name="search_result">"%1$s ay natagpuan %2$d beses"</string>
+    <string name="search_result_root">"Ugat %1$s ay natagpuan ng %2$d beses"</string>
+    <string name="searching">"Naghahanap… %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">Ugat</string>
+    <string name="lemma">Lemma/Deribatibo</string>
+    <string name="click_root_search_quran">I-klik ang ugat o mga sangay upang maghanap sa Quran</string>
+    <string-array name="verb_form_names">
+        <item>Perpektong Panahunan</item>
+        <item>Imperpektong Panahunan</item>
+        <item>Pautos</item>
+        <item>Aktibong Pandiwari</item>
+        <item>Pasibong Pandiwari</item>
+        <item>Anyong Pangngalan</item>
+    </string-array>
+    <string name="writenote">Magtala</string>
+    <string name="choose_translations">Pumili ng salinwika</string>
+    <string name="auto_scroll">Awto-eskrol</string>
+    <string name="jump_sura">Pumunta sa Surah</string>
+    <string name="jump_tafsir">Pumunta sa Tafsir</string>
+    <!-- sura metainfo -->
+    <string name="makki">Makki</string>
+    <string name="madani">Madani</string>
+    <string name="surah_location">"Lugar: "</string>
+    <string name="sura_num_ayahs">"Mga Ayah: "</string>
+    <string name="sura_ruku_num">"Mga Ruku: "</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">Kinakansela&#8230;</string>
+    <string name="timing_database">Kinakailangang mga file</string>
+    <string name="quran_sura">Surah</string>
+    <string name="quran_ayah">Ayah</string>
+    <string name="quran_page">Safhah</string>
+    <string name="quran_hizb">Hizb</string>
+    <string name="quran_juz2">Juz</string>
+    <string name="juz2_description">"Bahagi %1$d%2$s"</string>
+    <string name="juzpage_description">" : Pahina %1$d"</string>
+    <string name="page_description">"Pahina %1$d"</string>
+    <string name="page_number">"Pahina bilang"</string>
+    <string name="hizb_description">"Bahagi %1$d%2$s"</string>
+    <string name="permission_save_in_sdcard">Kailangan ng permisyon na i-save ang data sa SD kard</string>
+    <string name="permission_save_in_sdcard_unable">Hindi mai-save ang data sa imbakan</string>
+    <string name="note_saved">Nai-save na ang tala</string>
+    <string name="topics_verses_index">Mga paksang kaugnay nitong Ayah</string>
+    <!-- Bookmark -->
+    <string name="create_new">Gumawa ng bago&#8230;</string>
+    <string name="create_add">Gumawa at Idagdag</string>
+    <string name="bookmark_result">"\'%1$s\' ay natagpuan ng %2$d beses"</string>
+    <string name="bookmark_last_read">Huling Binasa</string>
+    <!--menu-->
+    <string name="menu_share">Ibahagi</string>
+    <string name="menu_quran_index">Quran Indeks</string>
+    <string name="menu_quran_dictionary">Diksyonaryo</string>
+    <string name="menu_quran_planner">Tagaplano</string>
+    <string name="menu_report">I-report</string>
+    <string name="menu_copy">Kopyahin</string>
+    <string name="menu_bookmarks">Mga bukmark</string>
+    <string name="add_bookmarks">Idagdag ang bukmark</string>
+    <string name="menu_jump">Lumukso sa Ayah</string>
+    <string name="menu_settings">Mga setting</string>
+    <string name="menu_search">Maghanap</string>
+    <string name="menu_notes">Mga tala</string>
+    <string name="menu_day_ayah">Ayah ng araw</string>
+    <!--Options-->
+    <string name="pref_apperance">Hitsura</string>
+    <string name="pref_settings_choose_language">Wika</string>
+    <string name="pref_theme">Tema</string>
+    <string name="pref_show_translation">Ipakita ang salinwika</string>
+    <string name="pref_translations">Mga salinwika</string>
+    <string name="pref_translation">Pagsasalin-wika</string>
+    <string name="pref_translation_font_size">Laki ng font ng salinwika</string>
+    <string name="pref_arabic">Arabik</string>
+    <string name="pref_arabic_font_size">Laki ng font ng Arabik</string>
+    <string name="pref_showarabic">Ipakita ang Arabik</string>
+    <string name="pref_arabic_font">Font ng Arabik</string>
+    <string name="pref_showwordbyword">Kataga sa Kataga</string>
+    <string name="pref_showtajweed">Tajweed</string>
+    <string name="pref_mushaftype">Uri ng Mushaf</string>
+    <string name="pref_arabicfont">Arabik</string>
+    <string name="pref_rtl">Tanawing kanan pakaliwa</string>
+    <string name="pref_keepscreenon">Panatilihin ang eskren</string>
+    <string name="pref_fixed_bars">Nakapirming bar sa taas, baba at nabigasyon</string>
+    <string name="pref_audio_manager">Awdyo Manedyer</string>
+    <string name="pref_audio_manager_summary">Pangasiwaan at i-download ang mga pagbigkas ng Quran</string>
+    <string name="notification_time">Oras ng notipikasyon</string>
+    <string name="notification_time_details">AM at PM</string>
+    <string name="notification">Notipikasyon</string>
+    <string name="morning">AM at</string>
+    <string name="evening">PM</string>
+    <string name="pref_notification_switch">Araw-araw na pabatid</string>
+    <string name="pref_clearsearch">Burahin ang kasaysayan ng pagsisiyasat</string>
+    <string name="searchistoryremoved">Naalis na ang kasaysayan ng paghahanap</string>
+    <string name="pref_tajweedrules">Tajwid</string>
+    <string name="pref_tajweed_summary">Mga tanda ng paghinto, mga patakaran ng Tajwid</string>
+    <string-array name="mushaf_names">
+        <item>Uthmani/Madani</item>
+        <item>IndoPak/Asian (Beta)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>Puti</item>
+        <item>Itim (Gabi)</item>
+        <item>Berde</item>
+        <item>Kayumanggi</item>
+        <item>Matingkad na Asul (Gabi)</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">SUSUNOD</string>
+    <string name="done_tut">NAKUHA KO</string>
+    <!--Tutorial overlay-->
+    <string name="share_ayah_title">Ibahagi ang Ayah</string>
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Tagumpay ang download</string>
+    <string name="download_processing">Prinoproseso ang download&#8230;</string>
+    <string name="notification_download_canceled">Kinansela ang download</string>
+    <string name="download_non_wifi_prompt">Wala ka sa Wi-Fi. Ituloy ang download ng data?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">Na-download na %1$s / %2$s</string>
+    <string name="download_sura_progress">Na-download na %1$s / %2$s ang Surah %3$d</string>
+    <string name="process_progress">Pinoproseso ang file %1$d / %2$d</string>
+    <string name="download_all">I-download Lahat</string>
+    <string name="all">Lahat</string>
+    <string name="downloaded">Na-download na</string>
+    <string name="available">Mayroon</string>
+    <string name="download_question">I-download?</string>
+    <string name="partial_text">" (parsyal)"</string>
+    <string name="error_general">Bigo ang download</string>
+    <string name="error_disk">Hindi sapat ang imbakan</string>
+    <string name="error_network">Mali ng network</string>
+    <string name="error_insufficient_permissions">Kulang ang mga pahintulot</string>
+    <string name="error_invalid_download_retry">Sirang file, sinusubukang i-download uli</string>
+    <string name="error_network_retry">Mali ng network, sinusubukang ipagpatuloy&#8230;</string>
+    <string name="error_error_unknown">Di-kilalang mali</string>
+    <!-- Audio panel -->
+    <string name="play_apply">I-aplay</string>
+    <string name="previous">Nakaraan</string>
+    <string name="play">I-play</string>
+    <string name="pause">Sandaling hinto</string>
+    <string name="stop">Hinto</string>
+    <string name="next">Susunod</string>
+    <string name="repeat_range">Ulitin ang napili</string>
+    <string name="repeat_each_verse">Ulitin ang Ayah:</string>
+    <string name="audio_from">Mula</string>
+    <string name="audio_to">Hanggang</string>
+    <string name="downloading_title">Nagdada-download</string>
+    <string name="downloading_message">Pakihintay na ma-download ang mga file (suportado ang pagpapatuloy)</string>
+    <string name="processing">Nagproproseso&#8230;</string>
+    <string name="remove_dlg_title">Alisin ito?</string>
+    <string name="remove_dlg_msg">Sigurado ka ba na gusto mong alisin %1$s?</string>
+    <string name="remove_dlg_note_msg">Gusto mo bang alisin ang tala para sa %1$s?</string>
+    <string name="remove_button">Alisin</string>
+    <!--Tajweed Activity-->
+    <string name="title_activity_tawjeed_rules">Mga Patakaran Ng Tajwid</string>
+    <string name="qalqala_tr">Qalqalah (Pag-alingawngaw)</string>
+    <string name="iqlab_tr">Iqlab (Pagpaltik/Pagbaligtad)</string>
+    <string name="idgham_tr">Idgham (Paglaktaw/Pagsama)</string>
+    <string name="idghamwg_tr">Idgham na walang Ghunnah</string>
+    <string name="ikhfa_tr">"Ikhfa\' (Paghina/Pagtago)"</string>
+    <string name="ghunna_tr">Ghunnah (Pailong)</string>
+    <string name="must_stop">Dapat huminto</string>
+    <string name="_22_times">natagpuan ng 22 beses</string>
+    <string name="better_to_stop">Mas mabuting huminto</string>
+    <string name="bettertostp_603_times">natagpuan ng 603 beses</string>
+    <string name="pause_at_one">Sandaling hinto alinman sa dalawa</string>
+    <string name="_12_times">natagpuan ng 12 beses</string>
+    <string name="a_slight_pause">Sandaling hinto</string>
+    <string name="_7_times">natagpuan ng 7 beses</string>
+    <string name="stop_or_continue">Huminto o magpatuloy</string>
+    <string name="_1972_times">natagpuan ng 1972 beses</string>
+    <string name="better_to_continue">Mas mabuting magpatuloy</string>
+    <string name="_1682_times">natagpuan ng 1682 beses</string>
+    <string name="dont_stop">Huwag huminto</string>
+    <string name="_68_times">natagpuan ng 68 beses</string>
+    <string name="num_times">%1$d beses</string>
+    <string name="num_second">%1$d segundo</string>
+    <string name="num_seconds">%1$d mga segundo</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="gunnahtext">Anuman نّ o مّ ay may tunog na manggagaling sa ilong.</string>
+    <string name="ikhfatext">Anumang نْ o ً ٍ ٌ  na sinusundan ng alinman sa mga titik na ito ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت ay bibigkasin na may bahagyang tunog galing sa ilong\n\nO\n\nKapag ang titik ب ay susunod pagkatapos ng مْ ito ay bibigkasin na may bahagyang tunog galing sa ilong.</string>
+    <string name="idhghamtext">Anumang &gt;نْ o &gt;ً ٍ ٌ na sinusundan ng anuman sa mga titik na ito &gt;و م ن ي ay masasama sa susunod na titik at bibigkasin na may Ghunnah\n\nOR\n\nKapag ang &gt;مْ ay sinusundan ng &gt;مّ, ang nauna ay masasama sa nahuli at bibigkasin na may Ghunnah.</string>
+    <string name="idhghamwgtext">Anumang نْ o ً ٍ ٌ  na sinusundan ng titik ل o ر ay masasama sa susunod na titik ngunit walang bibigkasin na Ghunnah.</string>
+    <string name="iqlabtext">Anumang نْ o ً ٍ ٌ na sinusundan ng ب ay mapapalitan ng  م.</string>
+    <string name="qalqalatext">Anuman sa limang mga titik na ito د ج ب ط ق kapag may Sukun ْ &amp; o bilang huling titik ng Ayah, dapat na bigkasin ito na may bahagyang tunog na umaalingawngaw o bumabaltak.</string>
+    <string name="verb_form_basic">"Anyo ng Pandiwa 1 Kalagayan %1$d"</string>
+    <string name="verb_form">"Anyo ng Pandiwa %1$d"</string>
+    <string name="word_by_word_language">Wikang Kataga Sa Kataga</string>
+    <string-array name="parts_of_speech">
+        <item>Akusatibong partikel</item>
+        <item>Pang-uri</item>
+        <!--2-->
+        <item>Partikel na pasusog</item>
+        <item>Partikel na pasagot</item>
+        <item>Partikel na pa-ayaw</item>
+        <item>Partikel na padahilan</item>
+        <item>Partikel na patiyak</item>
+        <item>Partikel na sirkumstansyal</item>
+        <item>Komitatibong partikel</item>
+        <item>Kondisyonal Partikel</item>
+        <item>Tumutugmang pangatnig</item>
+        <!--11-->
+        <item>Mapaglarawang panghalip</item>
+        <item>Pantukoy</item>
+        <item>Mariing unlaping laam</item>
+        <item>Partikel na pamareho</item>
+        <item>Partikel na pahikayat</item>
+        <item>Partikel na paliwanag</item>
+        <item>Partikel na pabukod</item>
+        <item>Partikel na panghinaharap</item>
+        <item>Pautos na pangngalang berbal</item>
+        <item>Pautos na unlaping laam</item>
+        <item>Partikel na panimula</item>
+        <item>Mga Quranik inisyal</item>
+        <item>Partikel na pakahulugan</item>
+        <item>Partikel na patanong</item>
+        <item>Pang-abay na panglugar</item>
+        <item>Pangngalan</item>
+        <!--26-->
+        <item>Negatibong partikel</item>
+        <item>Pang-ukol</item>
+        <item>Pangngalang pantangi</item>
+        <item>Partikel na pahadlang</item>
+        <item>Partikel na pabawal</item>
+        <item>Personal na panghalip</item>
+        <item>Pasadyang unlaping laam</item>
+        <item>Kaugnay na panghalip</item>
+        <item>Partikel na pagpatuloy</item>
+        <item>Partikel na patakda</item>
+        <item>Partikel na pa-urong</item>
+        <item>Partikel na kinalabasan</item>
+        <item>Pantulong na pangatnig</item>
+        <item>Partikel na padagdag</item>
+        <item>Partikel na pabigla</item>
+        <item>Pang-abay na pamanahon</item>
+        <item>Pandiwa</item>
+        <!--43-->
+        <item>Bokatibong partikel</item>
+        <item>Pandiwang Pangngalan</item>
+        <item>Paunawa</item>
+        <item>Distansiya</item>
+        <item>Tirahan</item>
+    </string-array>
+    <string name="transliteration_warning_msg">Ang paggamit ng pagsasatitik (transliterasyon) para sa pagbabasa/pagsusulat ng Quran ay hindi tama.
+        Maaari itong humantong sa maling pagbigkas at tuluyang mawalan ng ganang matuto ng tamang Tajwid.
+        Tingnan para sa mas maraming kaalaman sa https://islamqa.info/en/191497\n\n
+
+        Dapat nating tandaan na si Allah Ta\'ala ay bibigyan tayo ng dobleng gantimpala sa pagsisikap nating matuto ng tamang pagbigkas. [Bukhari 4937].\n\n
+        Maaari kayong matutuo mula sa isang Shaykh/\'Alim/Qari sa inyong pook o mula sa mga sumusunod na sites\n
+
+        1. http://www.searchtruth.com/quran_teacher/quran.php\n
+
+        2. http://www.readwithtajweed.com/tajweed_letters.htm\n
+
+        Sa lalong madaling panahon ay aalisin namin itong transliterasyon, in sha Allah, dahil ito ay pagkakamali din namin.
+        Bilang kahalili, maaari mong i-download ang pagbigkas (resitasyon) at pakinggan ito kung nais mong suriin ang pagbigkas.\n\n
+        Sana ay patawarin tayong lahat ni Allah.</string>
+    <string name="agree">Sang-ayon ako</string>
+    <string name="transliteration_warning_title">Babala!!</string>
+    <string name="file_content_invalid">Di-wasto ang nilalaman ng file</string>
+    <string name="imported">Matagumpay na inangkat!</string>
+    <string name="mushaf">Mushaf</string>
+    <string name="click_more">I-klik para sa mas marami pa</string>
+    <string name="sync_online">I-sync onlayn</string>
+    <string name="update">Apdeyt</string>
+    <string name="add_note">Magtala</string>
+    <string name="exact_word_match">Eksaktong tugma ng kataga</string>
+    <!--todo indopak under construction -->
+    <string name="suggestion">Mungkahi</string>
+    <string name="comment">Komento</string>
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <string name="minutes_left">%1$d mga minuto·&#160;</string>
+    <string name="minute_left">%1$d minuto</string>
+    <string name="less_than_minute">Mas maikli kaysa sa isang minuto</string>
+    <string name="pref_font_size">Laki ng Font</string>
+    <string name="none_text">Wala</string>
+    <string name="sign_out">mag-Log out</string>
+    <string name="download_app_needed">Kailangang i-download ang App para dito</string>
+    <!-- Match results -->
+    <string name="say_in_arabic">Magsabi ng kahit ano sa Arabik</string>
+    <string name="saved_in_download_folder">Bak-up %1$s ay naka-save sa download folder!</string>
+    <string name="new_version_available">May Bagong Bersiyon</string>
+    <string name="please_update_to_new_version">Paki-updeyt ang App sa bagong bersiyon upang makapagpatuloy sa paggamit</string>
+    <string name="skip">Laktawan</string>
+    <string name="action_undo">KALAGIN</string>
+    <!--quran planner-->
+    <string name="khatmah_on_track">Nasa pagsubaybay</string>
+    <string name="khatmah_session_ahead">%1$d mga antimanong sesyon</string>
+    <string name="khatmah_session_behind">%1$d mga atrasadong sesyon</string>
+    <string name="khatmah_in_end_days">(sa%1$d mga araw)</string>
+    <string name="khatmah_complete">Nakamit mo ito! Binabati kita!</string>
+    <string name="cannot_be_empty">Hindi maaaring walang laman</string>
+    <string name="current_session">Kasalukuyang Sesyon</string>
+    <string name="sessions">Mga Sesyon</string>
+    <string name="complete">Kumpleto</string>
+    <string name="warning_end_page">Huling bilang ng pahina ay dapat na mas mataas</string>
+    <string name="all_session">Lahat Ng Mga Sesyon</string>
+    <string name="ends_in">Nagtatapos sa %1$s</string>
+    <string name="completed_in">Nakumpleto sa</string>
+    <string name="progress">Progreso</string>
+    <string name="read">Magbasa</string>
+    <string name="pages">Mga Pahina</string>
+    <string name="days">Mga Araw</string>
+    <string name="save_progress">I-save ang progreso</string>
+    <string name="currently_at">Kasalukuyang nasa</string>
+    <string name="add_planner">Idagdag ang tagaplano</string>
+    <string name="complete_valid_sessions">Mangyaring kumpletuhin mula sa iyong mga balidong sesyon</string>
+    <string name="name">Pangalan</string>
+    <string name="number_of_days">Bilang ng mga araw</string>
+    <!--changelog-->
+    <string name="changelog_title">Anong Bago</string>
+    <string name="changelog_ok_button">OK</string>
+    <string name="changelog_show_full">Marami pa...</string>
+    <string name="changelog_full_title">Palitan ang log</string>
+    <string name="view">Tanaw</string>
+    <string name="font">Font</string>
+    <string name="content">Nilalaman</string>
+    <string name="tafsir">Pagpapaliwanag</string>
+    <string name="quick_links">Mabilis na mga kawing</string>
+    <string name="text_ayatul_kursi">Ayatul Kursi</string>
+    <string name="no_file_explorer_found">Walang natagpuan na file explorer app!</string>
+    <string name="delay_ayah_length">Haba ng Ayah</string>
+    <string name="no_planner_created">Walang Nalikhang Tagaplano</string>
+    <string name="text_planner_empty_title">Hindi ka pa nakagawa ng anumang planner. \nClick <b>Idagdag ang planner</b> upang gumawa ng isang bago.</string>
+    <string name="view_details">Tingnan ang mga detalye</string>
+    <string name="msg_add_planner">Gusto mo bang magdagdag ng Quran planner?</string>
+    <string name="text_12_00pm">12:00PM</string>
+    <string name="_text_arabic">Arabik</string>
+    <string name="starting_page">Panimulang Pahina</string>
+    <string name="ending_page">Katapusang Pahina</string>
+    <string name="delete_plan">Alisin ang Plano</string>
+    <string name="text_session">Sesyon</string>
+    <string name="ends_at">Nagtatapos sa</string>
+    <string name="text_out_of">Mula sa</string>
+    <string name="text_target">Puntirya</string>
+    <string name="no">Bilang</string>
+    <string name="done">Tapos na</string>
+    <string name="start_range">Simula ng Saklaw</string>
+    <string name="end_range">Katapusan ng Saklaw</string>
+    <string name="qari">Qari</string>
+    <string name="advanced_settings">Mga Makabagong Setting</string>
+    <string name="choose_qari">Pumili ng Qari</string>
+    <string name="current_qari">Kasalukuyang Qari</string>
+    <string name="basic_info">Pangunahing Impormasyon</string>
+    <string name="downloaded_sura">Na-download na ang Surah</string>
+    <string name="device_space_used">Nagamit na puwang ng aparato</string>
+    <string name="remove_all">Alisin Lahat</string>
+    <string name="sura_list">Listahan ng Surah</string>
+    <string name="download_manager">I-download ang manedyer</string>
+    <string name="zero_kb">0 KB</string>
+    <string name="stream_without_downloading">I-stream na walang download</string>
+    <string name="scroll_while_playing">I-scroll habang gumagana</string>
+    <string name="delay_between_verse">Antala sa pagitan ng Ayah</string>
+    <string name="stop_after_range">Huminto pagkatapos ng saklaw</string>
+    <string name="text_ayah_saved">Ang Ayah na ito ay nai-save na</string>
+    <string name="juz_description">Bahagi %1$d</string>
+</resources>

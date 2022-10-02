@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Ayah du jour</item>
+        <item>Ayah quotidienne</item>
+        <item>Envie de lire une Ayah?</item>
+        <item>Apprends une Ayah aujourd\'hui</item>
+        <item>Ayah journalière</item>
+        <item>Envie de connaître une Ayah?</item>
+        <item>Apprenons une Ayah</item>
+        <item>Une Ayah pour aujourd\'hui</item>
+        <item>Lire une Ayah aujourd\'hui?</item>
+        <item>Clique pour lire une Ayah</item>
+        <item>Rappelle-toi Allah aujourd\'hui</item>
+        <item>Prier Allah aujourd\'hui</item>
+        <item>Souviens-toi Allah</item>
+        <item>Un nutriment pour l\'âme</item>
+        <item>Remémore toi ton Seigneur</item>
+        <item>Souviens-toi de ton Seigneur</item>
+        <item>Rappelle-toi Allah</item>
+        <item>Une nourriture pour l\'âme</item>
+        <item>Le moment de se rafraîchir l\'esprit</item>
+        <item>Rappelle-toi ton Seigneur</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>En quête de connaissance à propos du Quran</item>
+        <item>Qu\'en dit le Quran</item>
+        <item>Qu\'en dit Allah</item>
+        <item>À propos des Ayah</item>
+        <item>À propos des versets</item>
+        <item>Sujets intéressants dans le Quran</item>
+        <item>Sujets d\'aujourd\'hui</item>
+        <item>Vérifie dans le Quran</item>
+        <item>Apprends cela du Quran</item>
+    </string-array>
+</resources>

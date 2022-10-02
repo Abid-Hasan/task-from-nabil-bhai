@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">อัลกุรอาน (ตัฟซีร &amp; คำต่อคำ)</string>
+    <!-- CommonOperations -->
+    <string name="save">บันทึก</string>
+    <string name="delete">ลบ</string>
+    <string name="close">ปิด</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="ok">ตกลง</string>
+    <string name="share_image">ภาพ (แคปหน้าจอ)</string>
+    <string name="share_text">ข้อความ</string>
+    <string name="multiple_ayahs">หลายโองการพร้อมกัน</string>
+    <string name="ayah_copied_popup">คัดลอกโองการ</string>
+    <string name="stringshotshare">แบ่งปันการแคปหน้าจอ</string>
+    <string name="popup_open_in_sura_view">ดูซูเราะห์</string>
+    <string name="popup_tafsir_ibn_kathir">ดู ตัฟซีร/โน้ต</string>
+    <string name="popup_play_this_ayah">เล่นเสียงโองการนี้</string>
+    <!--Search-->
+    <string name="searchTitle">ค้นหาโดยใช้คำ</string>
+    <string name="searchhelptext">\n\nใช้หมายเลขซูเราะห์:หมายเลขโองการ เพื่อไปยังโองการที่ต้องการอย่างรวดเร็ว</string>
+    <string name="noWordTyped">ยังไม่มีการพิมพ์อะไร</string>
+    <string name="search_in_all_collections">ค้นหาใน: กลุ่มทั้งหมด</string>
+    <string name="search_in">"ค้นหาใน: %1$s"</string>
+    <string name="filter_hint">พิมพ์เพื่อกรอง</string>
+    <string name="search_result">"\"%1$s\" ถูกพบ %2$d ครั้ง"</string>
+    <string name="search_result_root">"รากศัพท์ %1$s ถูกพบ %2$d ครั้ง"</string>
+    <string name="searching">"กำลังค้นหา… %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">รากศัพท์</string>
+    <string name="lemma">คำมาตราฐาน</string>
+    <string name="click_root_search_quran">กดที่รากศัพท์หรือกลุ่มคำเพื่อค้นหากุรอาน</string>
+    <string-array name="verb_form_names">
+        <item>คำกริยาในรูปอดีต</item>
+        <item>คำกริยาในรูปปัจจุบัน</item>
+        <item>คำกริยาในรูปคำสั่ง</item>
+        <item>คำนามผู้กระทำ</item>
+        <item>คำนามผู้ถูกกระทำ</item>
+        <item>ในรูปคำนาม</item>
+    </string-array>
+    <string name="writenote">จดโน้ต</string>
+    <string name="choose_translations">เลือกการแปล</string>
+    <string name="auto_scroll">เลื่อนอัตโนมัติ</string>
+    <string name="jump_sura">ไปยังซูเราะห์</string>
+    <string name="jump_tafsir">ไปยังตัฟซีร</string>
+    <!-- sura metainfo -->
+    <string name="makki">มักกียะฮ์</string>
+    <string name="madani">มะดะนียะฮ์</string>
+    <string name="surah_location">"ประเภท: "</string>
+    <string name="sura_num_ayahs">"โองการทั้งหมด: "</string>
+    <string name="sura_ruku_num">"รุกู: "</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">กำลังยกเลิก&#8230;</string>
+    <string name="timing_database">ไฟล์ที่จำเป็น</string>
+    <string name="quran_sura">ซูเราะห์</string>
+    <string name="quran_ayah">โองการ</string>
+    <string name="quran_page">หน้า</string>
+    <string name="quran_hizb">ฮิซบฺ</string>
+    <string name="quran_juz2">ยุซ</string>
+    <string name="juz2_description">"ยุซ %1$d%2$s"</string>
+    <string name="juzpage_description">" : หน้า %1$d"</string>
+    <string name="page_description">"หน้า %1$d"</string>
+    <string name="hizb_description">"ยุซ %1$d%2$s"</string>
+    <string name="permission_save_in_sdcard">จำเป็นต้องได้รับอนุญาตในการบันทึกข้อมูลใน sdcard</string>
+    <string name="permission_save_in_sdcard_unable">ไม่สามารถบันทึกข้อมูลไปยังพื้นที่จัดเก็บข้อมูล</string>
+    <string name="note_saved">บันทึกโน้ตแล้ว</string>
+    <string name="topics_verses_index">หัวข้อที่เกี่ยวข้องกับโองการนี้</string>
+    <!-- Bookmark -->
+    <string name="create_new">สร้างใหม่&#8230;</string>
+    <string name="create_add">สร้าง &amp; เพิ่ม</string>
+    <string name="bookmark_result">"\'%1$s\' ถูกพบ %2$d ครั้ง"</string>
+    <string name="bookmark_last_read">อ่านล่าสุด</string>
+    <!--menu-->
+    <string name="menu_share">แบ่งปัน</string>
+    <string name="menu_quran_index">ดัชนีกุรอาน</string>
+    <string name="menu_quran_dictionary">พจนานุกรม</string>
+    <string name="menu_quran_planner">แผนการอ่าน</string>
+    <string name="menu_report">รายงาน</string>
+    <string name="menu_copy">คัดลอก</string>
+    <string name="menu_bookmarks">บุ๊คมาร์ก</string>
+    <string name="add_bookmarks">เพิ่มบุ๊คมาร์ก</string>
+    <string name="menu_jump">ไปยังโองการ</string>
+    <string name="menu_settings">การตั้งค่า</string>
+    <string name="menu_search">ค้นหา</string>
+    <string name="menu_notes">โน้ต</string>
+    <string name="menu_day_ayah">โองการประจำวัน</string>
+    <!--Options-->
+    <string name="pref_apperance">คุณสมบัติ</string>
+    <string name="pref_settings_choose_language">ภาษา</string>
+    <string name="pref_theme">ธีม</string>
+    <string name="pref_show_translation">แสดงคำแปล</string>
+    <string name="pref_translations">คำแปล</string>
+    <string name="pref_translation">คำแปล</string>
+    <string name="pref_translation_font_size">ขนาดตัวอักษรของคำแปล</string>
+    <string name="pref_arabic">ภาษาอาหรับ</string>
+    <string name="pref_arabic_font_size">ขนาดตัวอักษรภาษาอาหรับ</string>
+    <string name="pref_showarabic">แสดงภาษาอาหรับ</string>
+    <string name="pref_arabic_font">ขนาดอักษรภาษาอาหรับ</string>
+    <string name="pref_showwordbyword">การแปลคำต่อคำ</string>
+    <string name="pref_showtajweed">ตัจญ์วีด</string>
+    <string name="pref_mushaftype">รูปแบบมุศฮัฟ</string>
+    <string name="pref_arabicfont">ภาษาอาหรับ</string>
+    <string name="pref_rtl">โหมดจากขวาไปซ้าย</string>
+    <string name="pref_keepscreenon">เปิดหน้าจอไว้</string>
+    <string name="pref_fixed_bars">แก้ไขแถบด้านบนและด้านล่าง</string>
+    <string name="pref_audio_manager">จัดการไฟล์เสียง</string>
+    <string name="pref_audio_manager_summary">จัดการและดาวน์โหลด เสียงการอ่านอัลกุรอาน</string>
+    <string name="notification_time">เวลาแจ้งเตือน</string>
+    <string name="notification_time_details">AM และ PM</string>
+    <string name="notification">การแจ้งเตือน</string>
+    <string name="morning">AM และ</string>
+    <string name="evening">PM</string>
+    <string name="pref_notification_switch">การแจ้งเตือนรายวัน</string>
+    <string name="pref_clearsearch">ลบประวัติการค้นหา</string>
+    <string name="searchistoryremoved">ลบประวัติการค้นหาแล้ว</string>
+    <string name="pref_tajweedrules">กฎตัจญ์วีด</string>
+    <string name="pref_tajweed_summary">สัญลักษณ์การหยุด, การอ่านออกเสียงตามหลักตัจญ์วีด</string>
+    <string-array name="mushaf_names">
+        <item>อุสมานีย์/มะดะนีย์</item>
+        <item>อินโด-ปาคฺ [เอเชีย, เปอร์เซีย] (ทดลอง)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>สีขาว</item>
+        <item>สีดำ (กลางคืน)</item>
+        <item>สีเขียว</item>
+        <item>สีน้ำตาล</item>
+        <item>Dark Blue (Night)</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">ต่อไป</string>
+    <string name="done_tut">ฉันเข้าใจ</string>
+    <!--Tutorial overlay-->
+    <string name="share_ayah_title">แบ่งปันโองการ</string>
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">ดาวน์โหลดสำเร็จ</string>
+    <string name="download_processing">กำลังดาวน์โหลด&#8230;</string>
+    <string name="notification_download_canceled">ยกเลิกการดาวน์โหลด</string>
+    <string name="download_non_wifi_prompt">คุณไม่ได้เชื่อมต่อ Wi-Fi. ต้องการดาวน์โหลดด้วยข้อมูลมือถือไหม?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">ดาวน์โหลดแล้ว %1$s / %2$s</string>
+    <string name="download_sura_progress">ดาวน์โหลดแล้ว %1$s / %2$s ของซูเราะห์ %3$d</string>
+    <string name="process_progress">กำลังประมวลผลไฟล์ %1$d / %2$d</string>
+    <string name="download_all">ดาวน์โหลดทั้งหมด</string>
+    <string name="all">ทั้งหมด</string>
+    <string name="downloaded">ดาวน์โหลดแล้ว</string>
+    <string name="available">พร้อมใช้งาน</string>
+    <string name="download_question">คุณต้องการดาวน์โหลดไหม?</string>
+    <string name="partial_text">"(บางส่วน)"</string>
+    <string name="error_general">การดาวน์โหลดล้มเหลว</string>
+    <string name="error_disk">พื้นที่จัดเก็บไม่เพียงพอ</string>
+    <string name="error_network">เครือข่ายมีปัญหา</string>
+    <string name="error_insufficient_permissions">สิทธิ์ในการเข้าถึงไม่เพียงพอ</string>
+    <string name="error_invalid_download_retry">ไฟล์เสียหาย, กำลังพยายามดาวน์โหลดอีกครั้ง</string>
+    <string name="error_network_retry">เครือข่ายมีปัญหา, กำลังพยายามดำเนินการต่อ&#8230;</string>
+    <string name="error_error_unknown">ข้อผิดพลาดที่ไม่รู้จัก</string>
+    <!-- Audio panel -->
+    <string name="play_apply">นำไปใช้</string>
+    <string name="previous">ก่อนหน้า</string>
+    <string name="play">เล่น</string>
+    <string name="pause">พักการเล่น</string>
+    <string name="stop">หยุด</string>
+    <string name="next">ต่อไป</string>
+    <string name="repeat_range">เล่นซ้ำที่เลือกไว้:</string>
+    <string name="repeat_each_verse">เล่นโองการซ้ำ:</string>
+    <string name="audio_from">จาก</string>
+    <string name="audio_to">ถึง</string>
+    <string name="downloading_title">กำลังดาวน์โหลด</string>
+    <string name="downloading_message">โปรดรอการดาวน์โหลดไฟล์ (รองรับการทำงานต่อ).</string>
+    <string name="processing">กำลังประมวลผล&#8230;</string>
+    <string name="remove_dlg_title">ต้องการลบสิ่งนี้ไหม?</string>
+    <string name="remove_dlg_msg">คุณต้องการลบ \"%1$s\" ไหม?</string>
+    <string name="remove_dlg_note_msg">คุณต้องการลบโน้ตสำหรับ %1$s ไหม?</string>
+    <string name="remove_button">ลบ</string>
+    <!--Tajweed Activity-->
+    <string name="title_activity_tawjeed_rules">กฏตัจญ์วีด</string>
+    <string name="qalqala_tr">ก็อลกอละห์ (เสียงสะท้อน)</string>
+    <string name="iqlab_tr">อิกล๊าบ (อ่านเป็นเสียงมีม พร้อมหน่วงเสียง)</string>
+    <string name="idgham_tr">อิดฆอม มะอัลฆุนนะฮฺ (อ่านเข้ากัน พร้อมหน่วงเสียง)</string>
+    <string name="idghamwg_tr">อิดฆอม บิลาฆุนนะฮฺ (อ่านเขัากัน ไม่หน่วงเสียง)</string>
+    <string name="ikhfa_tr">"อิคฟาฮ์ (อ่านแฝงพร้อมหน่วงเสียง)"</string>
+    <string name="ghunna_tr">ฆุนนะฮฺ (หน่วงเสียง)</string>
+    <string name="must_stop">จำเป็นต้องหยุด</string>
+    <string name="_22_times">มีทั้งหมด 22 ครั้ง</string>
+    <string name="better_to_stop">ดีที่สุดคือให้หยุด</string>
+    <string name="bettertostp_603_times">มีทั้งหมด 603 ครั้ง</string>
+    <string name="pause_at_one">เลือกหยุดได้แค่ตำแหน่งเดียว</string>
+    <string name="_12_times">มีทั้งหมด 12 ครั้ง</string>
+    <string name="a_slight_pause">หยุดชั่วคราวเล็กน้อย</string>
+    <string name="_7_times">มีทั้งหมด 7 ครั้ง</string>
+    <string name="stop_or_continue">หยุดหรืออ่านต่อ</string>
+    <string name="_1972_times">มีทั้งหมด 1972 ครั้ง</string>
+    <string name="better_to_continue">ดีที่สุดคืออ่านต่อ</string>
+    <string name="_1682_times">มีทั้งหมด 1682 ครั้ง</string>
+    <string name="dont_stop">ห้ามหยุด</string>
+    <string name="_68_times">มีทั้งหมด 68 ครั้ง</string>
+    <string name="num_times">%1$d ครั้ง</string>
+    <string name="num_second">%1$d วินาที</string>
+    <string name="num_seconds">%1$d วินาที</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="gunnahtext">ทุกๆ نّ หรือ مّ จะมีเสียงที่เล็ดลอดออกมาจากโพรงจมูก.</string>
+    <string name="ikhfatext">ทุกๆ نْ หรือ  ً ٍ ٌ ตามด้วยตัวอักษรเหล่านี้ ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت จะออกเสียงด้วยเสียงจากโพรงจมูกเล็กน้อย\n\nหรือ\n\nเมื่อมีตัวอักษร ب  หลังตัวอักษร مْ จะออกเสียงด้วยเสียงจากข้างในโพรงจมูก.</string>
+    <string name="idhghamtext">ทุกๆ نْ หรือ ً ٍ ٌ ตามด้วยตัวอักษรเหล่านี้ و م ن ي จะต้องอ่านควบรวมกับตัวอักษรตัวถัดไป และเสียงที่อ่านจะต้องเป็นเสียงที่มีแรงสั่นสะเทือนที่ออกมาจากโพรงจมูก\n\nOR\n\nเมื่อมี مْ ตามหลังด้วย مّ, ตัวอักษรแรกจะถูกอ่านควบไปยังตัวอักษรที่สอง และเสียงที่อ่านจะต้องเป็นเสียงที่มีแรงสั่นสะเทือนที่ออกมาจากโพรงจมูก.</string>
+    <string name="idhghamwgtext">ทุกๆ نْ หรือ ً ٍ ٌ ตามด้วยตัวอักษร ل หรือ ر จะต้องอ่านควบไปยังตัวอักษรตัวถัดไป แต่ไม่ต้องออกเสียงด้วยเสียงสั่นจากโพรงจมูก.</string>
+    <string name="iqlabtext">ทุกๆ نْ หรือ ً ٍ ٌ ตามด้วยตัวอักษร ب จะถูกเปลี่ยนไปเป็นตัวอักษร م.</string>
+    <string name="qalqalatext">หนึ่งในห้าตัวของตัวอักษรเหล่านี้ د ج ب ط ق เมื่อพบกับเครื่องหมายสุกูน ْ &amp;หรือ โดยที่เป็นตัวอักษรสุดท้ายของโองการ จะต้องอ่านด้วยเสียงก้องเล็กน้อย.</string>
+    <string name="verb_form_basic">"คำกริยารูปแบบที่ 1 กรณีที่ %1$d"</string>
+    <string name="verb_form">"คำกริยารูปแบบที่ %1$d"</string>
+    <string name="word_by_word_language">ภาษาสำหรับการแปลคำต่อคำ</string>
+    <string-array name="parts_of_speech">
+        <item>คำสันธานนาสับ</item>
+        <item>คำคุณศัพท์</item>
+        <!--2-->
+        <item>คำสันธานการเปลี่ยนแปลง</item>
+        <item>คำสันธานใช้ตอบ</item>
+        <item>คำสันธานการปฏิเสธ</item>
+        <item>คำสันธานเหตุผล</item>
+        <item>คำสันธานการเน้นย้ำ</item>
+        <item>คำนามบอกสภาพ</item>
+        <item>คำสันธานการรวม</item>
+        <item>คำสันธานเงื่อนไข</item>
+        <item>คำสันธานประสาน</item>
+        <!--11-->
+        <item>คำนามชี้เฉพาะ</item>
+        <item>คำกำกับนาม</item>
+        <item>คำอุปสรรค \'ลาม\' เพื่อการเน้นย้ำ</item>
+        <item>คำอุปสรรคเพื่อความเท่ากัน</item>
+        <item>คำสันธานเพื่อการเพิ่มอารมณ์</item>
+        <item>คำสันธานเพื่อการอธิบาย</item>
+        <item>คำสันธานเพื่อการยกเว้น</item>
+        <item>คำสันธานอนาคต</item>
+        <item>คำนามกริยาคำสั่ง</item>
+        <item>คำอุปสรรค \'ลาม\' คำสั่ง</item>
+        <item>คำสันธานเริ่มต้น</item>
+        <item>ฮูรูฟมูกอตตออะฮฺ</item>
+        <item>คำสันธานอรรถาธิบาย</item>
+        <item>คำสันธานเพื่อการถาม</item>
+        <item>คำวิเศษณ์บอกสถานที่</item>
+        <item>คำนาม</item>
+        <!--26-->
+        <item>คำสันธานปฏิเสธ</item>
+        <item>คำบุพบท</item>
+        <item>คำนามเจาะจง</item>
+        <item>คำสันธานตักเตือน</item>
+        <item>คำสันธานสั่งห้าม</item>
+        <item>สรรพนามตัวคน</item>
+        <item>คำอุปสรรค \'ลาม\' บอกเป้าหมาย</item>
+        <item>คำสรรพนามไม่เจาะจง</item>
+        <item>คำสันธานการเริ่มต้น</item>
+        <item>คำสันธานจำกัด</item>
+        <item>คำสันธานเพิกถอน</item>
+        <item>คำสันธานผลลัพธ์</item>
+        <item>คำเชื่อมมัสดาริยยะห์</item>
+        <item>คำสันธานเสริม</item>
+        <item>คำสันธานประหลาดใจ</item>
+        <item>คำวิเศษณ์บอกเวลา</item>
+        <item>คำกริยา</item>
+        <!--43-->
+        <item>คำสันธานใช้เรียก</item>
+        <item>กริยานาม</item>
+        <item>ความตั้งใจ</item>
+        <item>ระยะทาง</item>
+        <item>ที่อยู่</item>
+    </string-array>
+    <string name="transliteration_warning_msg">การใช้คำอ่านสำหรับการอ่าน/การเขียนคัมภีร์อัลกุรอานนั้นไม่ใช่วิธีที่เหมาะสม.
+เนื่องจากอาจนำไปสู่การออกอ่านเสียงที่ผิด, และไม่ได้เรียนรู้หลักตัจญ์วีดที่ถูกต้อง.
+ตรวจสอบเพิ่มเติม @ https://islamqa.info/en/191497 \n\n
+เราควรจำไว้ว่าอัลลอฮฺจะให้ผลตอบแทนสองเท่าเมื่อเราพยายามเรียนรู้การอ่านที่ถูกต้อง อินชาอัลลอฮฺ [บูคอรี 4937].\n\n
+คุณสามารถเรียนรู้จากไชค์ / ผู้รู้ / กอรี ของท้องถิ่นที่คุณอยู่, เป็นทางเลือกที่ดีกว่าถ้าเป็นไปได้.\n
+หากทำไม่ได้คุณสามารถเรียนรู้จากเว็บไซต์เหล่านี้ได้:\n
+
+1. http://www.iou-gqmc.com/tajweed-programs/ \n
+
+2. http://www.searchtruth.com/quran_teacher/quran.php \n
+
+อีกทางเลือกหนึ่ง, คุณสามารถดาวน์โหลดเสียงอ่านโดย เชค ไอมาน ซูไวยฺด / เชค มินซาวียฺ / เชค ฮูซารียฺ จากแอพของเรา, และฟังเสียงอ่านของพวกเขาในกรณีที่คุณต้องการตรวจสอบการออกเสียงของคุณ.
+นอกจากนี้คุณอาจเรียนรู้จากการอ่านของพวกเขา, วิธีการอ่านด้วยตัจญ์วีดอย่างถูกต้อง อินชาอัลลอฮฺ.
+เราอาจลบคำอ่านนี้ในอนาคต อินชาอัลลอฮฺ,  เนื่องจากมันเป็นความผิดพลาดของเราเช่นกัน.\n
+ขอให้อัลลอฮฺทำให้มันง่ายสำหรับเราทุกคนและให้อภัยข้อบกพร่องของพวกเรา.</string>
+    <string name="agree">ฉันยอมรับ</string>
+    <string name="transliteration_warning_title">คำเตือน!!</string>
+    <string name="file_content_invalid">เนื้อหาไฟล์ไม่ถูกต้อง</string>
+    <string name="imported">การนำเข้าสำเร็จแล้ว!</string>
+    <string name="mushaf">มุสฮัฟ</string>
+    <string name="click_more">กดเพื่อดูเพิ่มเติม</string>
+    <string name="sync_online">เชื่อมต่อข้อมูลออนไลน​์</string>
+    <string name="update">อัพเดท</string>
+    <string name="add_note">เพิ่มโน้ต</string>
+    <string name="exact_word_match">ตรงกับคำที่แน่นอน</string>
+    <!--todo indopak under construction -->
+    <string name="suggestion">คำแนะนำ</string>
+    <string name="comment">ความคิดเห็น</string>
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <string name="minutes_left">%1$d นาที</string>
+    <string name="minute_left">%1$d นาที</string>
+    <string name="less_than_minute">น้อยกว่าหนึ่งนาที</string>
+    <string name="pref_font_size">ขนาดฟ้อนต์</string>
+    <string name="none_text">ไม่มี</string>
+    <string name="sign_out">ออกจากระบบ</string>
+    <string name="download_app_needed">จำเป็นต้องดาวน์โหลดแอพสำหรับสิ่งนี้</string>
+    <!-- Match results -->
+    <string name="say_in_arabic">พูดบางสิ่งเป็นภาษาอาหรับ</string>
+    <string name="saved_in_download_folder">การสำรองข้อมูล %1$s ถูกบันทึกไว้ในโฟลเดอร์ดาวน์โหลด!</string>
+    <string name="new_version_available">เวอร์ชั่นใหม่พร้อมแล้ว</string>
+    <string name="please_update_to_new_version">โปรดอัปเดตแอปเป็นเวอร์ชันใหม่เพื่อใช้งานต่อ</string>
+    <string name="skip">ข้าม</string>
+    <string name="action_undo">เลิกทำ</string>
+    <!--quran planner-->
+    <string name="khatmah_on_track">ฟังอยู่</string>
+    <string name="khatmah_session_ahead">%1$d เซสชั่นก่อนหน้า</string>
+    <string name="khatmah_session_behind">%1$d เซสชั่นต่อไป</string>
+    <string name="khatmah_in_end_days">(ใน %1$d วัน)</string>
+    <string name="khatmah_complete">ยินดีด้วย! คุณทำสิ่งนี้สำเร็จ.</string>
+    <string name="cannot_be_empty">ไม่สามารถปล่อยว่างได้</string>
+    <string name="current_session">เซสชั่นปัจจุบัน</string>
+    <string name="complete">เสร็จสมบูรณ์</string>
+    <string name="all_session">เซสชั่นทั้งหมด</string>
+    <string name="progress">ความคืบหน้า</string>
+    <string name="read">อ่าน</string>
+    <string name="pages">หน้า</string>
+    <string name="days">วัน</string>
+    <string name="save_progress">บันทึกความคืบหน้า</string>
+    <string name="currently_at">ปัจจุบันอยู่ที่</string>
+    <string name="add_planner">ตั้งเป้าหมาย</string>
+    <string name="name">ชื่อ</string>
+    <string name="number_of_days">จำนวนวัน</string>
+    <!--changelog-->
+    <string name="changelog_title">มีอะไรใหม่</string>
+    <string name="changelog_ok_button">ตกลง</string>
+    <string name="changelog_show_full">เพิ่มเติม…</string>
+    <string name="changelog_full_title">เปลี่ยนล็อก</string>
+    <string name="view">ดู</string>
+    <string name="font">ฟอนต์</string>
+    <string name="content">เนื้อหา</string>
+    <string name="tafsir">ตัฟซีร</string>
+    <string name="quick_links">การเชื่อมโยงด่วน</string>
+    <string name="text_ayatul_kursi">อายาตุลกุรซียฺ</string>
+    <string name="juz_description">ยุซ %1$d</string>
+</resources>

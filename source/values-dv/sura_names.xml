@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <string-array name="sura_translation">
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ފާތިޙާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ބަޤަރާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އާލި ޢިމްރާން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްނިސާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މާއިދާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އަންޢާމް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އަޢްރާފް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އަންފާލް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްތަޥްބާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ޔޫނުސް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ހޫދް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ޔޫސުފް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައް ރަޢްދް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އިބްރާހީމް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޙިޖްރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްނަޙްލް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އިސްރާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ކަހްފް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>މަރްޔަމް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ޠާހާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އަންބިޔާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޙައްޖް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މުއްމިނޫން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްނޫރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ފުރްޤާން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޝުޢަރާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްނަމްލް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޤަޞަޞް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޢަންކަބޫތް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްރޫމް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ލުޤްމާން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްސަޖްދާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އަޙްޒާބް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ސަބާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ފާޠިރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ޔާސީން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޞާއްފާތް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ޞާދް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޒުމަރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ޣާފިރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ފުއްޞިލަތް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޝޫރާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޒުޚްރުފް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްދުޚާން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޖާޘިޔާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އަޙްޤާފް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>މުޙަންމަދް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ފަތްޙް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޙުޖުރާތް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ޤާފް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޛާރިޔާތް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޠޫރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްނަޖްމް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޤަމަރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްރަޙްމާން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޥާޤިޢާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޙަދީދް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މުޖާދިލާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޙަޝްރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މުމްތަޙަނާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޞައްފް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޖުމުޢާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މުނާފިޤޫން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްތަޣާބުން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޠަލާޤް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްތަޙްރީމް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މުލްކް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޤަލަމް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޙާއްޤާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މަޢާރިޖް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ނޫޙް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޖިންން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މުއްޒަންމިލް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މުއްދައްޘިރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޤިޔާމާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އިންސާން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މުރްސަލާތް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްނަބާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްނާޒިޢާތް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ޢަބަސަ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްތަކްޥީރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އިންފިޠާރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މުޠައްފިފީން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އިންޝިޤާޤް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ބުރޫޖް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޠާރިޤް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އަޢްލާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޣާޝިޔާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ފަޖްރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ބަލަދް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޝަމްސް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ލައިލް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޟުޙާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޝަރްޙް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްތީން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޢަލަޤް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޤަދްރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ބައްޔިނާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްޒަލްޒަލާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޢާދިޔާތް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޤާރިޢާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްތަކާޘުރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ޢަޞްރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ހުމަޒާ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ފީލް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ޤުރައިޝް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މާޢޫން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ކަޥްޘަރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ކާފިރޫން</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްނަޞްރް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް މަސަދް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް އިޚްލާޞް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އަލް ފަލަޤް</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>އައްނާސް</item>
+    </string-array>
+    <string-array name="sura_transliteration">
+        <item>އަލް ފާތިޙާ</item>
+        <item>އަލް ބަޤަރާ</item>
+        <item>އާލި ޢިމްރާން</item>
+        <item>އައްނިސާ</item>
+        <item>އަލް މާއިދާ</item>
+        <item>އަލް އަންޢާމް</item>
+        <item>އަލް އަޢްރާފް</item>
+        <item>އަލް އަންފާލް</item>
+        <item>އައްތަޥްބާ</item>
+        <item>ޔޫނުސް</item>
+        <item>ހޫދް</item>
+        <item>ޔޫސުފް</item>
+        <item>އައް ރަޢްދް</item>
+        <item>އިބްރާހީމް</item>
+        <item>އަލް ޙިޖްރް</item>
+        <item>އައްނަޙްލް</item>
+        <item>އަލް އިސްރާ</item>
+        <item>އަލް ކަހްފް</item>
+        <item>މަރްޔަމް</item>
+        <item>ޠާހާ</item>
+        <item>އަލް އަންބިޔާ</item>
+        <item>އަލް ޙައްޖް</item>
+        <item>އަލް މުއްމިނޫން</item>
+        <item>އައްނޫރް</item>
+        <item>އަލް ފުރްޤާން</item>
+        <item>އައްޝުޢަރާ</item>
+        <item>އައްނަމްލް</item>
+        <item>އަލް ޤަޞަޞް</item>
+        <item>އަލް ޢަންކަބޫތް</item>
+        <item>އައްރޫމް</item>
+        <item>ލުޤްމާން</item>
+        <item>އައްސަޖްދާ</item>
+        <item>އަލް އަޙްޒާބް</item>
+        <item>ސަބާ</item>
+        <item>ފާޠިރް</item>
+        <item>ޔާސީން</item>
+        <item>އައްޞާއްފާތް</item>
+        <item>ޞާދް</item>
+        <item>އައްޒުމަރް</item>
+        <item>ޣާފިރް</item>
+        <item>ފުއްޞިލަތް</item>
+        <item>އައްޝޫރާ</item>
+        <item>އައްޒުޚްރުފް</item>
+        <item>އައްދުޚާން</item>
+        <item>އަލް ޖާޘިޔާ</item>
+        <item>އަލް އަޙްޤާފް</item>
+        <item>މުޙަންމަދް</item>
+        <item>އަލް ފަތްޙް</item>
+        <item>އަލް ޙުޖުރާތް</item>
+        <item>ޤާފް</item>
+        <item>އައްޛާރިޔާތް</item>
+        <item>އައްޠޫރް</item>
+        <item>އައްނަޖްމް</item>
+        <item>އަލް ޤަމަރް</item>
+        <item>އައްރަޙްމާން</item>
+        <item>އަލް ޥާޤިޢާ</item>
+        <item>އަލް ޙަދީދް</item>
+        <item>އަލް މުޖާދިލާ</item>
+        <item>އަލް ޙަޝްރް</item>
+        <item>އަލް މުމްތަޙަނާ</item>
+        <item>އައްޞައްފް</item>
+        <item>އަލް ޖުމުޢާ</item>
+        <item>އަލް މުނާފިޤޫން</item>
+        <item>އައްތަޣާބުން</item>
+        <item>އައްޠަލާޤް</item>
+        <item>އައްތަޙްރީމް</item>
+        <item>އަލް މުލްކް</item>
+        <item>އަލް ޤަލަމް</item>
+        <item>އަލް ޙާއްޤާ</item>
+        <item>އަލް މަޢާރިޖް</item>
+        <item>ނޫޙް</item>
+        <item>އަލް ޖިންން</item>
+        <item>އަލް މުއްޒަންމިލް</item>
+        <item>އަލް މުއްދައްޘިރް</item>
+        <item>އަލް ޤިޔާމާ</item>
+        <item>އަލް އިންސާން</item>
+        <item>އަލް މުރްސަލާތް</item>
+        <item>އައްނަބާ</item>
+        <item>އައްނާޒިޢާތް</item>
+        <item>ޢަބަސަ</item>
+        <item>އައްތަކްޥީރް</item>
+        <item>އަލް އިންފިޠާރް</item>
+        <item>އަލް މުޠައްފިފީން</item>
+        <item>އަލް އިންޝިޤާޤް</item>
+        <item>އަލް ބުރޫޖް</item>
+        <item>އައްޠާރިޤް</item>
+        <item>އަލް އަޢްލާ</item>
+        <item>އަލް ޣާޝިޔާ</item>
+        <item>އަލް ފަޖްރް</item>
+        <item>އަލް ބަލަދް</item>
+        <item>އައްޝަމްސް</item>
+        <item>އަލް ލައިލް</item>
+        <item>އައްޟުޙާ</item>
+        <item>އައްޝަރްޙް</item>
+        <item>އައްތީން</item>
+        <item>އަލް ޢަލަޤް</item>
+        <item>އަލް ޤަދްރް</item>
+        <item>އަލް ބައްޔިނާ</item>
+        <item>އައްޒަލްޒަލާ</item>
+        <item>އަލް ޢާދިޔާތް</item>
+        <item>އަލް ޤާރިޢާ</item>
+        <item>އައްތަކާޘުރް</item>
+        <item>އަލް ޢަޞްރް</item>
+        <item>އަލް ހުމަޒާ</item>
+        <item>އަލް ފީލް</item>
+        <item>ޤުރައިޝް</item>
+        <item>އަލް މާޢޫން</item>
+        <item>އަލް ކަޥްޘަރް</item>
+        <item>އަލް ކާފިރޫން</item>
+        <item>އައްނަޞްރް</item>
+        <item>އަލް މަސަދް</item>
+        <item>އަލް އިޚްލާޞް</item>
+        <item>އަލް ފަލަޤް</item>
+        <item>އައްނާސް</item>
+    </string-array>
+</resources>

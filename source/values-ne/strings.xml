@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">अल कुरआन (तफ्सिर र शब्दश:)</string>
+    <!-- CommonOperations -->
+    <string name="save">सुरक्षित गर्नुहोस्</string>
+    <string name="delete">मेटाउनुहोस्</string>
+    <string name="close">बन्द गर्नुहोस्</string>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+    <string name="ok">हुन्छ</string>
+    <string name="share_image">फोटो (स्क्रिनसट)</string>
+    <string name="stringshotshare">स्क्रिनसट शेयर गर्नुहोस्</string>
+    <string name="popup_open_in_sura_view">सुरह अनुसार</string>
+    <string name="popup_play_this_ayah">यो आयत सुन्नुहोस्</string>
+    <!--Search-->
+    <string name="searchTitle">वाक्यांशहरू द्वारा खोज्नुहोस्</string>
+    <string name="noWordTyped">केही टाइप गरिएको छैन</string>
+    <string name="filter_hint">अलग गर्न टाईप गर्नुहोस्</string>
+    <!-- Viewer Activity -->
+    <string-array name="verb_form_names">
+        <item>पूर्ण काल</item>
+        <item>अपूर्ण काल</item>
+        <item>आज्ञार्थक</item>
+        <item>सक्रिय सह्भागिता</item>
+    </string-array>
+    <string name="writenote">नोट लेख्नुहोस्</string>
+    <string name="choose_translations">अनुवाद छनौट गर्नुहोस्</string>
+    <string name="auto_scroll">स्वत: स्क्रोल</string>
+    <!-- sura metainfo -->
+    <!-- End Number picker Strings -->
+    <!-- Bookmark -->
+    <!--menu-->
+    <string name="menu_share">शेयर</string>
+    <!--Options-->
+    <!--Tutorials-->
+    <!--Tutorial overlay-->
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <!-- downloading dialogs -->
+    <!-- Audio panel -->
+    <!--Tajweed Activity-->
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <!--todo indopak under construction -->
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <!-- Match results -->
+    <!--quran planner-->
+    <!--changelog-->
+</resources>

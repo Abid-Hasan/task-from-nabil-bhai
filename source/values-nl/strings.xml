@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Koran</string>
+    <!-- CommonOperations -->
+    <string name="cancel">Annuleer</string>
+    <string name="ayah_copied_popup">Ayah Gekopieerd</string>
+    <!--Search-->
+    <!-- Viewer Activity -->
+    <!-- sura metainfo -->
+    <!-- End Number picker Strings -->
+    <string name="canceling">annuleren&#8230;</string>
+    <string name="timing_database">Vereiste Bestanden</string>
+    <string name="quran_sura">Soera</string>
+    <string name="quran_page">Pagina</string>
+    <string name="quran_juz2">Juz\'</string>
+    <string name="juz2_description">"Juz' %1$d%2$s"</string>
+    <string name="page_description">"pagina %1$d"</string>
+    <!-- Bookmark -->
+    <!--menu-->
+    <string name="menu_bookmarks">Bladwijzers</string>
+    <string name="menu_jump">Ga</string>
+    <string name="menu_settings">Instellingen</string>
+    <string name="menu_search">Zoek</string>
+    <!--Options-->
+    <string name="pref_audio_manager">Audio manager (test fase)</string>
+    <string name="pref_audio_manager_summary">Beheer en download Koran audio</string>
+    <!--Tutorials-->
+    <!--Tutorial overlay-->
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Download Succesvol</string>
+    <string name="download_processing">Download Verwerken&#8230;</string>
+    <string name="notification_download_canceled">Download canceled</string>
+    <string name="download_non_wifi_prompt">Je maak geen gebruik van Wifi. Toch gegevens downloaden?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">%1$s Gedowload van %2$s</string>
+    <string name="download_sura_progress">%1$s Gedowload van %2$s van soera %3$d</string>
+    <string name="process_progress">Processing file %1$d / %2$d</string>
+    <string name="error_general">Download mislukt</string>
+    <string name="error_disk">Er is onvoeldoende schijfruimte om te downloaden</string>
+    <string name="error_network">Er is een netwerk fout opgetreden tijdens het downloaden</string>
+    <string name="error_insufficient_permissions">Er is een toestemming fout opgetreden tijdens het downloaden</string>
+    <string name="error_invalid_download_retry">Corrupted file, attempting to re-download</string>
+    <string name="error_network_retry">Network error, trying to resume&#8230;</string>
+    <!-- Audio panel -->
+    <string name="play_apply">Pas toe</string>
+    <string name="previous">Vorige</string>
+    <string name="play">Afspelen</string>
+    <string name="pause">Pauze</string>
+    <string name="stop">Stop</string>
+    <string name="next">Volgende</string>
+    <string name="downloading_title">Downloaden&#8230;</string>
+    <string name="downloading_message">Wacht tot de bestanden zijn gedownload (CV ondersteund).</string>
+    <string name="processing">Verwerken&#8230;</string>
+    <string name="remove_dlg_title">Vertaling Verwijderen?</string>
+    <string name="remove_dlg_msg">Bent u zeker dat u %1$s wilt verwijderen?</string>
+    <string name="remove_button">Verwijder</string>
+    <!--Tajweed Activity-->
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <!--todo indopak under construction -->
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <!-- Match results -->
+    <!--quran planner-->
+    <!--changelog-->
+</resources>

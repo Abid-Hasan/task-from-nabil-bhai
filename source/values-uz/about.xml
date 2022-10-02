@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">Dasturni ulashish</string>
+    <string name="share_app_info">Al Quran ( Tafsir &amp; by Word) - hamma uchun mo\'ljallangan Qur\'on o\'rganish dasturidir.  Bu dastur har bir oyatni takror holda ovozli o\'qish, Ibn Kasir tafsiri, rang bilan ajratilgan tajvid, so\'zma-so\'z tahlil va tarjima, maxsus hatcho\'plar, qidirish, bir vaqtning o\'zida bir nechta tarjimalar, ko\'plab mavzu va shriftlar va boshqalarni taqdim etadi.
+
+Google Play dan yuklab oling: https://goo.gl/w6rESk</string>
+    <string name="shareApk">Apk faylni ulashish</string>
+    <string name="sharelink">Linkni ulashish</string>
+    <string name="getapp">Qur\'on dasturini yuklab olish</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">Rasululloh (s.a.v) ayttilar: \"Odamlarga minnatdor bo\'lmagan, Allohga ham minnatdor bo\'lmaydi\"\n[Abu Davud 4811]\n\nBizni baholash orqali yana ham ko\'proq yaxshi amallarni bajarishimizga rag\'batlantirish uchun ozgina vaqtingizni ayamang!</string>
+    <string name="ratingtext">Sizning bahoyingiz biz uchun katta ahamiyatga ega</string>
+    <string name="menu_rate">Baholang!</string>
+    <string name="ratelater">Balki keyinroq</string>
+    <string name="ratenothanks">Yo\'q, raxmat</string>
+    <string name="app_details">Alhamdulillah. Al Quran (Tafsir &amp; by Word ) Qur\'onni o\'rganish vositasi bo\'lib sizga quyidagilarni havola etadi:
+\n
+\n • Ibn Kasir inglizcha tafsiri hamda arabchasi bilan
+\n • iQuran\'ga o\'xshash rangli harflar bilan belgilangan tajvid qoidalari (Android Kitkat va yuqori versiyalar uchun)
+\n • So\'zma-so\'z tarjima, grammatik, ildiz va fe\'lning formalari haqida ma\'lumot
+\n • Xatcho\'p/sevimlilar foydalanuvchi tomonidan yaratilgan toifalarga ajratildi
+\n • Qur\'on indekslari
+\n • Eslatma olish imkoniyati
+\n • Xatcho\'p/qaydlar, tushirib olish/onlayn jo\'natish, fayl xususiyatlari
+\n • To\'liq matn qidiruv tizimi 
+\n • Yodlashga yordam berish uchun oyatni yoki oyatlar guruhini qayta o\'qish imkoniyatiga ega audio tizim
+\n • Turli shriftlar, katta/kichik zum xususiyatlari va bir necha temalar imkoniyati
+\n • Navbatdagi sahifaga avtomatik o\'tkazish imkoniyati
+\n • Turli tildagi Qur\'on tarjimalarini bir vaqtda ko\'raolish imkoniyati: Bengali, xitoy, ingliz, frantsuz, hind, nemis, indoneziya, italyan, malay, rus, ispan, urdu va boshqalar
+\n • Mishary al-Afasi, Husari (muallim) kabi ko\'plab qorilarning oyatma-oyat (yoki uzluksiz) qiroatlarini tushirib olish imkoniyati
+
+\n\nMinnatdormiz:
+\n • Grafian.com\'ning dastlabki kodlari uchun.
+\n • Quran.com\'ning ma\'lumotlar baza serverlari va audio mexanizmlari uchun.
+\n • Quran Tafsir Pro dasturining Ibn Kasir tafsiri va to\'plami uchun.
+\n • Guidedverses.com\'ning Han va Hilali sharhi uchun.
+\n • Quanindex.info\'ning Qur\'on indeks ma\'lumotlar bazasi uchun.
+\n • Qur\'onni o\'rganish/Qur\'onni tushunish akademiyasining fe\'l tarkiblarining bazasi uchun.
+\n • Va loyihamizga yordam bergan boshqa birodor va opa-singillar uchun. Alloh barchalarini qo\'llab-quvvatlasin!
+
+
+\n\n\nOgohlantiramiz:
+\n Qur\'onning hech bir tarjimasi yuz foiz aniq bo\'lishi yoki biror tildagi tarjima Qur\'onning asl matniga o\'rin bosar sifatida qo\'llanishi mumkin emas. Biz bu dasturda eng ko\'p qo\'llanilgan Qur\'on tarjimalarini taqdim etishga harakat qildik, lekin ularning haqiqiyligi yoki aniqligini kafolatlay olmaymiz. Iltimos, tarjimalarni o\'z xohishingizga ko\'ra foydalaning.</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Bizga tarjimada yordam qiling</string>
+    <string name="contribute_title">Davomi kelib turuvchi savobli ishga hissa qo\'shing</string>
+    <string name="contribute_text">GreenTech Apps siz uchun innovatsion, zamonaviy va chiroyli islomiy ilova(dastur)larni taklif etadi. \n\n
+Ilovalarda reklama qo\'yilmagan va umuman bepul. \n\n
+Ummatning bilimiga yangi ilovalar va yangi xususiyatlar bilan yanada ko\'proq hissa qo\'shishimiz uchun, bizning jamoamiz taraqqiyotiga muntazam ma\'lum bir mablag\' kerak. \n\n
+Mana sizda o\'zgartirish, ummatga foyda berish va savobini bo\'lishish imkoniyati.</string>
+    <string name="contribute_button">Hissa qo\'shmoqchiman</string>
+    <!--more apps -->
+    <string name="devDetails">Ijodkorlik, Oddiylik, Mukammallik Alloh xohlasa</string>
+</resources>

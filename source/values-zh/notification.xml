@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>每日一节</item>
+        <item>今日一节</item>
+        <item>想阅读一节吗？</item>
+        <item>今天学习一节</item>
+        <item>每日一节经文</item>
+        <item>想了解一节经文吗？</item>
+        <item>让我们来学习一节经文</item>
+        <item>今日经文</item>
+        <item>今天读一节经文？</item>
+        <item>点击阅读一节经文</item>
+        <item>安拉告诉了你什么？</item>
+        <item>安拉今天跟你说话</item>
+        <item>今天和安拉说话了吗？</item>
+        <item>让我们和安拉说话</item>
+        <item>今天记念安拉了吗？</item>
+        <item>今天赞颂安拉了吗？</item>
+        <item>让我们记念安拉</item>
+        <item>心灵的粮食</item>
+        <item>洗涤心灵的时间</item>
+        <item>记忆你的主宰</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>通过古兰经学习</item>
+        <item>古兰经里怎么说</item>
+        <item>安拉怎么说</item>
+        <item>相关章节</item>
+        <item>相关经文</item>
+        <item>古兰经中关注的话题</item>
+        <item>今日话题</item>
+        <item>与古兰经文核对</item>
+        <item>从古兰经中学习</item>
+    </string-array>
+</resources>

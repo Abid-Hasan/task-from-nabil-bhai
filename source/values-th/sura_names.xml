@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <string-array name="sura_translation">
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การเปิด</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>วัวเพศเมีย</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ครอบครัวของอิมรอน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผู้หญิง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>สำรับอาหาร</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ปศุสัตว์</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ความสูง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ทรัพย์สินเชลยศึก</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การสำนึกผิด</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>นบียูนุส</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>นบีฮูด</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>นบียูซุฟ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ฟ้าร้อง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>นบีอิบรอฮีม</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ชาวอัลฮิจร์/หิน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผึ้ง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การเดินทางในเวลากลางคืน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ถ้ำ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>มัรยัม</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ฏอฮา</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>บรรดานบี</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ฮัจญ์/การแสวงบุญ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>บรรดาผู้ศรัทธา</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>แสง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การจำแนกความจริงออกจากความเท็จ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>บรรดากวี</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>มด</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>เรื่องราว</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>แมงมุม</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ชาวโรมัน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ลุกมาน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>สุญูด/การกราบ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>กลุ่ม/เผ่า</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>พวกสะบะอฺ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผู้สร้าง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ยาซีน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผู้เข้าแถว</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ศอด</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>กลุ่ม</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผู้ทรงอภัยโทษ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ได้ให้คำอธิบายไว้อยางละเอียด</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การปรึกษาหารือ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>เครื่องประดับทองคำ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>หมอกควัน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>คุกเข่า</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>เนินเขาอัลอะฮ์ก๊อฟ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>นบีมูฮัมหมัด</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ชัยชนะ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ห้อง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ก็อฟ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ลมที่พัดพา</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ภูเขาอัฏฏูร</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ดวงดาว</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ดวงจันทร์</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>พระผู้ทรงกรุณาปรานี</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>อุบัติการณ์ (วันกิยามะฮฺ)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>เหล็ก</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผู้หญิงที่อ้อนวอน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การถูกไล่ออก</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผู้หญิงที่ถูกทดสอบ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>แถว</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>วันศุกร์</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>พวกตลบตะแลง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>วันแห่งการร่วมตัว</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การหย่า</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>สิ่งที่ถูกสั่งห้าม</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>อำนาจ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ปากกา</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>สิ่งที่จะเกิดขึ้นอย่างแน่นอน (วันกิยามะฮฺ)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ทางขึ้นสู่เบื้องสูง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>นบีนูฮฺ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ญิน (ผี/ปีศาจ)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผู้คลุมกาย</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผู้ห่มกาย</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>วันกิยามะฮฺ (วันแห่งการฟื้นคืนชีพ)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>มนุษย์</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>สิ่งที่ถูกบัญชามา</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ข่าวสาร</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผู้ฉุดกระชาก (มะลาอิกะฮฺ)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ทำหน้าบึ้ง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การม้วน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การแยกออกจากกัน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>บรรดาผู้ทำให้พร่อง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การแยกออกจากกัน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>กลุ่มดาวอันมหาศาล</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ที่มาในเวลาค่ำคืน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผู้ทรงสูงสุด</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>เหตุการณ์ที่น่ากลัว (วันแห่งการพิพากษา)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ยามรุ่งอรุณ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>เมือง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ดวงอาทิตย์</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>กลางคืน</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>เวลาเช้า</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การเปิด/การปลอบใจ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>มะเดื่อ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ก้อนเลือด</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ความประเสริฐ (คืนอัลก็อดรฺ)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>หลักฐานอันชัดแจ้ง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การสั่นไหว (แผ่นดินไหว)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ม้าศึกที่วิ่งด้วยความหนักแน่น</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>พิบัติภัย (อัลกอริอะฮ์)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การสะสม</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>กาลเวลา</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ผู้นินทา</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ช้าง</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ชาวกุเรช</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>การช่วยเหลือ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ความจำเริญที่มากมาย</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>บรรดาผู้ปฏิเสธศรัทธา</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ความช่วยเหลือ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ใยอินทผลัม</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ความจริงใจ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>รุ่งอรุณ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>มนุษย์</item>
+    </string-array>
+    <string-array name="sura_transliteration">
+        <item>อัล-ฟาติหะฮฺ</item>
+        <item>อัล-บะเกาะเราะฮฺ</item>
+        <item>อาละอิมรอน</item>
+        <item>อัน-นิซาอฺ</item>
+        <item>อัล-มาอิดะฮฺ</item>
+        <item>อัล-อันอาม</item>
+        <item>อัล-อะอฺรอฟ</item>
+        <item>อัล-อันฟาล</item>
+        <item>อัต-เตาบะฮฺ</item>
+        <item>ยูนุส</item>
+        <item>ฮูด</item>
+        <item>ยูซุฟ</item>
+        <item>อัร-เราะอฺดฺ</item>
+        <item>อิบรอฮีม</item>
+        <item>อัล-ฮิจรฺ</item>
+        <item>อัน-นะหฺลฺ</item>
+        <item>อัล-อิสรออฺ</item>
+        <item>อัล-กะฮฺฟฺ</item>
+        <item>มัรยัม</item>
+        <item>ฏอฮา</item>
+        <item>อัล-อัมบิยาอฺ</item>
+        <item>อัล-ฮัจยฺ</item>
+        <item>อัล-มุอฺมินูน</item>
+        <item>อัน-นูรฺ</item>
+        <item>อัล-ฟุรกอน</item>
+        <item>อัช-ชุอะรออฺ</item>
+        <item>อัน-นัมลฺ</item>
+        <item>อัล-เกาะศ็อศ</item>
+        <item>อัล-อังกะบูต</item>
+        <item>อัรฺรูม</item>
+        <item>ลุกมาน</item>
+        <item>อัซ-ซัจญดะฮฺ</item>
+        <item>อัล-อะหฺซาบ</item>
+        <item>สะบะอฺ</item>
+        <item>ฟาฏิร</item>
+        <item>ยาซีน</item>
+        <item>อัศ-ศ็อฟฟาต</item>
+        <item>ศอด</item>
+        <item>อัซ-ซุมัร</item>
+        <item>ฆอฟิร</item>
+        <item>ฟุศศิลัต</item>
+        <item>อัซ-ซูรอ</item>
+        <item>อัซ-ซุครุฟ</item>
+        <item>อัด-ดุคอน</item>
+        <item>อัล-ญาซียะอฺ</item>
+        <item>อัล-อะฮฺก็อฟ</item>
+        <item>มูฮัมหมัด</item>
+        <item>อัล-ฟัตฮฺ</item>
+        <item>อัล-หุญร๊อต</item>
+        <item>ก็อฟ</item>
+        <item>อัซ-ซาริยาต</item>
+        <item>อัฎ-ฏูร</item>
+        <item>อัน-นัจมฺ</item>
+        <item>อัล-เกาะมัร</item>
+        <item>อัร-รอหฺมาน</item>
+        <item>อัล-วากิอะฮฺ</item>
+        <item>อัล-หะดีด</item>
+        <item>อัล-มุญาดะละฮฺ</item>
+        <item>อัล-หัซรฺ</item>
+        <item>อัล-มุมตะฮินะฮฺ</item>
+        <item>อัศ-ศ็อฟ</item>
+        <item>อัล-ญุมุอะฮฺ</item>
+        <item>อัล-มุนาฟิกูน</item>
+        <item>อัต-ตะฆอบุน</item>
+        <item>อัฎ-เฎาะล๊าก</item>
+        <item>อัต-ตะหฺรีม</item>
+        <item>อัล-มุลกฺ</item>
+        <item>อัล-กอลัม</item>
+        <item>อัล-หากเกาะฮฺ</item>
+        <item>อัล-มาอาริจญ์</item>
+        <item>นูหฺ</item>
+        <item>อัล-ญิน</item>
+        <item>อัล-มุซซัมมิล</item>
+        <item>อัล-มุดดัซซิร</item>
+        <item>อัล-กิยามะฮฺ</item>
+        <item>อัล-อินซาน</item>
+        <item>อัล-มุรซะล้าต</item>
+        <item>อัน-นะบะอฺ</item>
+        <item>อัน-นาซิอ๊าต</item>
+        <item>อะบะซะ</item>
+        <item>อัต-ตักวีร</item>
+        <item>อัล-อิมฟิฏอร</item>
+        <item>อัล-มุฏ็อฟฟิฟีน</item>
+        <item>อัล-อินชิก๊อก</item>
+        <item>อัล-บุรู๊จญ์</item>
+        <item>อัฏ-ฏอริก</item>
+        <item>อัล-อะอฺลา</item>
+        <item>อัล-ฆอซิยะฮฺ</item>
+        <item>อัล-ฟัจญรฺ</item>
+        <item>อัล-บะลัด</item>
+        <item>อัช-ชัมซฺ</item>
+        <item>อัล-ลัยลฺ</item>
+        <item>อัฎ-ฎุฮา</item>
+        <item>อัล-อินซิรอฮฺ</item>
+        <item>อัต-ตีน</item>
+        <item>อัล-อะลัก</item>
+        <item>อัล-ก็อดฺรฺ</item>
+        <item>อัล-บัยยินะฮฺ</item>
+        <item>อัล-ซัลซะละฮฺ</item>
+        <item>อัล-อาดิยาต</item>
+        <item>อัล-กอริอะฮฺ</item>
+        <item>อัต-ตะกาซุร</item>
+        <item>อัล-อัศรฺ</item>
+        <item>อัล-ฮุมะซะฮฺ</item>
+        <item>อัล-ฟีล</item>
+        <item>อัล-กุรอยซฺ</item>
+        <item>อัล-มาอูน</item>
+        <item>อัล-เกาซัร</item>
+        <item>อัล-กาฟิรูน</item>
+        <item>อัล-นัศรฺ</item>
+        <item>อัล-มะซัด</item>
+        <item>อัล-อิคลาส</item>
+        <item>อัล-ฟะลัก</item>
+        <item>อัน-นาส</item>
+    </string-array>
+</resources>

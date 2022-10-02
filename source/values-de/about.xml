@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">App teilen</string>
+    <string name="share_app_info">"Al-Qurʾān (Tafsīr &amp; Wort für Wort), ist einer der besten Apps, um den Qurʾān besser zu verstehen und zu lernen: Wiederholbare Vers für Vers Audiowiedergabe, Tafsīr von Ibn Kathīr, farbig markierter Tadschwīd, Lautschrift, Wort für Wort Analyse, vielerlei Übersetzungen (gleichzeitig darstellbar), individuelle Lesezeichen, Suchfunktion, zahlreiche Designs &amp; Schriftarten und vieles mehr erwarten Dich!
+
+https://gtaf.org/apps/quran \n\n#GreentechApps
+   "</string>
+    <string name="shareApk">Apk-Datei teilen</string>
+    <string name="sharelink">Link teilen</string>
+    <string name="getapp">Qurʾān App downloaden:</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">Abū Hurayrah (r.) berichtete, dass der Prophet (s.a.w.) gesagt hat: \'\"Derjenige, der nicht den Menschen dankbar ist (wenn sie einem etwas Gutes getan haben), der ist nicht Allāh dankbar\" \'\'\n[Abū Dāwūd 4811] \n\nNimm Dir bitte ein paar Minuten Zeit zum bewerten, sodass wir noch motivierter werden und weitere gute Taten begehen können!</string>
+    <string name="ratingtext">DEINE BEWERTUNG BEDEUTET UNS VIEL</string>
+    <string name="menu_rate">Bewerten!</string>
+    <string name="ratelater">Vielleicht später</string>
+    <string name="ratenothanks">Nein danke</string>
+    <string name="app_details">Alḥamdulillāh. Al-Qurʾān (Tafsīr &amp; Wort für Wort) ist ein Qurʾān-Lernprogramm, dass Dir folgendes ermöglicht:
+\n
+\n • Englischer Tafsīr von Ibn Kathīr mit integriertem Arabisch
+\n • Farbig markierter Taǧwīd, ähnlich wie die iQuran App (Für Kitkat und höhere Versionen)
+\n • Wort für Wort Übersetzung, Grammatik, Stämme und Verbformen
+\n • Lesezeichen/Favoriten in selbstgemachte Kategorien einteilbar
+\n • Eine praktische Suchmaschine, die Suchergebnisse aus dem ganzen Text markiert
+\n • Beliebig wiederholbare Audiowiedergabe verschiedener Rezitatoren; die Funktion Verse in Gruppen abzuspielen um beim auswendig lernen behilflich zu sein
+\n • Diverse Schriftarten; mehrere Designs; per Zwei-Finger-Zoom die Schrift vergößern oder verkleinern
+\n • Autoscroll-Funktion
+\n • Verschiedene Qurʾān Übersetzungen gleichzeitig darstellbar: Albanisch, Bengalisch, Bosnisch, Chinesisch, Englisch, Farsi, Französisch, Hindi, Deutsch, Indonesisch, Italienisch, Russisch, Spanisch, Türkisch, Urdu und viele mehr
+\n • Etliche Vers für Vers Rezitationen zum herunterladen (unterstützt lückenloses/fortlaufendes abspielen) enthält Mishary Al-Afasy, Husari (Muallim)
+
+\n\nDanksagungen an:
+\n • Grafian.com für den Basiscode ihrer App.
+\n • Quran.com für ihren Datenbankserver und Audiomechanismus.
+\n • Quran Tafsir Pro App für ihren Tafsīr Ibn Kathīr und Corpus.
+\n • Guidedverses.com für den Khan &amp; Hilali Kommentar.
+\n • Quranindex.info für die Qurʾān-Index Datenbank.
+\n • Academy of Quran Studies/Understand Quran für ihre Verbformen Datenbank.
+\n • QuranWBW.com für ihre Hindi Wort-für-Wort Datenbank und indopak Besitz.
+\n • Al Huda International (https://www.alhudapk.com/products/hindi-section.html) für ihre Hindi Wort-für-Wort Daten.
+\n •Unzählige andere Brüder &amp; Schwestern, die beim Projekt behilflich sind und waren. Möge Allāh s.w.t sie alle segnen, āmin.
+
+
+\n\n\nWichtiger Hinweis
+\nKeine Übersetzung des Qurʾāns kann zu 100% genau sein, oder den arabischen Originaltext ersetzen. Wir haben hier versucht ein Set von hauptsächlich akzeptablen Übersetzungen zur Verfügung zu stellen, jedoch können wir ihre Authenzität und/oder ihre Richtigkeit nicht garantieren. Bitte benutzen Sie jene unter eigenem Ermessen, vielen Dank!</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Hilf uns beim Übersetzen</string>
+    <string name="contribute_title">Sei ein Teil von Sadaqah Jariah</string>
+    <string name="contribute_short">Beitragen</string>
+    <string name="contribute_text">GreenTech Apps erfüllt den Bedarf an innovativ-modernen and schönen islamischen Apps für dich.\n\n
+Diese App enthält keine Werbung und ist komplett kostenlos.\n\n 
+Damit wir der Ummah noch mehr mit Apps und Funktionen beitragen können, benötigt unser Team regelmäßig Geldmittel, um den Fortschritt zu unterstützen.\n\n
+Hier ist deine Möglichkeit um einen Unterschied zu machen, nütze der Ummah und teile die Belohnung.</string>
+    <string name="contribute_button">Ich möchte mitwirken</string>
+    <!--more apps -->
+    <string name="devDetails">Kreativität, Schlichtheit, Exzellenz in šā\' Allāh</string>
+</resources>

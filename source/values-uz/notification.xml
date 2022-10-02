@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Kun oyati</item>
+        <item>Bugungi oyat</item>
+        <item>Oyat o\'qishga imkoniyat topasizmi?</item>
+        <item>Bugun bir oyat o\'rganing</item>
+        <item>Kunlik oyat</item>
+        <item>Bir oyat o\'rganmoqchimisiz?</item>
+        <item>Keling, bir oyat o\'rganamiz</item>
+        <item>Bugunga oyat</item>
+        <item>Bugun bir oyat o\'qidingizmi?</item>
+        <item>Oyatni o\'qish uchun bosing</item>
+        <item>Alloh (s.v.t.) sizga nima deydi?</item>
+        <item>Bugun Alloh (s.v.t) siz bilan so\'zlashsin</item>
+        <item>Bugun Alloh bilan so\'zlashdingizmi?</item>
+        <item>Alloh (s.v.t) bilan gaplashaylik</item>
+        <item>Bugun Alloh (s.v.t)ni esladingizmi?</item>
+        <item>Bugun Alloh (s.v.t)ga hamd keltirdingizmi?</item>
+        <item>Alloh (s.v.t)ni eslaylik</item>
+        <item>Qalbimiz uchun taom</item>
+        <item>Aqlimni yig\'ish vaqti</item>
+        <item>Yaratuvchingizni eslang</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Qur\'ondan biror narsa o\'rganmoqchimisiz?</item>
+        <item>Qur\'on bu haqida nima deydi?</item>
+        <item>Alloh (s.v.t) bu haqida nima deydi?</item>
+        <item>Mavzudagi oyatlar</item>
+        <item>Mavzudagi oyatlar</item>
+        <item>Qur\'ondan qiziqarli mavzular</item>
+        <item>Bugungi mavzu</item>
+        <item>Qur\'ondan tekshirib ko\'ring</item>
+        <item>Qur\'ondan o\'rganing</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Ayah diario</item>
+        <item>Ayah de hoy</item>
+        <item>Te gustaría leer un Ayah?</item>
+        <item>Aprende un Ayah hoy</item>
+        <item>Ayah diario</item>
+        <item>¿Quiéres conocer un Ayah?</item>
+        <item>Aprendamos un Ayah</item>
+        <item>Ayah de hoy</item>
+        <item>¿Has leído un Ayah hoy?</item>
+        <item>Haz clic para leer un Ayah</item>
+        <item>Qué te está diciendo Al-lah?</item>
+        <item>Deja que Al-lah te hable hoy</item>
+        <item>Has hablado con Al-lah hoy?</item>
+        <item>Hablemos con Al-lah</item>
+        <item>Has recordado a Al-lah hoy?</item>
+        <item>Has alabado a Al-lah hoy?</item>
+        <item>Recordemos a Al-lah</item>
+        <item>Alimento para el alma</item>
+        <item>Tiempo de refrescar tu mente</item>
+        <item>Recuerda a tu Señor</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>¿Deseas conocer más del Corán?</item>
+        <item>Qué dice el Corán acerca de:</item>
+        <item>Qué dice Al-lah acerca de:</item>
+        <item>Ayas acerca de</item>
+        <item>Versículos acerca de</item>
+        <item>Tema interesante en el Corán</item>
+        <item>Tema de hoy</item>
+        <item>Revisa esto en el Corán</item>
+        <item>Aprende esto en el Corán</item>
+    </string-array>
+</resources>

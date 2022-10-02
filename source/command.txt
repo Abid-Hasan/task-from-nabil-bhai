@@ -1,0 +1,9 @@
+npx attranslate --srcFormat=xml --srcFile=about.xml --srcLng=en --targetFormat=arb --targetFile=about.arb --targetLng=en --service=sync-without-translate
+
+npx attranslate --srcFormat=xml --srcFile=notification.xml --srcLng=en --targetFormat=arb --targetFile=notification.arb --targetLng=en --service=sync-without-translate
+
+npx attranslate --srcFormat=xml --srcFile=readers.xml --srcLng=en --targetFormat=arb --targetFile=readers.arb --targetLng=en --service=sync-without-translate
+
+npx attranslate --srcFormat=xml --srcFile=strings.xml --srcLng=en --targetFormat=arb --targetFile=strings.arb --targetLng=en --service=sync-without-translate
+
+npx attranslate --srcFormat=xml --srcFile=sura_names.xml --srcLng=en --targetFormat=arb --targetFile=sura_names.arb --targetLng=en --service=sync-without-translate

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="qari_walk">Ibrahim Walk (English Trans.)</string>
+    <string name="qari_muaiqly">Maher Al Muaiqly</string>
+    <string name="qari_tablawy">Mohammad al Tablaway</string>
+    <string name="qari_minshawi_murattal_gapless">Minshawi Murattal (tiada jurang)</string>
+    <string name="qari_husary_gapless">Husary (tiada jurang)</string>
+</resources>

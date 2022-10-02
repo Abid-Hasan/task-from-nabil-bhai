@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Құран</string>
+    <!-- CommonOperations -->
+    <string name="save">Сақта</string>
+    <string name="delete">Өшіру</string>
+    <string name="close">Жабу</string>
+    <string name="cancel">Болдырмау</string>
+    <string name="ok">Келісу</string>
+    <string name="share_image">Ресім (Скриншот)</string>
+    <string name="share_text">Жазу</string>
+    <string name="ayah_copied_popup">Аят көшірілді</string>
+    <string name="stringshotshare">Скриншотпен бөлісу</string>
+    <string name="popup_open_in_sura_view">Сүре/кітапша көрініс</string>
+    <string name="popup_tafsir_ibn_kathir">Тәпсірлі/Белгі көрінісі</string>
+    <string name="popup_play_this_ayah">Бұл Аятты тыңдау</string>
+    <!--Search-->
+    <string name="searchTitle">Сөйлем арқылы іздеу</string>
+    <string name="searchhelptext">Сүре нөмері: Аят нөмері арқылы тез Аятты табу</string>
+    <string name="noWordTyped">Бос жол</string>
+    <string name="search_in_all_collections">Іздеу: Барлық Жиындар</string>
+    <string name="search_in">"Мына жолдарды: %1$s"</string>
+    <string name="filter_hint">Фильтірлеу үшін жаз</string>
+    <string name="search_result">"\"%1$s\" Табылды %2$d Рет"</string>
+    <string name="search_result_root">"Түбір %1$s Табылды %2$d Рет"</string>
+    <string name="searching">"Іздеуде… %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">Түбір</string>
+    <string name="lemma">Туынды</string>
+    <string name="click_root_search_quran">Quran-нан іздеу үшін түбір немесе сегментке басыңыз</string>
+    <string-array name="verb_form_names">
+        <item>Болымды шақ</item>
+        <item>Болымсыз шақ</item>
+        <item>Императиаті</item>
+        <item>Белсенді есімдік</item>
+        <item>Пассивті есімдік</item>
+        <item>Зат есім түрі</item>
+    </string-array>
+    <string name="writenote">Ескертпелер жазу</string>
+    <string name="choose_translations">Аудармасын таңдау</string>
+    <string name="auto_scroll">Автоматты өткізу</string>
+    <string name="jump_sura">Сүреге бару</string>
+    <string name="jump_tafsir">Тәпсірді аш</string>
+    <!-- sura metainfo -->
+    <string name="makki">Мекке</string>
+    <string name="madani">Мәдина</string>
+    <string name="surah_location">"Мекен-жайы"</string>
+    <string name="sura_num_ayahs">"Аяттар: "</string>
+    <string name="sura_ruku_num">"Рукуғтар: "</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">Болдырмау&#8230;</string>
+    <string name="timing_database">Керекті файлдар</string>
+    <string name="quran_sura">Сүре</string>
+    <string name="quran_ayah">Аят</string>
+    <string name="quran_page">Бет</string>
+    <string name="quran_hizb">Хизб</string>
+    <string name="quran_juz2">Пара</string>
+    <string name="juz2_description">"%1$d%2$s -пара"</string>
+    <string name="juzpage_description">" : Бет %1$d"</string>
+    <string name="page_description">"%1$d-бет"</string>
+    <string name="hizb_description">"Пара %1$d%2$s"</string>
+    <string name="permission_save_in_sdcard">SD картада сақтау үшін рұқсат керек</string>
+    <string name="permission_save_in_sdcard_unable">Мәліметтерді жүйелік қорда сақтай алмады</string>
+    <string name="note_saved">Сақталмады</string>
+    <string name="topics_verses_index">Бұл Аятқа байланысты тақырыптар</string>
+    <!-- Bookmark -->
+    <string name="create_new">Жаңасын&#8230; құру</string>
+    <string name="create_add">Құру &amp; Қосу</string>
+    <string name="bookmark_result">"\'%1$s\' рет %2$d табылды"</string>
+    <string name="bookmark_last_read">Соңғы қосылған</string>
+    <!--menu-->
+    <string name="menu_share">Бөлісу</string>
+    <string name="menu_quran_index">Құран индексі</string>
+    <string name="menu_report">Шағымдану</string>
+    <string name="menu_copy">Көшіру</string>
+    <string name="menu_bookmarks">Бетбелгілер</string>
+    <string name="add_bookmarks">Бетбелгісін қосу</string>
+    <string name="menu_jump">Өту</string>
+    <string name="menu_settings">Баптау</string>
+    <string name="menu_search">Іздеу</string>
+    <string name="menu_notes">Ескертпелер</string>
+    <!--Options-->
+    <string name="pref_apperance">Көрінісі</string>
+    <string name="pref_settings_choose_language">Тіл</string>
+    <string name="pref_theme">Темасы</string>
+    <string name="pref_show_translation">Аудармасын Көрсет</string>
+    <string name="pref_translations">Аудармалары</string>
+    <string name="pref_translation">Аударма</string>
+    <string name="pref_translation_font_size">Фонт Аударма Өлшемі</string>
+    <string name="pref_arabic">Арабша</string>
+    <string name="pref_arabic_font_size">Арабша Фонт Өлшемі</string>
+    <string name="pref_showarabic">Арабшасын Көрсет</string>
+    <string name="pref_arabic_font">Арабша Фонт</string>
+    <string name="pref_showwordbyword">Сөзбе-Сөз</string>
+    <string name="pref_showtajweed">Таджуйд</string>
+    <string name="pref_mushaftype">Мұсхаф Түрінде</string>
+    <string name="pref_arabicfont">Арабша</string>
+    <string name="pref_rtl">Оңнан Сол Тарапқа Көру</string>
+    <string name="pref_keepscreenon">Экранды Ашық Ұстау</string>
+    <string name="pref_audio_manager">Аудио менеджер (эксперименттік)</string>
+    <string name="pref_audio_manager_summary">Құран аудио файлдарын жүктеу және басқару</string>
+    <string name="pref_notification_switch">Күндік Ескертпелер</string>
+    <string name="pref_clearsearch">Іздеу Тарихын Өшіру</string>
+    <string name="searchistoryremoved">Іздеу Журналы Жойылды</string>
+    <string name="pref_tajweedrules">Таджуйд Ережелері</string>
+    <string name="pref_tajweed_summary">Тоқтау Белгілері, Таджуйд айтылу ережелері</string>
+    <string-array name="mushaf_names">
+        <item>Османи</item>
+        <item>ИндоПак/Азиялық (Бета)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>Ақ</item>
+        <item>Қара (Түн)</item>
+        <item>Жасыл</item>
+        <item>Қоңыр</item>
+        <item>Dark Blue (Night)</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">Келесі</string>
+    <string name="done_tut">Ұқтым</string>
+    <!--Tutorial overlay-->
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Жүктелді</string>
+    <string name="download_processing">Жүктеу&#8230;</string>
+    <string name="notification_download_canceled">Жүктелу тоқтатылды</string>
+    <string name="download_non_wifi_prompt">Wi-Fi қосылмаған. Бәрібір жүктелсін бе?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">%1$s/%2$s жүктелді</string>
+    <string name="download_sura_progress">%3$d-сүренің %1$s жүктелді (барлығы: %2$s)&#8230;</string>
+    <string name="process_progress">%1$d/%2$d жүктелді</string>
+    <string name="error_general">Жүктелмеді</string>
+    <string name="error_disk">Құрылғыда бос орын жоқ</string>
+    <string name="error_network">Байланыс қателігі</string>
+    <string name="error_insufficient_permissions">Рұқсат қателігі</string>
+    <string name="error_invalid_download_retry">Файл бүлінген; қайта жүктелуде&#8230;</string>
+    <string name="error_network_retry">Байланыс қателігі; қайта қосылуда&#8230;</string>
+    <!-- Audio panel -->
+    <string name="play_apply">Қолдану</string>
+    <string name="previous">Алдыңғы</string>
+    <string name="play">Тыңдау</string>
+    <string name="pause">Кідірту</string>
+    <string name="stop">Тоқтату</string>
+    <string name="next">Келесі</string>
+    <string name="downloading_title">Жүктеу&#8230;</string>
+    <string name="downloading_message">Файлдар толық жазылғанша күтіңіз</string>
+    <string name="processing">Шығару&#8230;</string>
+    <string name="remove_dlg_title">Аударма жойылсын ба?</string>
+    <string name="remove_dlg_msg">%1$s аудармасын жоюға сенімдімісіз?</string>
+    <string name="remove_button">Жою</string>
+    <string name="juz_description">Пара %1$d</string>
+    <!--Tajweed Activity-->
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <!--todo indopak under construction -->
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <!-- Match results -->
+    <!--quran planner-->
+    <!--changelog-->
+</resources>

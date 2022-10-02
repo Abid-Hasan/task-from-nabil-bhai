@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Āyah des Tages</item>
+        <item>Heutige Āyah</item>
+        <item>Interesse eine Āyah zu lesen?</item>
+        <item>Lerne heute eine Āyah</item>
+        <item>Tägliche Āyah</item>
+        <item>Möchtest Du eine Āyah lernen?</item>
+        <item>Lass uns eine Āyah lernen</item>
+        <item>Āyah für heute</item>
+        <item>Heute noch eine Āyah lesen?</item>
+        <item>Klick, um eine Āyah zu lesen</item>
+        <item>Was sagt Allāh zu Dir?</item>
+        <item>Lass Allāh heute mit Dir sprechen</item>
+        <item>Heute schon mit Allāh gesprochen?</item>
+        <item>Lass uns mit Allāh reden</item>
+        <item>Heute schon Allāh gedenkt?</item>
+        <item>Heute schon Allāh gepriesen?</item>
+        <item>Lass uns Allah erinnern</item>
+        <item>Nahrung für die Seele</item>
+        <item>Zeit den Kopf zu erfrischen</item>
+        <item>Erinnere deinen Herren</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Möchstest du was über den Koran wissen</item>
+        <item>Was sagt der Qurʾān über</item>
+        <item>Was sagt Allāh über</item>
+        <item>Āyāt über</item>
+        <item>Verse über</item>
+        <item>Interessantes Thema im Qurʾān</item>
+        <item>Heutiges Thema</item>
+        <item>Schau Dir das mal im Qurʾān an</item>
+        <item>Lerne das hier vom Qurʾān</item>
+    </string-array>
+</resources>

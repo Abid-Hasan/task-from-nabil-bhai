@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">Uygulamayı Paylaş</string>
+    <string name="share_app_info">Al Quran (Tafsir &amp; meal) herkes için bir Kuran çalışma aracıdır. Tekrarlama fonksiyonları, Tafsir ibn kesir, Renk Kodlu Tecvid, kelimeye göre Analiz ve Çeviriler, özel yer imleri, arama, birkaç eşzamanlı çeviri, çoklu temalar ve yazı tipleri ve çok daha fazlası ile ayet ses çalma sağlar.
+\ nŞimdi Google Play Store\'dan edinin: https://gtaf.org/apps/quran \ n \ n # GreentechApps</string>
+    <string name="shareApk">Apk Dosyasını Paylaş</string>
+    <string name="sharelink">Linki paylaş</string>
+    <string name="getapp">"Kur'an uygulaması'nı indirin: "</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">Resulullah (sav) şöyle buyurmuştur: “insanla\'ra şükürde bulunmayan Allah’a da şükretmez.”\n[Ebu Davud 4811]\n\nBizi değerlendirmek ve daha fazla iyilik yapmamıza vesile olmak için bir kaç dakikanı ayır.</string>
+    <string name="ratingtext">Dereğerlendirmeniz bizim için çok ömemli</string>
+    <string name="menu_rate">Oyla!</string>
+    <string name="ratelater">Belki sonra</string>
+    <string name="ratenothanks">Hayır teşekkürler</string>
+    <string name="app_details">Elhamdulillah. Al Kur\'an (Tafsir &amp; Word), keyif almanızı sağlayan bir Kur\'an Çalışma Aracıdır:
+\n 
+\n • Yerleşik Arapça ile İngilizce ibni kesir tefsiri 
+\n • IQuran\'a benzer Renk Kodlu Tajweed (Kitkat ve üstü için)
+\n • Kelime Çevirme yorum, Gramer, Kök ve Fiil Formu Detayları
+\n • Yer imleri / Sık kullanılanlar kullanıcı kategorilerine ayrılmıştır
+\n • Kur\'an Dizini
+\n • Not alma desteği 
+\n • Bookmarks / Notes Çevrimiçi olarak içe aktarma / dışa aktarma, dosya özelliği
+\n • Vurguları olan güçlü bir tam metin arama motoru
+\n • Tekrarlanan sağlam ses sistemi, ezbere yardımcı olmak için ayetlerin grup çalma fonksiyonu
+\n • Çeşitli yazı tipleri, tutam yakınlaştırma özelliği ve çoklu Temalar
+\n • Otomatik gezinme özelliği
+\n • Aynı anda görüntülenebilen farklı Kuran Tercümeleri: Bengalce, Çince, İngilizce, Fransızca, Hintçe, Almanca, Endonezyaca, İtalyanca, Malayca, Rusça, İspanyolca, Urduca Türkçe, Kürtçe ve daha fazlası
+\n • Mishary Al-Afasy, Husari (muallim) dahil olmak üzere ayetlere göre ayetler için birkaç indirilebilen yazışmalar (geçişli/ sürekli okunuşu destekler)
+
+\n\nNezaket: 
+\n • İlk kodları için Grafian.com.
+\n • Kendi veritabanı sunucusu ve Ses Mekanizması için Quran.com.
+\n • Onların tafsir ibni Kesir ve Külliyat için Kuran Tafsir Pro App.
+\n • guidedverses.com için Khan &amp; hilali yorum.
+\n • quranindex.info için onların kur\'an Endeksi veritabanı.
+\n • Akademi kuran çalışmaları / anlamak kur\'an için onların fiil formları veritabanı.
+\n • kardeşlerim diğer çeşitli projeler için  yardım edin. Allah hepinizi korusun. 
+
+
+\n\n\nyalanlama:
+\n Kuran\'ın çevirisi hiçbiri yüzde yüz doğru olmayabilir, ne de Kuran metninin yerine kullanılabilir. Burada, çoğunlukla kabul edilebilir bir kuran tercümesi sunmaya çalıştık, fakat onların gerçekliğini  veya doğruluğunu garanti edemeyiz. Lütfen bunları kendi tedbirine bağlı olarak kullanın.</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Bize çeviri de yardım edin</string>
+    <string name="contribute_title">Devamlı(cariye) sadakasının bir parçası olun</string>
+    <string name="contribute_short">Katkıda bulunmak</string>
+    <string name="contribute_text">GreenTech Apps, sizin için yenilikçi modern ve güzel islam uygulamalarının ihtiyacını karşılar. \ N \ n
+Uygulamalar hiç reklam içermez ve tamamen ücretsizdir. \ N \ n
+Yeni uygulamalar ve özellikler ile ümmet\'e daha fazla katkıda bulunabilmemiz için ekibimizin ilerlemeyi desteklemek için düzenli paraya ihtiyacı var. \ N \ n
+İşte bir fark yaratma şansın var, ümme\'te fayda sağla ve mükafatları paylaş.</string>
+    <string name="contribute_button">Katkıda bulunmak istiyorum</string>
+    <!--more apps -->
+    <string name="devDetails">Yaratıcılık, basitlik, mükemmellik inşâ\'Allâh</string>
+</resources>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sura_translation">
+        <item>Ang Pambungad</item>
+        <item>Ang Baka</item>
+        <item>Ang Pamilyang Imran</item>
+        <item>Ang Mga Kababaihan</item>
+        <item>Ang Hapag-Kainan</item>
+        <item>Ang Bakahan</item>
+        <item>Ang Mga Tugatog</item>
+        <item>Ang Mga Samsam Sa Digmaan</item>
+        <item>Ang Pagsisisi</item>
+        <item>Propeta Jonas</item>
+        <item>Propeta Hud</item>
+        <item>Propeta Jose</item>
+        <item>Ang Kulog</item>
+        <item>Propeta Abraham</item>
+        <item>Ang Malaking Bato</item>
+        <item>Ang Bubuyog</item>
+        <item>Ang Gabing Paglalakbay</item>
+        <item>Ang Yungib</item>
+        <item>Mariya</item>
+        <item>Mga Titik \'Taa\' at \'Haa\'</item>
+        <item>Ang Mga Sugo</item>
+        <item>Ang Pagdalaw</item>
+        <item>Ang Mga Mananampalataya</item>
+        <item>Ang Liwanag</item>
+        <item>Ang Pamantayan</item>
+        <item>Ang Mga Makata</item>
+        <item>Ang Langgam</item>
+        <item>Ang Mga Kuwento</item>
+        <item>Ang Gagamba</item>
+        <item>Ang Mga Romano</item>
+        <item>Lukman</item>
+        <item>Ang Pagtirapa</item>
+        <item>Ang Mga Kapisanan</item>
+        <item>Ang Lungsod Ng Sheba</item>
+        <item>Ang Tagapasimula</item>
+        <item>Mga Titik \'Yaa\' at \'Seen\'</item>
+        <item>Ang Mga Nakahilera</item>
+        <item>Ang Titik \'Saad\'</item>
+        <item>Ang Mga Pangkat</item>
+        <item>Ang Tagapagpatawad</item>
+        <item>Ipinaliwanag sa detalye</item>
+        <item>Ang Sanggunian</item>
+        <item>Ang Mga Palamuting Ginto</item>
+        <item>Ang Usok</item>
+        <item>Ang Pagyuko</item>
+        <item>Ang Mga Buhangin</item>
+        <item>Propeta Muhammad</item>
+        <item>Ang Tagumpay</item>
+        <item>Ang Mga Loobang Kuwarto</item>
+        <item>Ang Titik \'Qaaf\'</item>
+        <item>Ang Mga Hanging Nagtatahip</item>
+        <item>Ang Bundok</item>
+        <item>Ang Bituin</item>
+        <item>Ang Buwan</item>
+        <item>Ang Pinakamaawain</item>
+        <item>Ang Di-maiiwasan</item>
+        <item>Ang Bakal</item>
+        <item>Ang Nagsusumamong Babae</item>
+        <item>Ang Pagpapatapon</item>
+        <item>Ang Babaeng Susuriin</item>
+        <item>Ang Mga Antas</item>
+        <item>Biyernes</item>
+        <item>Ang Mga Mapagkunwari</item>
+        <item>Ang Damayang Pagtutuwid</item>
+        <item>Ang Diborsyo</item>
+        <item>Ang Pagbabawal</item>
+        <item>Ang Kapangyarihan</item>
+        <item>Ang Panulat</item>
+        <item>Ang Katotohanan</item>
+        <item>Ang Hagdang Paakyat</item>
+        <item>Propeta Noa</item>
+        <item>Ang Dyinn</item>
+        <item>Ang Isang Nakabalot</item>
+        <item>Ang Isang Nakabalabal</item>
+        <item>Ang Muling Pagkabuhay</item>
+        <item>Ang Tao</item>
+        <item>Ang Mga Sugo</item>
+        <item>Ang Pahayag</item>
+        <item>Sila Na Kumakaladkad</item>
+        <item>Siya Ay Nangunot-noo</item>
+        <item>Ang Panlulupig</item>
+        <item>Ang Pagbibiyak</item>
+        <item>Ang Pandaraya</item>
+        <item>Ang Pagkakahati</item>
+        <item>Ang Mga Bituin</item>
+        <item>Ang Umagang Bituin</item>
+        <item>Ang Pinakamataas</item>
+        <item>Ang Kakila-kilabot</item>
+        <item>Ang Bukang Liwayway</item>
+        <item>Ang Lungsod</item>
+        <item>Ang Init (Araw)</item>
+        <item>Ang Gabi</item>
+        <item>Ang Mga Oras Sa Umaga</item>
+        <item>Ang Pampalubag-loob</item>
+        <item>Ang Igos</item>
+        <item>Ang Namuong Dugo</item>
+        <item>Ang Kapangyarihan, Ang Tadhana</item>
+        <item>Ang Katibayan</item>
+        <item>Ang Lindol</item>
+        <item>Ang Mga Kabayong Pandigma</item>
+        <item>Ang Kasamaang-palad</item>
+        <item>Ang Paligsahan</item>
+        <item>Ang Lumulubog Na Araw, Ang Panahon</item>
+        <item>Ang Maninirang-puri</item>
+        <item>Ang Elepante</item>
+        <item>Tribung Quraysh</item>
+        <item>Ang Pagbibigay-tulong</item>
+        <item>Ang Kasaganaan</item>
+        <item>Ang Mga Di-mananampalataya</item>
+        <item>Ang Banal Na Tulong</item>
+        <item>Ang Hibla Ng Palmera</item>
+        <item>Ang Kadalisayan</item>
+        <item>Ang Madaling Araw</item>
+        <item>Ang Sangkatauhan</item>
+    </string-array>
+    <string-array name="sura_transliteration">
+        <item>Al-Fatihah</item>
+        <item>Al-Baqarah</item>
+        <item>Ali Imran</item>
+        <item>An-Nisa\'</item>
+        <item>Al-Ma\'idah</item>
+        <item>Al-An\'am</item>
+        <item>Al-A\'raf</item>
+        <item>Al-Anfal</item>
+        <item>At-Tawbah</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Ar-Ra\'d</item>
+        <item>Ibrahim</item>
+        <item>Al-Hijr</item>
+        <item>An-Nahl</item>
+        <item>Al-Isra</item>
+        <item>Al-Kahf</item>
+        <item>Maryam</item>
+        <item>Ta Ha</item>
+        <item>Al-Anbiya</item>
+        <item>Al-Hajj</item>
+        <item>Al-Mu\'minun</item>
+        <item>An-Nur</item>
+        <item>Al-Furqan</item>
+        <item>Ash-Shu\'ara</item>
+        <item>An-Naml</item>
+        <item>Al-Qasas</item>
+        <item>Al-\'Ankabut</item>
+        <item>Ar-Rum</item>
+        <item>Luqman</item>
+        <item>As-Sajdah</item>
+        <item>Al-Ahzab</item>
+        <item>Saba</item>
+        <item>Fatir</item>
+        <item>Ya Sin</item>
+        <item>As-Saffat</item>
+        <item>Sad</item>
+        <item>Az-Zumar</item>
+        <item>Ghafir</item>
+        <item>Fussilat</item>
+        <item>Ash-Shura</item>
+        <item>Az-Zukhruf</item>
+        <item>Ad-Dukhan</item>
+        <item>Al-Jathiyah</item>
+        <item>Al-Ahqaf</item>
+        <item>Muhammad</item>
+        <item>Al-Fath</item>
+        <item>Al-Hujurat</item>
+        <item>Qaf</item>
+        <item>Adh-Dhariyat</item>
+        <item>At-Tur</item>
+        <item>An-Najm</item>
+        <item>Al-Qamar</item>
+        <item>Ar-Rahman</item>
+        <item>Al-Waqi\'ah</item>
+        <item>Al-Hadid</item>
+        <item>Al-Mujadilah</item>
+        <item>Al-Hashr</item>
+        <item>Al-Mumtahanah</item>
+        <item>As-Saf</item>
+        <item>Al-Jumu\'ah</item>
+        <item>Al-Munafiqun</item>
+        <item>At-Taghabun</item>
+        <item>At-Talaq</item>
+        <item>At-Tahrim</item>
+        <item>Al-Mulk</item>
+        <item>Al-Qalam</item>
+        <item>Al-Haqqah</item>
+        <item>Al-Ma\'arij</item>
+        <item>Nuh</item>
+        <item>Al-Jinn</item>
+        <item>Al-Muzzammil</item>
+        <item>Al-Muddaththir</item>
+        <item>Al-Qiyamah</item>
+        <item>Al-Insan</item>
+        <item>Al-Mursalat</item>
+        <item>An-Naba</item>
+        <item>An-Nazi\'at</item>
+        <item>\'Abasa</item>
+        <item>At-Takwir</item>
+        <item>Al-Infitar</item>
+        <item>Al-Mutaffifin</item>
+        <item>Al-Inshiqaq</item>
+        <item>Al-Buruj</item>
+        <item>At-Tariq</item>
+        <item>Al-A\'la</item>
+        <item>Al-Ghashiyah</item>
+        <item>Al-Fajr</item>
+        <item>Al-Balad</item>
+        <item>Ash-Shams</item>
+        <item>Al-Layl</item>
+        <item>Ad-Duha</item>
+        <item>Ash-Sharh</item>
+        <item>At-Tin</item>
+        <item>Al-\'Alaq</item>
+        <item>Al-Qadr</item>
+        <item>Al-Bayyinah</item>
+        <item>Az-Zalzalah</item>
+        <item>Al-\'Adiyat</item>
+        <item>Al-Qari\'ah</item>
+        <item>At-Takathur</item>
+        <item>Al-\'Asr</item>
+        <item>Al-Humazah</item>
+        <item>Al-Fil</item>
+        <item>Quraish</item>
+        <item>Al-Ma\'un</item>
+        <item>Al-Kawthar</item>
+        <item>Al-Kafirun</item>
+        <item>An-Nasr</item>
+        <item>Al-Masad</item>
+        <item>Al-Ikhlas</item>
+        <item>Al-Falaq</item>
+        <item>An-Nas</item>
+    </string-array>
+</resources>

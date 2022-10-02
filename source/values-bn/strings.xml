@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">আল কুরআন (তাফসির এবং শব্দে শব্দে)</string>
+    <!-- CommonOperations -->
+    <string name="save">সেভ করুন</string>
+    <string name="delete">ডিলিট করুন</string>
+    <string name="close">বন্ধ করুন</string>
+    <string name="cancel">বাদ দিন</string>
+    <string name="ok">ঠিক আছে</string>
+    <string name="share_image">ছবি</string>
+    <string name="share_text">লিখা</string>
+    <string name="multiple_ayahs">একাধিক আয়াত</string>
+    <string name="ayah_copied_popup">আয়াত কপি করা হয়েছে</string>
+    <string name="stringshotshare">স্ক্রিনশট শেয়ার করুন</string>
+    <string name="popup_open_in_sura_view">সূরা হিসেবে দেখুন</string>
+    <string name="popup_tafsir_ibn_kathir">তাফসির/নোট দেখুন</string>
+    <string name="popup_play_this_ayah">এই আয়াতের তিলাওয়াত শুনুন</string>
+    <!--Search-->
+    <string name="searchTitle">বাক্য দিয়ে খুজুন</string>
+    <string name="searchhelptext">উদাহরণ : 
+
+সুরা নম্বর:আয়াত নম্বর সার্চ এর জন্য ব্যবহার করুন দ্রুত আয়াত এ যেতে</string>
+    <string name="noWordTyped">কিছু টাইপ করা হয়নি</string>
+    <string name="search_in_all_collections">অনুসন্ধান করুন : সকল বিভাগ/সংগ্রহ</string>
+    <string name="search_in">" অনুসন্ধান করুন : %1$s"</string>
+    <string name="filter_hint">ফিল্টার করার জন্য টাইপ করুন</string>
+    <string name="search_result">"\"%1$s\" পাওয়া গিয়েছে %2$d বার"</string>
+    <string name="search_result_root">"মূল %1$s পাওয়া গিয়েছে %2$d বার"</string>
+    <string name="searching">"অনুসন্ধান করছে… %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">মূল</string>
+    <string name="lemma">মূল/ডেরিভেটিভ</string>
+    <string name="click_root_search_quran">কুরআনে খোজার জন্য শব্দের মূল বা কোন অংশে ক্লিক করুন</string>
+    <string-array name="verb_form_names">
+        <item>অতীত কাল</item>
+        <item>বর্তমান/ভবিষ্যত কাল</item>
+        <item>আদেশ মূলক</item>
+        <item>কর্তা</item>
+        <item>কর্ম</item>
+        <item>ক্রিয়াবাচক বিশেষ্য</item>
+    </string-array>
+    <string name="writenote">নোট লিখুন</string>
+    <string name="choose_translations">অনুবাদ বাছাই করুন</string>
+    <string name="auto_scroll">অটোস্ক্রল</string>
+    <string name="jump_sura">সূরায় যান</string>
+    <string name="jump_tafsir">তাফসীরে যান</string>
+    <!-- sura metainfo -->
+    <string name="makki">মাক্কী</string>
+    <string name="madani">মাদানী</string>
+    <string name="surah_location">"স্থান: "</string>
+    <string name="sura_num_ayahs">"আয়াতসমূহ: "</string>
+    <string name="sura_ruku_num">"রুকুসমূহ: "</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">বাদ হচ্ছে…</string>
+    <string name="timing_database">প্রয়োজনীয় ফাইল</string>
+    <string name="quran_sura">সূরা</string>
+    <string name="quran_ayah">আয়াত</string>
+    <string name="quran_page">পৃষ্ঠা</string>
+    <string name="quran_hizb">হিজব</string>
+    <string name="quran_juz2">পারা</string>
+    <string name="juz2_description">"পারা %1$d%2$s"</string>
+    <string name="juzpage_description">" : পৃষ্ঠা %1$d"</string>
+    <string name="page_description">"পৃষ্ঠা %1$d"</string>
+    <string name="hizb_description">"পারা %1$d%2$s"</string>
+    <string name="permission_save_in_sdcard">মেমোরিতে ডেটা সংরক্ষণ করার জন্য অনুমতি প্রয়োজন</string>
+    <string name="permission_save_in_sdcard_unable">মেমোরিতে ডেটা সংরক্ষণ করা যায়নি</string>
+    <string name="note_saved">নোট সংরক্ষিত হয়েছে</string>
+    <string name="topics_verses_index">এই আয়াতের সাথে সম্পর্কিত বিষয়াবলী</string>
+    <!-- Bookmark -->
+    <string name="create_new">নতুন তৈরি করুন…</string>
+    <string name="create_add">তৈরি করুন এবং যুক্ত করুন</string>
+    <string name="bookmark_result">"%1$s পাওয়া গিয়েছে %2$d বার"</string>
+    <string name="bookmark_last_read">সর্বশেষ পড়ছিলেন</string>
+    <!--menu-->
+    <string name="menu_share">শেয়ার করুন</string>
+    <string name="menu_quran_index">কুরআনের বিষয়সূচি</string>
+    <string name="menu_quran_dictionary">অভিধান</string>
+    <string name="menu_quran_planner">কুরআন পাঠ পরিকল্পনা</string>
+    <string name="menu_report">রিপোর্ট করুন</string>
+    <string name="menu_copy">কপি করুন</string>
+    <string name="menu_bookmarks">বুকমার্ক</string>
+    <string name="add_bookmarks">বুকমার্ক করুন</string>
+    <string name="menu_jump">নির্দিষ্ট আয়াতে যান</string>
+    <string name="menu_settings">সেটিংস</string>
+    <string name="menu_search">খুঁজুন</string>
+    <string name="menu_notes">টীকা/মন্তব্য</string>
+    <string name="menu_day_ayah">আজকের আয়াত</string>
+    <!--Options-->
+    <string name="pref_apperance">ডিসপ্লে</string>
+    <string name="pref_settings_choose_language">ভাষা</string>
+    <string name="pref_theme">থিম</string>
+    <string name="pref_show_translation">অনুবাদ দেখাবে</string>
+    <string name="pref_translations">অনুবাদগুলো</string>
+    <string name="pref_translation">অনুবাদ</string>
+    <string name="pref_translation_font_size">অনুবাদ ফন্টের আকার</string>
+    <string name="pref_arabic">আরবি</string>
+    <string name="pref_arabic_font_size">আরবি ফন্টের আকার</string>
+    <string name="pref_showarabic">আরবি দেখুন</string>
+    <string name="pref_arabic_font">আরবি ফন্ট</string>
+    <string name="pref_showwordbyword">প্রতিটি শব্দের অর্থ</string>
+    <string name="pref_showtajweed">তাজউইদ</string>
+    <string name="pref_mushaftype">মুসহাফের ধরণ</string>
+    <string name="pref_arabicfont">আরবী ফন্ট</string>
+    <string name="pref_rtl">ডান থেকে বামে দেখাবে</string>
+    <string name="pref_keepscreenon">স্ক্রিন অন থাকবে</string>
+    <string name="pref_fixed_bars">স্থায়ী উপরের ও নিচের বার</string>
+    <string name="pref_audio_manager">অডিও ম্যানেজার</string>
+    <string name="pref_audio_manager_summary">কুরআনের তিলাওয়াত ডাউনলোড এবং নিয়ন্ত্রণ</string>
+    <string name="notification_time">নোটিফিকেশনের সময়</string>
+    <string name="notification_time_details">সকাল ও সন্ধ্যা</string>
+    <string name="notification">নোটিফিকেশন</string>
+    <string name="morning">সকাল এবং</string>
+    <string name="evening">সন্ধ্যা</string>
+    <string name="pref_notification_switch">দৈনিক নোটিফিকেশন</string>
+    <string name="pref_clearsearch">খোঁজার ইতিহাস মুছে ফেলুন</string>
+    <string name="searchistoryremoved">খোঁজার ইতিহাস মুছে ফেলা হয়েছে</string>
+    <string name="pref_tajweedrules">তাজউইদের নিয়ম</string>
+    <string name="pref_tajweed_summary">তাজউইদের(উচ্চারণ) এবং ওয়াকফের(থামার) নিয়ম</string>
+    <string-array name="mushaf_names">
+        <item>উসমানী / মাদানী</item>
+        <item>ইন্দোপাক/এশিয়ান (বেটা)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>সাদা</item>
+        <item>কালো (রাত)</item>
+        <item>সবুজ</item>
+        <item>বাদামী</item>
+        <item>গাঢ় নীল (রাত)</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">পরবর্তী</string>
+    <string name="done_tut">বুঝলাম</string>
+    <!--Tutorial overlay-->
+    <string name="share_ayah_title">আয়াত শেয়ার করুন</string>
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">সম্পূর্ণ ডাউনলোড হয়েছে</string>
+    <string name="download_processing">&#8230; ডাউনলোড হচ্ছে</string>
+    <string name="notification_download_canceled">ডাউনলোড বাতিল করা হয়েছে</string>
+    <string name="download_non_wifi_prompt">আপনি Wi-Fi এ নেই। মোবাইল ডাটা দিয়ে ডাউনলোড করতে চান?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">%1$s / %2$s ডাউনলোড হয়েছে</string>
+    <string name="download_sura_progress">%3$d সূরার %1$s / %2$s of ডাউনলোড হয়েছে</string>
+    <string name="process_progress">%1$d / %2$d ফাইল প্রক্রিয়া হচ্ছে</string>
+    <string name="download_all">সবগুলো ডাউনলোড করুন</string>
+    <string name="all">সব</string>
+    <string name="downloaded">ডাউনলোড শেষ</string>
+    <string name="available">বিদ্যমান</string>
+    <string name="download_question">ডাউনলোড?</string>
+    <string name="partial_text">" (আংশিক)"</string>
+    <string name="error_general">ডাউনলোড হয়নি</string>
+    <string name="error_disk">ডাউনলোড করতে মেমোরিতে পর্যাপ্ত জায়গা নেই</string>
+    <string name="error_network">নেটওয়ার্ক ত্রুটি</string>
+    <string name="error_insufficient_permissions">" অপর্যাপ্ত অনুমতি"</string>
+    <string name="error_invalid_download_retry">নষ্ট ফাইল, পুনরায় ডাউনলোড করার চেষ্টা করা হচ্ছে</string>
+    <string name="error_network_retry">নেটওয়ার্ক ত্রুটি, পুনরায় শুরু করার চেষ্টা করা হচ্ছে…</string>
+    <string name="error_error_unknown">অজানা ত্রুটি</string>
+    <!-- Audio panel -->
+    <string name="play_apply">ঠিক আছে</string>
+    <string name="previous">পূর্ববর্তী</string>
+    <string name="play">তিলাওয়াত শুনুন</string>
+    <string name="pause">বিরতি</string>
+    <string name="stop">বন্ধ</string>
+    <string name="next">পরবর্তী</string>
+    <string name="repeat_range">বাছাইকৃত আয়াত পুনরাবৃত্তি:</string>
+    <string name="repeat_each_verse">আয়াত পুনরাবৃত্তি:</string>
+    <string name="audio_from">শুরু</string>
+    <string name="audio_to">শেষ</string>
+    <string name="downloading_title">ডাউনলোড হচ্ছে</string>
+    <string name="downloading_message">ফাইল ডাউনলোড করার জন্য দয়া করে অপেক্ষা করুন (রিসিউম করা যাবে)</string>
+    <string name="processing">প্রক্রিয়া হচ্ছে…</string>
+    <string name="remove_dlg_title">এটা মুছে ফেলবেন?</string>
+    <string name="remove_dlg_msg">আপনি কি নিশ্চিতভাবে %1$s মুছে ফেলতে চান??</string>
+    <string name="remove_dlg_note_msg">আপনি কি %1$s এর নোট মুছে ফেলতে চান</string>
+    <string name="remove_button">মুছে ফেলুন</string>
+    <!--Tajweed Activity-->
+    <string name="title_activity_tawjeed_rules">তাজউইদের নিয়ম</string>
+    <string name="qalqala_tr">ক্বলক্বলা - প্রতিধ্বনি</string>
+    <string name="iqlab_tr">ইক্বলাব</string>
+    <string name="idgham_tr">ইদ্গাম - মিলিয়ে পড়া</string>
+    <string name="idghamwg_tr">গুন্নাহ ছাড়া ইদ্গাম</string>
+    <string name="ikhfa_tr">"ইখফা - গোপন করা"</string>
+    <string name="ghunna_tr">গুন্নাহ</string>
+    <string name="must_stop">অবশ্যই থামতে হবে</string>
+    <string name="_22_times">২২ বার</string>
+    <string name="better_to_stop">থামা ভাল, না থামলেও চলবে</string>
+    <string name="bettertostp_603_times">৬০৩ বার</string>
+    <string name="pause_at_one">দুটির একটিতে থামুন</string>
+    <string name="_12_times">১২ বার</string>
+    <string name="a_slight_pause">স্বল্প বিরতি নিন</string>
+    <string name="_7_times">৭ বার</string>
+    <string name="stop_or_continue">থামুন অথবা পড়তে থাকুন</string>
+    <string name="_1972_times">১৯৭২ বার</string>
+    <string name="better_to_continue">পড়া চালিয়ে যাওয়া ভাল</string>
+    <string name="_1682_times">১৬৮২ বার</string>
+    <string name="dont_stop">থামবেন না</string>
+    <string name="_68_times">৬৮ বার</string>
+    <string name="num_times">%1$d বার</string>
+    <string name="num_second">%1$d সেকেন্ড</string>
+    <string name="num_seconds">%1$d সেকেন্ড</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="gunnahtext">সংজ্ঞা : نّ অথবা مّ গুন্নাহ করে পড়তে হবে ।</string>
+    <string name="ikhfatext">সংজ্ঞা : نْ কিংবা ً ٍ ٌ এর পর ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت থাকলে হালকা গুন্নাহ করে পড়তে হবে ।\n\nআবার\n\nসংজ্ঞা : ب যখন مْ এর পর আসে তখনও হালকা গুন্নাহ করে পড়তে হয় ।</string>
+    <string name="idhghamtext">সংজ্ঞা : نْ অথবা ً ٍ ٌ এর পর و م ن ي থাকলে মিলিয়ে পড়তে হয় আর সেখানে গুন্নাহ করতে হয় ।\n\nআবার\n\nসংজ্ঞা : مْ এর পর مّ আসলে আগেরটি পরেরটার সাথে মিশে যাবে আর গুন্নাহ করে পড়তে হবে ।</string>
+    <string name="idhghamwgtext">সংজ্ঞা : نْ অথবা ً ٍ ٌ এর পর ل অথবা ر আসলে মিলিয়ে পড়তে হয় কিন্তু গুন্নাহ হবে না ।</string>
+    <string name="iqlabtext">সংজ্ঞা : نْ অথবা ً ٍ ٌ এর পর ب আসলে نْ অথবা ً ٍ ٌ , م তে পরিবর্তিত হয়ে যাবে ।</string>
+    <string name="qalqalatext">সংজ্ঞা : د ج ب ط ق এই পাঁচটি অক্ষরে যদি সাকিন(/সুকুন) ْ &amp; থাকে অথবা এগুলো যদি শেষ অক্ষর হিসেবে পড়া হয় তবে ক্বলক্বলার (প্রতিধ্বনি সহ) সাথে পড়তে হবে ।</string>
+    <string name="verb_form_basic">"ক্রিয়ার রূপ ১ কেইস %1$d"</string>
+    <string name="verb_form">"ক্রিয়ার রূপ %1$d"</string>
+    <string name="word_by_word_language">শব্দার্থের অনুবাদ</string>
+    <string-array name="parts_of_speech">
+        <item>দ্বিতীয়া-বিভক্তি</item>
+        <item>বিশেষণ</item>
+        <!--2-->
+        <item>সংশোধনী পদ</item>
+        <item>উত্তরবাচক পদ</item>
+        <item>চরম না-বাচক পদ</item>
+        <item>কারণবাচক পদ</item>
+        <item>নিশ্চয়তাজ্ঞাপক পদ</item>
+        <item>অবস্থাগত পদ</item>
+        <item>Comitative পদ</item>
+        <item>শর্তবাচক পদ</item>
+        <item>সম্বন্ধসূচক অব্যায়</item>
+        <!--11-->
+        <item>অবস্থানজ্ঞাপক সর্বনাম</item>
+        <item>নির্ধারক</item>
+        <item>জোরপ্রদান জ্ঞাপক পদ</item>
+        <item>সমতাবিধান পদ</item>
+        <item>পরামর্শবাচক পদ</item>
+        <item>বর্ণনাসূচক পদ</item>
+        <item>Exceptive পদ</item>
+        <item>ভবিষ্যতবাচক পদ</item>
+        <item>অনুজ্ঞাসূচক ক্রিয়াবাচক বিশেষ্য</item>
+        <item>অনুজ্ঞাসূচক লাম উপসর্গ</item>
+        <item>সূচনা পদ</item>
+        <item>কুরআনীয় অদ্যাক্ষর</item>
+        <item>ব্যাখ্যামূলক পদ</item>
+        <item>প্রশ্নসূচক পদ</item>
+        <item>অবস্থাজ্ঞাপক ক্রিয়াবিশেষণ</item>
+        <item>বিশেষ্য</item>
+        <!--26-->
+        <item>না-বাচক পদ</item>
+        <item>অব্যয় পদ</item>
+        <item>নামবাচক বিশেষ্য</item>
+        <item>প্রতিরোধবাচক পদ</item>
+        <item>নিষেধবাচক পদ</item>
+        <item>ব্যাক্তিবাচক সর্বনাম</item>
+        <item>উদ্দেশ্যজ্ঞাপক লাম উপসর্গ</item>
+        <item>আপেক্ষিক সর্বনাম</item>
+        <item>পুনরারম্ভ পদ</item>
+        <item>সীমাবদ্ধতাসূচক পদ</item>
+        <item>প্রত্যাহারমূলক পদ</item>
+        <item>ফলাফলজ্ঞাপক পদ</item>
+        <item>Subordinating conjunction</item>
+        <item>প্রাসঙ্গিক পদ</item>
+        <item>বিস্ময়সূচক পদ</item>
+        <item>সময়জ্ঞাপক ক্রিয়া বিশেষণ</item>
+        <item>ক্রিয়া</item>
+        <!--43-->
+        <item>সম্বোধনাত্মক কারক</item>
+        <item>বিশেষ্যবাচক ক্রিয়া</item>
+        <item>খেয়াল</item>
+        <item>দূরত্ব</item>
+        <item>ঠিকানা</item>
+    </string-array>
+    <string name="transliteration_warning_msg">আরবী ছাড়া অন্য ভাষায় কুরআন লিখা/পড়া ঠিক নয়।
+        এতে ভুল উচ্চারণের প্রচুর সম্ভবনা থাকে।
+        বিস্তারিত দেখুন @ https://islamqa.info/en/191497\n\n
+        আমাদের কষ্ট হলেও কুরআন পড়া শিখা উচিত।
+        কেননা কষ্ট করে শিখতে থাকলে আল্লাহ (সুব.) দ্বিগুণ সওয়াব দিবেন। [আবু দাউদ, বই ৮, হাদিস ৩৯].\n\n
+        আপনার এলাকার কোন শায়খ/ \'আলিম/ \'ক্বারী এর কাছে অথবা এই সাইটগুলো থেকে শিখে নিতে পারেন,\n
+        1. http://www.alquranervasha.com/\n
+
+        2. http://www.searchtruth.com/quran_teacher/quran.php\n
+
+ 
+        আমরা শীঘ্রই এই অপশনটি সরিয়ে নিব ইনশাআল্লাহ, কেননা এটা আমাদেরই ভুল ছিল। তাই তারপরও যদি আপনি এটি ব্যবহার করতে চান
+	সম্পূর্ণ নিজ দায়িত্বে করবেন। \n\n
+        আল্লাহ আমাদের সবার ভুলত্রুটিগুলো মাফ করে দিন।</string>
+    <string name="agree">ঠিক আছে</string>
+    <string name="transliteration_warning_title">সাবধান!!</string>
+    <string name="file_content_invalid">ফাইল অবৈধ</string>
+    <string name="imported">সফলভাবে আনা হয়েছে</string>
+    <string name="mushaf">মুসহাফ</string>
+    <string name="click_more">আরো জানতে এখানে ক্লিক করুন</string>
+    <string name="sync_online">অনলাইন সিঙ্ক করুন</string>
+    <string name="update">আপডেট</string>
+    <string name="add_note">নোট করুন</string>
+    <string name="exact_word_match">হুবহু শব্দমিল</string>
+    <!--todo indopak under construction -->
+    <string name="suggestion">সাজেশন</string>
+    <string name="comment">কমেন্ট</string>
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <string name="minutes_left">%1$d মিনিট</string>
+    <string name="minute_left">%1$d মিনিট</string>
+    <string name="less_than_minute">এক মিনিটের চেয়ে কম</string>
+    <string name="pref_font_size">ফন্ট আকার</string>
+    <string name="none_text">কোনটিই নয়</string>
+    <string name="sign_out">লগ আউট</string>
+    <string name="download_app_needed">এর জন্য অ্যাপ ডাউনলোড করতে হবে</string>
+    <!-- Match results -->
+    <string name="say_in_arabic">আরবিতে কিছু বলুন</string>
+    <string name="saved_in_download_folder">"ডাউনলোড করা ফোল্ডার আ ব্যাকআপ %1$sসংরক্ষিত আছে "</string>
+    <string name="new_version_available">" নতুন সংস্করণ পাওয়া যাবে  "</string>
+    <string name="please_update_to_new_version">অ্যাপ আপডেট করুন</string>
+    <string name="skip">এড়িয়ে যান</string>
+    <string name="action_undo">বাতিল করুন</string>
+    <!--quran planner-->
+    <string name="khatmah_on_track">ট্র্যাক এ</string>
+    <string name="khatmah_session_ahead">%1$d টি ধাপ অবশিষ্ট</string>
+    <string name="khatmah_session_behind">%1$d টি ধাপ অতিক্রান্ত হয়েছে</string>
+    <string name="khatmah_in_end_days">%1$d দিনের মধ্যে</string>
+    <string name="khatmah_complete">আপনি এটি অর্জন করেছেন। অভিনন্দন!</string>
+    <string name="cannot_be_empty">খালি রাখা যাবে না</string>
+    <string name="current_session">চলমান সেশন</string>
+    <string name="complete">সম্পূর্ণ</string>
+    <string name="all_session">সকল সেশন</string>
+    <string name="progress">অগ্রগতি</string>
+    <string name="read">পড়ুন</string>
+    <string name="pages">পৃষ্ঠা</string>
+    <string name="days">দিন</string>
+    <string name="save_progress">অগ্রগতি সংরক্ষণ করুন</string>
+    <string name="currently_at">এখন আছেন</string>
+    <string name="add_planner">পরিকল্পনা যুক্ত করুন</string>
+    <string name="name">নাম</string>
+    <string name="number_of_days">দিনের সংখ্যা</string>
+    <!--changelog-->
+    <string name="changelog_title">নতুন কি যুক্ত করা হয়েছে</string>
+    <string name="changelog_ok_button">ঠিক আছে</string>
+    <string name="changelog_full_title">কি পরিবর্তন করা হয়েছে</string>
+    <string name="font">ফন্ট</string>
+    <string name="tafsir">তাফসীর</string>
+    <string name="text_ayatul_kursi">আয়াতুল কুরসী</string>
+    <string name="juz_description">পারা %1$d</string>
+</resources>

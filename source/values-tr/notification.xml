@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Günün âyeti</item>
+        <item>Bugünün ayeti</item>
+        <item>Bir Ayat okumayı istiyor musun?</item>
+        <item>Bugün bir Ayet öğrenin</item>
+        <item>Gündelik ayet</item>
+        <item>Bir Ayet bilmek ister misiniz?</item>
+        <item>Ayet öğrenelim</item>
+        <item>Bugün için Ayet</item>
+        <item>Bugün bir Ayet oku?</item>
+        <item>Bir Ayat okumak için tıklayın</item>
+        <item>Allah size ne buyurdu?</item>
+        <item>Allah sana bugün buyuruyor!</item>
+        <item>Allah’la bugün konuştun mu?</item>
+        <item>Haydi Allah ile konuşalım</item>
+        <item>Bugün Allah\'ı hatırladın mı?</item>
+        <item>Bugün ALLAH\'A şükrettin mi?</item>
+        <item>Allah\'ı hatırlayalım</item>
+        <item>Ruh\'un gıdasıdır.</item>
+        <item>Zihnimizi yenileme zamanı geldi</item>
+        <item>Rabbini hatırla</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Kur\'an hakkında bilmek ister misiniz</item>
+        <item>Kur\'an ne buyuruyor</item>
+        <item>Allah ne diyor?</item>
+        <item>Ayetler hakkında</item>
+        <item>"Sureler hakkında "</item>
+        <item>Kur\'an\'da İlginç bir Konu</item>
+        <item>Bugünün konusu</item>
+        <item>Bunu Kuran\'da kontrol et</item>
+        <item>Bunu Kuran\'dan öğrenin</item>
+    </string-array>
+</resources>

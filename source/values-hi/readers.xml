@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="qari_abdulbaset">अब्द अल-बासित</string>
+    <string name="qari_abdulbaset_mujawwad">अब्द अल-बसित (मुजावाद)</string>
+    <string name="qari_basfar">अब्दुल्ला बसफर</string>
+    <string name="qari_suadis">अब्दुरहमान अस-सुदेईस</string>
+    <string name="qari_shatri">अबू बकर अश-शात्री</string>
+    <string name="qari_afasy">मिश्री अल-अफसी</string>
+    <string name="qari_saad_al_ghamdi">साद अल-गम्दी</string>
+    <string name="qari_walk">इब्राहिम वॉक (अंग्रेजी अनुवाद)</string>
+    <string name="qari_hani_rifai">हानी अर-रिफाई</string>
+    <string name="qari_husary_mujawwad">हुसारी (मुजावाद)</string>
+    <string name="qari_hudhayfi">अली अल-हुधाइफी</string>
+    <string name="qari_muaiqly">माहेर अल मुअयकली</string>
+    <string name="qari_minshawi_mujawwad">मिनाशावी (मुजावद)</string>
+    <string name="qari_tablawy">मोहम्मद अल तबलावे</string>
+    <string name="qari_ayyoub">मोहम्मद अयूब</string>
+    <string name="qari_jibreel">मोहम्मद जिब्रेएल</string>
+    <string name="qari_shuraym">सऊद अश-शुरयम</string>
+    <string name="qari_dussary">यासर अद-दुसारी</string>
+    <string name="qari_ayman_sowaid">अयमन सोवैद</string>
+    <string name="qari_abdullah_matroud">अब्दुल्ला मतरौद</string>
+    <string name="qari_ahmed_ibn_ali_al_ajamy">अहमद अल अजमी</string>
+    <string name="qari_salaah_bukhatir">सलाह बुखातीर</string>
+    <string name="qari_ali_jaber">अली जाबर</string>
+    <string name="qari_urdu_farhat_hashmi">फरहत हाश्मी (शब्द द्वारा उर्दू)</string>
+    <string name="qari_shamshad_ali_khan">शमशाद अली खान (उर्दू)</string>
+    <string name="qari_minshawi_murattal_gapless">मिनशावी मुरत्तल (अंतहीन)</string>
+    <string name="qari_husary_gapless">हुसरी (अंतहीन)</string>
+    <string name="qari_sudais_gapless">अब्दुरहमान अस-सुदेईस (अंतहीन)</string>
+    <string name="qari_qatami_gapless">नासर अल कतामी (अंतहीन)</string>
+    <string name="qari_abdulbaset_gapless">अब्द अल-बासित (अंतहीन)</string>
+    <string name="qari_abdulbaset_mujawwad_gapless">अब्द अल-बासित (मुजावद-अंतहीन)</string>
+    <string name="qari_aziz_alili_gapless">अज़ीज़ अलीली (अंतहीन)</string>
+    <string name="qari_salah_budair_gapless">सलाह बुडएयर (अंतहीन)</string>
+    <string name="qari_shuraym_gapless">सऊद अश-शुरयम (अंतहीन)</string>
+    <string name="qari_yasser_dussary_gapless">यासर एड-दुसरी (अंतहीन)</string>
+    <string name="qari_mohammad_altablawi_gapless">मोहम्मद अल तबलावी (अंतहीन)</string>
+    <string name="qari_sahl_yaseen_gapless">सहल यासीन (अंतहीन)</string>
+    <string name="qari_shatri_gapless">अबू बकर अश-शत्री (अंतहीन)</string>
+    <string name="qari_ahmad_nauina_gapless">अहमद नौइना (अंतहीन)</string>
+    <string name="qari_akram_al_alaqmi">Akram Al-Alaqmi</string>
+    <string name="qari_ali_hajjaj_alsouasi_gapless">अली हजाज अलसूआसी (अंतहीन)</string>
+</resources>

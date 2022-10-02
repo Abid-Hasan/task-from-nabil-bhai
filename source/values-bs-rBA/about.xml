@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">Podijelite aplikaciju</string>
+    <string name="share_app_info">"Kur'an (Tefsir &amp; riječ po riječ) je alat za proučavanje Kur'ana za svakoga. Omogućava audio reprodukciju ajet po ajet sa funkcijama ponavljanja, Tefsir Ibn Kesir, Tedžvidska pravila obilježena bojama, riječ po riječ analizu i prijevod, oznake po želji, pretragu, više istovremenih prijevoda, nekoliko tema i fontova i još puno toga.
+
+Preuzmite na Google Play Trgovini: https://goo.gl/w6rESk "</string>
+    <string name="shareApk">Podijelite Apk fajl</string>
+    <string name="sharelink">Podijelite link</string>
+    <string name="getapp">Preuzmite Kur\'an aplikaciju</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">Rekao je Poslanik, sallallahu alejhi ve sellem: Onaj ko nije zahvalan ljudima, nije zahvalan ni Allahu.\"\n[Abu Davud 4811] \n\nOdvojite nekoliko trenutaka da nas ocijenite i inspirišete da činimo više dobrih djela!</string>
+    <string name="ratingtext">Vaša ocjena nam puno znači</string>
+    <string name="menu_rate">"Ocijenite "</string>
+    <string name="ratelater">Možda kasnije</string>
+    <string name="ratenothanks">Ne hvala</string>
+    <string name="app_details">Elhamdulillah. Kur\'an (Tefsir &amp; riječ po riječ) je alat za proučavanje Kur\'ana koji vam omogućava:
+\n
+\n • Tefsir Ibn Kesir na engleskom sa ukjučenim arapskim
+\n • Tedžvid obilježen bojama slično kao iQuran (Za Kitkat i novije)
+\n • Riječ po riječ prikaz prijevoda, gramatički, korijen i detalji o obliku glagola
+\n • Oznake/Omiljeni podijeljeni u kategorijama koje korinik napravi
+\n • Indeks Kur\'ana
+\n • Mogućnost spašavanja bilješki
+\n • Oznake/Bilješke Ubacivanje/Eksportovanje  online, opcija datoteke
+\n • Moćna tražilica cijelog teksta s isticanjem
+\n • Robustan audio sustav s ponavljanjem, reprodukcija grupe ajeta radi pamćenja
+\n • Razni fontovi, opcija zumiranja i nekoliko tema
+\n • Opcija automatskog listanja
+\n • Različiti prijevodi Kur\'ana se mogu istodobno vidjeti: bengalski, kineski, engleski, francuski, indijski, njemački, indonezijski, talijanski, malajski, ruski, španjolski, urdu i drugi
+\n • Nekoliko učenja koji se mogu preuzeti za čitanje ajet po ajet (podržava bezprekidno / kontinuirano učenje) uključujući Mishary Al-Afasy, Husari (učači)
+
+\n\nLjubaznošću:
+\n • Grafian.com za njihove početne kodove.
+\n • Quran.com za njihov server baze podataka i Audio mehanizam.
+\n • Quran Tafsir Pro App za njihov tefsir Ibn Kesir i zbirku.
+\n • Guidedverses.com za Khan &amp; Hilali komentar.
+\n • Quranindex.info za njihov bazu indeksa Kur\'ana.
+\n • Academy of Quran Studies/Understand Quran za njihovu bazu podataka glagola.
+\n • Raznoj drugoj braći i sestrama koji su pomogli projektu. Neka ih Allah sve blagoslovi
+
+\n\n\nOdricanje od odgovornosti:
+\nNijedan prijevod Kur\'ana ne može biti sto posto tačan, niti se može koristiti kao zamjena za tekst Kur\'ana. Pokušali smo ovdje ponuditi skup uglavnom prihvatljivih kuranskih prijevoda, ali ne možemo garantovati njihovu vjerodostojnost i/ili tačnost. Koristite ih na vlastitu odgovornost.</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Pomozite nam da prevedemo</string>
+    <string name="contribute_title">Postanite dio Sadaqa Jariah</string>
+    <string name="contribute_text">GreenTech Apps ispunjava Vašu potrebu za inovativnim, modernim i lijepim islamskim aplikacijama.
+
+Aplikacije su potpuno besplatne i ne sadrže reklame.
+
+Da bismo što više doprinijeli Ummetu sa novim opcijama i aplikacijama, našem timu je potrebna redovna financijska podrška da bi ostvarili napredak.
+
+Ovo je Vaša šansa da napravite promjenu. Budite od koristi Ummetu i zaradite sevap.</string>
+    <string name="contribute_button">Želim doprinijeti</string>
+    <!--more apps -->
+    <string name="devDetails">Kreativnost, Jednostavnost, Izvrsnost, ako Bog da</string>
+</resources>

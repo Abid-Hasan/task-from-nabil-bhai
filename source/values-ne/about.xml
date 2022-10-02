@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">एप्प शेयर गर्नुहोस</string>
+    <string name="shareApk">Apk फाइल शेयर गर्नुहोस</string>
+    <string name="sharelink">लिन्क शेयर गर्नुहोस</string>
+    <string name="getapp">क़ुरआन एप्प डाउनलोड</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">अल्लाहका रसूल (स.) ले भन्नुभयो,\"जो मानिसको कृतज्ञ हुदैन ऊ अल्लाहको पनि कृतज्ञ हुदैन ।\"\n(अबू दाऊद 4811)\n\nएक मिनट खर्चेर हाम्रो मूल्यांकन गर्नुहोस र अझै सत्कर्म गर्न हामीलाई प्रेरणा दिनुहोस ।</string>
+    <string name="ratingtext">तपाईंको मुल्याङ्कन हाम्रो लागि महत्वपूर्ण छ</string>
+    <string name="ratelater">पछि कुनै बेला</string>
+    <string name="ratenothanks">होइन,धन्यवाद</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">अनुवादमा हामीलाई सहयोग गर्नुहोस्</string>
+    <string name="contribute_title">सद्का-ए-जारियामा भागीदार हुनुहोस्</string>
+    <string name="contribute_button">म योगदान गर्न चाहन्छु</string>
+    <!--more apps -->
+    <string name="devDetails">रचनात्मकता, सरलता, उत्कृष्टता इन-शा-अल्लाह</string>
+</resources>

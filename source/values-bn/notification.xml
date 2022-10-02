@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>আল্লাহকে স্মরণ করেছেন?</item>
+        <item>আল্লাহর প্রশংসা করেছেন?</item>
+        <item>আল্লাহকে স্মরণ করুন</item>
+        <item>একটু জিকির করে নিন</item>
+        <item>মনকে সতেজ করুন</item>
+        <item>আপনার রবকে স্মরণ করুন</item>
+        <item>আজকের আয়াত</item>
+        <item>একটি আয়াত পড়বেন কি?</item>
+        <item>আজকে একটি আয়াত শিখুন</item>
+        <item>দৈনিক আয়াত</item>
+        <item>একটি আয়াত শিখতে চান?</item>
+        <item>চলুন একটি আয়াত শিখি</item>
+        <item>আজকের জন্য একটি আয়াত</item>
+        <item>আয়াত পড়তে ক্লিক করুন</item>
+        <item>আল্লাহ আপনাকে কি বলছেন?</item>
+        <item>আজ আল্লাহ্‌র প্রশংসা করেছেন কি?</item>
+        <item>আল্লাহর সাথে কথা বলেছেন?</item>
+        <item>চলুন আল্লাহর কথা শুনি</item>
+        <item>আল্লাহ আপনাকে কি বলছেন?</item>
+        <item>আল্লাহর সাথে কথা বলেছেন?</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>এ ব্যপারে কুরাআনে কি আছে</item>
+        <item>এ ব্যপারে আল্লাহ কি বলছেন</item>
+        <item>এ ব্যপারে কুরআন কি বলছে</item>
+        <item>এ সম্পর্কে আয়াত</item>
+        <item>এ সম্পর্কে আয়াত</item>
+        <item>কুরআনের একটি চমকপ্রদ বিষয়</item>
+        <item>আজকের বিষয়</item>
+        <item>কুরআনে এ বিষয়ে দেখে নিন</item>
+        <item>কুরআন থেকে এ বিষয়ে জেনে নিন</item>
+    </string-array>
+</resources>

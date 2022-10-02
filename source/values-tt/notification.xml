@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Көн аяте</item>
+        <item>Бүгенгә аять</item>
+        <item>Көндәлек аять</item>
+    </string-array>
+</resources>

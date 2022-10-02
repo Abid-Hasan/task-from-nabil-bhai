@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Ajet dana</item>
+        <item>Današnji ajet</item>
+        <item>Da li želite da pročitate ajet?</item>
+        <item>Naučite neki ajet danas</item>
+        <item>Dnevni ajet</item>
+        <item>Želite znati neki ajet?</item>
+        <item>Naučimo neki ajet</item>
+        <item>Današnji ajet</item>
+        <item>Želite pročitati neki ajet danas?</item>
+        <item>Pritisnite da pročitate ajet</item>
+        <item>Šta vam Allah poručuje?</item>
+        <item>Poslušajte Allahov govor danas</item>
+        <item>Da li ste danas pričali sa Gospodarom?</item>
+        <item>Pričajmo sa Gospodarom</item>
+        <item>Da li ste se sjetili Allaha danas?</item>
+        <item>Da li ste slavili Allah danas?</item>
+        <item>Sjetimo se Allaha</item>
+        <item>Nahranite Vašu dušu</item>
+        <item>Vrijeme da razbistrimo naš um</item>
+        <item>Sjeti se Gospodara</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Saznajte više iz Kur\'ana</item>
+        <item>O čemu Kur\'an govori</item>
+        <item>O čemu Allah govori</item>
+        <item>O čemu je Ajet</item>
+        <item>O čemu je ajet</item>
+        <item>Zanimljiva tema u Kur\'anu</item>
+        <item>Današnja tema</item>
+        <item>Progledajte ovo iz Kur\'ana</item>
+        <item>Naučite ovo iz Kur\'ana</item>
+    </string-array>
+</resources>

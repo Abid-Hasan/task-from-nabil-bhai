@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <!-- CommonOperations -->
+    <string name="save">सुरक्षित करें</string>
+    <!--Search-->
+    <!-- Viewer Activity -->
+    <string name="auto_scroll">स्व घूमना</string>
+    <!-- sura metainfo -->
+    <!-- End Number picker Strings -->
+    <!-- Bookmark -->
+    <!--menu-->
+    <!--Options-->
+    <string name="pref_arabic">अरबी</string>
+    <string name="pref_arabic_font_size">अरबी फ़ॉन्ट आकार</string>
+    <string name="pref_showarabic">अरबी दिखाएं</string>
+    <string-array name="mushaf_names">
+        <item>उस्मानी</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">आगामी</string>
+    <!--Tutorial overlay-->
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <!-- downloading dialogs -->
+    <!-- Audio panel -->
+    <string name="processing">प्रसंस्करण&#8230;</string>
+    <string name="remove_dlg_title">हटाए इसे?</string>
+    <!--Tajweed Activity-->
+    <string name="stop_or_continue">रोको या जारी रखें</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string-array name="parts_of_speech">
+        <item>विशेषण</item>
+        <item>ध्यान</item>
+        <item>ध्यान</item>
+    </string-array>
+    <string name="agree">मैं सहमत हूँ</string>
+    <string name="sync_online">ऑनलाइन समकालीन करें</string>
+    <!--todo indopak under construction -->
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <string name="download_app_needed">इसके लिए ऐप डाउनलोड करने की आवश्यकता है</string>
+    <!-- Match results -->
+    <!--quran planner-->
+    <!--changelog-->
+</resources>

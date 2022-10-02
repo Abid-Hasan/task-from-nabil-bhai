@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">Кушымта белән бүлешү</string>
+    <string name="share_app_info">Al Quran (Tafsir &amp; by Word) - Изге Коръәнне өйрәнергә теләүчеләр өчен. Ул түбәндәге мөмкинлекләр бирә: аудио рәвешендә тыңлау, Ибн Кәсир тәфсире, төсләр белән билгеләнгән тәҗвид кагыйдәләре, сүзгә сүз тәрҗемәсе һәм анализы, эзләү, төрле телләргә тәрҗемә, төрле темалар, шрифтлар һ. б.
+
+Google Play-дан йөклә, https://goo.gl/w6rESk</string>
+    <string name="shareApk">Apk белән бүлешү</string>
+    <string name="sharelink">Сылтама белән бүлешү</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">РәсүлүЛлаһ (с. г. в) әйтте: \"Кешеләрге рәхмәтле булмаган Аллаһы Тәгаләгә рәхмәтле булмас\", - [Абу Дауд 4811]\n\nБерничә минутыңны безгә сарыф итеп, бәялә һәм янә яхшылыклар эшләүгә илһамландыр!</string>
+    <string name="ratingtext">СИНЕҢ БӘЯ БЕЗНЕҢ ӨЧЕН БИК ТӘ МӨХИМ</string>
+    <string name="menu_rate">Бәялә!</string>
+    <string name="ratelater">Соңрак</string>
+    <string name="ratenothanks">Юк, рәхмәт</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Тәрҗемә итәргә</string>
+    <!--more apps -->
+</resources>

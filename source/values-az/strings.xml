@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Al Quran (Tafsir &amp; by Word)</string>
+    <!-- CommonOperations -->
+    <string name="save">Qeyd etmək</string>
+    <string name="delete">Silmək</string>
+    <string name="close">Bağlamaq</string>
+    <string name="cancel">Ləğv etmək</string>
+    <string name="ok">OK</string>
+    <string name="share_image">Şəkil (Ekranın təsviri)</string>
+    <string name="share_text">Mətn</string>
+    <string name="ayah_copied_popup">Ayə köçürüldü</string>
+    <string name="stringshotshare">Ekranın təsviri ilə paylaşın</string>
+    <string name="popup_open_in_sura_view">Sürə görünümü</string>
+    <string name="popup_tafsir_ibn_kathir">Təfsir/Qeyd görünümü</string>
+    <string name="popup_play_this_ayah">Ayəni başlat</string>
+    <!--Search-->
+    <string name="searchTitle">İfadələrlə axtarın</string>
+    <string name="searchhelptext">Nümünə:
+
+\n\nŞablona görə axtarış üçün hər hansı bir sözun sonunda * istifadə edin</string>
+    <string name="noWordTyped">Heç bir şey daxil edilməmişdir</string>
+    <string name="search_in_all_collections">Axtarış: Bütün kolleksiyalarda</string>
+    <string name="search_in">"Axtarış: %1$s"</string>
+    <string name="filter_hint">filtreləmək üçün daxil edin</string>
+    <string name="search_result">"%1$s %2$d dəfə tapıldı"</string>
+    <string name="search_result_root">"%1$s kökü %2$d dəfə tapıldı"</string>
+    <string name="searching">"Axtarış… %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">Kök</string>
+    <string name="click_root_search_quran">Quranda axtarmaq üçün kök və ya seqment seçin</string>
+    <string name="writenote">Qeydi yazın</string>
+    <string name="choose_translations">Tərcüməni seçin</string>
+    <string name="jump_sura">Surəyə keçin</string>
+    <string name="jump_tafsir">Təfsirə keçin</string>
+    <!-- sura metainfo -->
+    <string name="makki">Məkkə</string>
+    <string name="madani">Mədinə</string>
+    <string name="surah_location">"Yerləşmə: "</string>
+    <string name="sura_num_ayahs">"Ayələr: "</string>
+    <string name="sura_ruku_num">"Ruku: "</string>
+    <!-- End Number picker Strings -->
+    <string name="quran_sura">Sürə</string>
+    <string name="quran_ayah">Ayə</string>
+    <string name="quran_page">Səhifə</string>
+    <string name="quran_hizb">Hizb</string>
+    <string name="quran_juz2">Cüz</string>
+    <string name="juz2_description">"Cüz %1$d%2$s"</string>
+    <string name="juzpage_description">" : Səhifə %1$d"</string>
+    <string name="page_description">"Səhifə %1$d"</string>
+    <string name="hizb_description">"Cüz %1$d%2$s"</string>
+    <string name="note_saved">Qeyd yadda saxlandı</string>
+    <string name="topics_verses_index">Bü ayətlə bağlı mövzular</string>
+    <!-- Bookmark -->
+    <!--menu-->
+    <string name="menu_share">Paylaşmaq</string>
+    <string name="menu_report">Bildirmək</string>
+    <string name="menu_jump">Ayətə keçmək</string>
+    <string name="menu_settings">Seçimlər</string>
+    <string name="menu_search">Axtarış</string>
+    <string name="menu_notes">Qeydlər</string>
+    <!--Options-->
+    <string name="pref_apperance">Görünüş</string>
+    <string name="pref_settings_choose_language">Dil</string>
+    <string name="pref_theme">Fon</string>
+    <string name="pref_show_translation">Tərcüməni göstər</string>
+    <string name="pref_translations">Tərcümələr</string>
+    <string name="pref_translation">Tərcümə</string>
+    <string name="pref_arabic">Ərəb dili</string>
+    <string name="pref_showarabic">Ərəb dilini göstər</string>
+    <string name="pref_showtajweed">Təcvid</string>
+    <string name="pref_mushaftype">Mushaf növü</string>
+    <string name="pref_arabicfont">Ərəb dili</string>
+    <string name="pref_keepscreenon">Ekranı acıq saxlayın</string>
+    <string name="pref_audio_manager">Audio meneceri</string>
+    <string name="pref_clearsearch">Axtarış tarixini silmək</string>
+    <string name="searchistoryremoved">Axtarış tarixini silindi</string>
+    <string name="pref_tajweedrules">Təcvid qaydaları</string>
+    <string-array name="mushaf_names">
+        <item>Uthmani</item>
+        <item>IndoPak/Asian (beta)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>Ağ</item>
+        <item>Qara (gecə)</item>
+        <item>Yaşıl</item>
+        <item>Qəhvəyi</item>
+        <item>Dark Blue (Night)</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">SONRAKI</string>
+    <string name="done_tut">QƏBUL ETDİM</string>
+    <!--Tutorial overlay-->
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Yükləmə uğürlu bitdi</string>
+    <string name="download_processing">Yüklənir&#8230;</string>
+    <!-- downloading dialogs -->
+    <!-- Audio panel -->
+    <!--Tajweed Activity-->
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="agree">Mən razıyam</string>
+    <string name="transliteration_warning_title">Diqqət!!</string>
+    <string name="file_content_invalid">Faylın məzmumu səhvdir</string>
+    <string name="imported">Uğurla idxal edildi!</string>
+    <string name="mushaf">Mushaf</string>
+    <string name="click_more">Davam etək üçün seçin</string>
+    <string name="sync_online">Onlayn sinxronizasiya</string>
+    <string name="juz_description">Cüz %1$d</string>
+    <!--todo indopak under construction -->
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <!-- Match results -->
+    <!--quran planner-->
+    <!--changelog-->
+</resources>

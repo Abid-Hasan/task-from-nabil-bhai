@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Үздік бүгіндік Аят</item>
+        <item>Бүгіндік Аят</item>
+        <item>Аятты оқуға батылдық танытасыз ба?</item>
+        <item>Бүгіндік үйренетін Аятыңыз</item>
+        <item>Күндік Аят</item>
+        <item>Құран Аятын білгіңіз келе ме?</item>
+        <item>Кел Аят үйренейік</item>
+        <item>Бүгінгі күн үшін Аят</item>
+        <item>Бүгін Аят оқыдыңыз ба?</item>
+        <item>Аятты оқу үшін басыңыз</item>
+        <item>Аллаһ сізге не айтуда?</item>
+        <item>Аллаһпен тілдесіңіз</item>
+        <item>Бүгін Аллаһпен тілдестіңіз бе?</item>
+        <item>Кел Аллаһпен тілдесейік</item>
+        <item>Бүгін Алланы еске алдыңыз ба?</item>
+        <item>Бүгін Алланы мақтадыңыз ба?</item>
+        <item>Кел Аллаһты еске алайық</item>
+        <item>Жан азығы</item>
+        <item>Ойымды сергітетін уақыт</item>
+        <item>Раббыңды еске ал</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Құраннан білгіңіз келсе</item>
+        <item>Құран не айтады?</item>
+        <item>Аллаһ ол туралы не айтады?</item>
+        <item>Аяттар олар жайлы</item>
+        <item>Аяттар олар жайлы</item>
+        <item>Құрандағы қызықты тақырыбтар</item>
+        <item>Бүгінгі тақырыб</item>
+        <item>Мұны Құранда тексеріңіз</item>
+        <item>Мұны Құраннан үйреніңіз</item>
+    </string-array>
+</resources>

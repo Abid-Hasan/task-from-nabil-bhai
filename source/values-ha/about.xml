@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">Quran</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">Manzon Allaah (saw) ya ce: \"Wanda baya gode wa mutane, baya gode wa Allaah\"\n[Abu Dawud 4811]\n\nDauki mintoci kadan don yaba mana da kara mana karfin gwuiwa don cigaba da ayyukan alheri!</string>
+    <string name="menu_rate">Yaba mana</string>
+    <string name="ratelater">Wata kila daga baya</string>
+    <string name="ratenothanks">A\'a na gode</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Taimake mu wajen fassara</string>
+    <string name="contribute_title">Kasance cikin masu sadaka mai gudana</string>
+    <string name="contribute_button">Ina so in taimaka</string>
+    <!--more apps -->
+    <string name="devDetails">Kirkire kirkire, saukake, inganci in sha Allaah</string>
+</resources>

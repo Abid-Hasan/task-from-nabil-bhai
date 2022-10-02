@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Günün ayəti</item>
+        <item>Bu günki ayət</item>
+        <item>Ayə oxumaq istəyirsinizmi?</item>
+        <item>Bü gün ayə əzbərləyin</item>
+        <item>Hər gün bir ayə</item>
+        <item>Ayəni bilmək istəyirsiniz?</item>
+        <item>Gəlin ayə öyrənək</item>
+        <item>Bü gün üçün ayə</item>
+        <item>Siz bü gün ayə oxudunuzmu?</item>
+        <item>Ayəni oxumaq üçün seçin</item>
+        <item>Allahın müraciəti</item>
+        <item>Allaha bu gün ürəyinizi açın</item>
+        <item>Bu gün Allaha tərəf döndünüzmü?</item>
+        <item>Gəlin üzümüzü Allaha çevirək</item>
+        <item>Bu gün Allahı yad etdinmi?</item>
+        <item>Allaha bü gün həmd edtinmi?</item>
+        <item>Allahı unutma</item>
+        <item>Ruh üçün qida</item>
+        <item>Fikirləri yeniləmək vaxtıdır</item>
+        <item>Allahı yad et</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Qurandan öyrənin</item>
+        <item>Quran bu haqda nə deyir</item>
+        <item>Allah bu barədə nə deyir</item>
+        <item>Bu mövzuda ayə</item>
+        <item>Bu mövzuda sürə</item>
+        <item>Quranda maraqlı mövzu</item>
+        <item>Bü gün üçün mövzu</item>
+        <item>Quranda baxın</item>
+        <item>Qurandan öyrənin</item>
+    </string-array>
+</resources>

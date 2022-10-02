@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages" translatable="false">
+        <item>Auto</item>
+        <item>العربية (Arabic)</item>
+        <!--<item>Asturianu (Asturian)</item>-->
+        <!--<item>Català (Catalan)</item>-->
+        <!--<item>臺灣話 (Chinese Traditional)</item>-->
+
+        <!--<item>Čeština (Czech)</item>-->
+        <!--<item>Nederlands (Dutch)</item>-->
+        <item>English</item>
+        <item>Bahasa Indonesia (Indonesian)</item>
+        <item>Bahasa Melayu (Malaysian)</item>
+        <item>Bangla (বাংলা)</item>
+        <item>Deutsch (German)</item>
+        <item>Français (French)</item>
+        <!--<item>ភាសាខ្មែរ (Khmer)</item>-->
+        <!--<item>Galego (Galician)</item>-->
+        <!--<item>ελληνικά (Greek)</item>-->
+        <!--<item>עברית (Hebrew)</item>-->
+        <!--<item>हिंदी (Hindi)</item>-->
+        <!--<item>Magyar (Hungarian)</item>-->
+        <item>کوردی (Kurdish)</item>
+        <item>Italiano (Italian)</item>
+        <!--<item>日本語 (Japanese)</item>-->
+        <!--<item>ສ​ປ​ປ​ລາວ (Lao)</item>-->
+        <!--<item>Latviešu valoda (Latvian)</item>-->
+        <!--<item>Polszczyzna (Polish)</item>-->
+        <item>Русский (Russian)</item>
+        <!--<item>Slovenčina (Slovak)</item>-->
+        <!--<item>Slovenščina (Slovenian)</item>-->
+        <item>Español (Spanish)</item>
+        <!--<item>Kinesiska (Swedish)</item>-->
+        <item>Türkçe (Turkish)</item>
+        <!--<item>Українська (Ukrainian)</item>-->
+        <item>اُردُو (Urdu)</item>
+        <item>(Uzbek) o‘zbekcha</item>
+        <item>中文 (Chinese Simplified)</item>
+        <item>Filipino (Tagalog)</item>
+        <item>Português (Portuguese)</item>
+        <item>bosanski (Bosnian)</item>
+        <item>Hrvatski (Croatian)</item>
+        <item>Српски (Serbian)</item>
+        <item>Persian (فارسی)</item>
+        <item>Thai (ภาษาไทย)</item>
+        <item>Albanian (shqip)</item>
+    </string-array>
+
+    <!-- Constants. Do not change. -->
+    <string-array name="language_codes" translatable="false">
+        <item>auto</item>
+        <item>ar</item>
+        <item>en</item>
+        <item>in</item>
+        <item>ms</item>
+        <item>bn</item>
+        <item>de</item>
+        <item>fr</item>
+        <item>ckb</item>
+        <!--<item>cs</item>-->
+        <item>it</item>
+        <!--<item>se</item>-->
+        <!--<item>nl</item>-->
+        <!--<item>ro</item>-->
+        <item>ru</item>
+        <item>es</item>
+        <item>tr</item>
+        <item>ur</item>
+        <item>uz</item>
+        <item>zh</item>
+        <item>tl</item>
+        <item>pt</item>
+        <item>bs</item>
+        <item>hr</item>
+        <item>sr</item>
+        <item>fa</item>
+        <item>th</item>
+        <item>sq</item>
+    </string-array>
+
+    <string-array name="font_names" translatable="false">
+        <item>Qalam</item>
+        <item>KFGQPC Hafs</item>
+        <item>Me-Quran</item>
+        <item>Amiri</item>
+        <item>Kitab</item>
+        <item>Noorehira</item>
+        <item>Noorehuda</item>
+        <item>NooreHidayat</item>
+    </string-array>
+
+    <string-array name="font_codes" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <!--Do not delete non-gap less items, ordering is important for Config.currentQaris,
+    related discussion: https://app.clickup.com/t/dzmqz3 -->
+    <string-array name="quran_readers_name" translatable="false">
+        <item>@string/qari_minshawi_murattal_gapless</item>
+        <item>@string/qari_husary_gapless</item>
+        <item>@string/qari_sudais_gapless</item>
+        <item>@string/qari_qatami_gapless</item>
+        <item>@string/qari_abdulbaset</item>
+        <item>@string/qari_abdulbaset_mujawwad</item>
+        <item>@string/qari_basfar</item>
+        <item>@string/qari_suadis</item>
+        <item>@string/qari_shatri</item>
+        <item>@string/qari_afasy</item>
+        <item>@string/qari_saad_al_ghamdi</item>
+        <item>@string/qari_walk</item>
+        <item>@string/qari_hani_rifai</item>
+        <item>@string/qari_husary_mujawwad</item>
+        <item>@string/qari_hudhayfi</item>
+        <item>@string/qari_muaiqly</item>
+        <item>@string/qari_minshawi_mujawwad</item>
+        <item>@string/qari_tablawy</item>
+        <item>@string/qari_ayyoub</item>
+        <item>@string/qari_jibreel</item>
+        <item>@string/qari_shuraym</item>
+        <item>@string/qari_dussary</item>
+        <item>@string/qari_abdulbaset_gapless</item>
+        <item>@string/qari_abdulbaset_mujawwad_gapless</item>
+        <item>@string/qari_aziz_alili_gapless</item>
+        <item>@string/qari_salah_budair_gapless</item>
+        <item>@string/qari_shuraym_gapless</item>
+        <item>@string/qari_yasser_dussary_gapless</item>
+        <item>@string/qari_mohammad_altablawi_gapless</item>
+        <item>@string/qari_sahl_yaseen_gapless</item>
+        <item>@string/qari_shatri_gapless</item>
+        <item>@string/qari_ahmad_nauina_gapless</item>
+        <item>@string/qari_akram_al_alaqmi</item>
+        <item>@string/qari_ali_hajjaj_alsouasi_gapless</item>
+        <item>@string/qari_husary_muallim</item>
+        <item>@string/qari_basfar_walk</item>
+        <item>@string/qari_urdu_farhat_hashmi</item>
+        <item>@string/qari_shamshad_ali_khan</item>
+        <item>@string/qari_saad_al_ghamidi_gapless</item>
+        <item>@string/qari_bandar_baleela_gapless</item>
+        <item>@string/qari_mahmoud_ali_albana_gapless</item>
+        <item>@string/qari_abdulrahman_alshahat_gapless</item>
+        <item>@string/qari_ayman_sowaid</item>
+        <item>@string/qari_abdullah_matroud</item>
+        <item>@string/qari_ahmed_ibn_ali_al_ajamy</item>
+        <item>@string/qari_salaah_bukhatir</item>
+        <item>@string/qari_ali_jaber</item>
+
+        <item>@string/qari_afasy_gapless</item>
+        <item>@string/qari_hani_rifai_gapless</item>
+        <item>@string/qari_ayyoub_gapless</item>
+        <item>@string/qari_mishari_walk_gapless</item>
+        <item>@string/qari_jibreel_gapless</item>
+        <item>@string/qari_basfar_gapless</item>
+        <item>@string/qari_walk_gapless</item>
+
+        <item>@string/qari_muaiqly_gapless</item>
+        <item>@string/qari_abdullah_matroud_gapless</item>
+        <item>@string/qari_salah_bukhatir_gapless</item>
+        <item>@string/qari_ali_jaber_gapless</item>
+        <item>@string/qari_ajamy_gapless</item>
+        <item>@string/qari_abdulmuhsin_qasim_gapless</item>
+        <item>@string/qari_juhany_gapless</item>
+        <item>@string/qari_fares_abbad_gapless</item>
+        <item>@string/qari_khalifa_taniji_gapless</item>
+        <item>@string/qari_husary_iza3a_gapless</item>
+        <item>@string/qari_abdulaziz_zahrani_gapless</item>
+        <item>@string/qari_abdurrashid_sufi_gapless</item>
+        <item>@string/qari_mostafa_ismaeel_gapless</item>
+        <item>@string/qari_husary_muallim_gapless</item>
+        <item>@string/qari_husary_mujawwad_gapless</item>
+        <item>@string/qari_ayman_sowaid_gapless</item>
+    </string-array>
+
+    <string-array name="quran_readers_path" translatable="false">
+        <!-- abdul basit mujawwad -->
+        <item>minshawi_murattal</item>
+        <!-- abdul basit mujawwad -->
+        <item>husary</item>
+        <!-- abdullah basfar -->
+        <item>sudais</item>
+        <!-- abdurrahman as sudais -->
+        <item>qatami</item>
+        <!-- abu bakr al shatiri -->
+        <item>0</item>
+        <!-- mishaari al3afasy -->
+        <item>1</item>
+        <!-- sa3d alghamdi -->
+        <item>2</item>
+        <!-- ibrahim walk -->
+        <item>3</item>
+        <!-- hani ar-rifa3i -->
+        <item>4</item>
+        <!-- husary mujawwad -->
+        <item>5</item>
+        <!-- huthayfi -->
+        <item>18</item>
+        <!-- maher al mu3ayqli -->
+        <item>19</item>
+        <!-- minshawi mujawwad -->
+        <item>6</item>
+        <!-- mohammad al tablaway -->
+        <item>8</item>
+        <!-- muhammad ayyoub -->
+        <item>9</item>
+        <!-- muhammad jibreel -->
+        <item>11</item>
+        <!-- sa3ood al shuraim -->
+        <item>13</item>
+        <!-- yasser ad dussary -->
+        <item>14</item>
+        <!-- abdul basit -->
+        <item>15</item>
+        <!-- abdul basit mujawwad -->
+        <item>16</item>
+        <!-- abdullah basfar -->
+        <item>17</item>
+        <!-- abdurrahman as sudais -->
+        <item>ydussary</item>
+        <!-- abu bakr al shatiri -->
+        <item>abdulbaset_murattal</item>
+        <!-- mishaari al3afasy -->
+        <item>abdulbaset_mujawwad</item>
+        <!-- sa3d alghamdi -->
+        <item>aziz_alili</item>
+        <!-- ibrahim walk -->
+        <item>salah_budair</item>
+        <!-- hani ar-rifa3i -->
+        <item>shuraym</item>
+        <!-- husary mujawwad -->
+        <item>yasser_dussary</item>
+        <!-- huthayfi -->
+        <item>mohammad_altablawi</item>
+        <!-- maher al mu3ayqli -->
+        <item>sahl_yaseen</item>
+        <!-- minshawi mujawwad -->
+        <item>shatri</item>
+        <!-- mohammad al tablaway -->
+        <item>ahmad_nauina</item>
+        <!-- muhammad ayyoub -->
+        <item>akram_al_alaqmi</item>
+        <!-- muhammad jibreel -->
+        <item>ali_hajjaj_alsouasi</item>
+        <!-- sa3ood al shuraim -->
+        <item>husary_muallim</item>
+        <!-- yasser ad dussary -->
+        <item>basfar_walk</item>
+        <!-- abdul basit -->
+        <item>urdu_farhat_hashmi</item>
+        <!-- abdul basit -->
+        <item>urdu_shamshad_ali_khan</item>
+        <!-- abdul basit -->
+        <item>sa3d_alghamidi</item>
+        <item>bandar_baleela</item>
+        <item>mahmoud_ali_albana</item>
+        <item>abdulrahman_alshahat</item>
+        <item>ayman_suwaid</item>
+        <item>abdullah_matroud</item>
+        <item>ahmed_ibn_ali_al_ajamy</item>
+        <item>salaah_bukhatir</item>
+        <item>ali_jaber</item>
+
+        <item>mishari_alafasy</item> <!-- mishari rashid -->
+        <item>hani_rifai</item> <!-- hani rifai -->
+        <item>muhammad_ayyoub</item> <!-- mohammad ayoob -->
+        <item>mishari_walk</item> <!-- mishaari with ibrahim walk -->
+        <item>mjibreel</item> <!-- muhammad jibreel -->
+        <item>abdullah_basfar</item> <!-- basfar -->
+        <item>ibrahim_walk</item> <!-- ibrahim walk -->
+
+        <item>maher_al_muaiqly</item>
+        <item>abdullah_matroud</item>
+        <item>salah_bukhatir</item>
+        <item>ali_jaber</item>
+        <item>ahmed_alajamy</item>
+        <item>abdul_muhsin_alqasim</item>
+        <item>abdullah_juhany</item>
+        <item>fares_abbad</item>
+        <item>khalifa_taniji</item>
+        <item>husary_iza3a</item>
+        <item>abdulaziz_zahrani</item>
+        <item>abdurrashid_sufi</item>
+        <item>mostafa_ismaeel</item>
+        <item>husary_muallim_gtaf</item>
+        <item>husary_mujawwad</item>
+        <item>ayman_suwaid_gtaf</item>
+    </string-array>
+    <string-array name="quran_readers_db_name" translatable="false">
+        <item>minshawi_murattal</item>
+        <item>husary</item>
+        <item>sudais_murattal</item>
+        <item>qatami</item>
+        <item></item>
+        <item></item>
+        <!-- abdul basit -->
+        <item></item>
+        <!-- abdul basit -->
+        <item></item>
+        <!-- abdul basit mujawwad -->
+        <item></item>
+        <!-- abdullah basfar -->
+        <item></item>
+        <!-- abdurrahman as sudais -->
+        <item></item>
+        <!-- abu bakr al shatiri -->
+        <item></item>
+        <!-- mishaari al3afasy -->
+        <item></item>
+        <!-- sa3d alghamdi -->
+        <item></item>
+        <!-- ibrahim walk -->
+        <item></item>
+        <!-- hani ar-rifa3i -->
+        <item></item>
+        <!-- husary mujawwad -->
+        <item></item>
+        <!-- huthayfi -->
+        <item></item>
+        <!-- maher al mu3ayqli -->
+        <item></item>
+        <!-- minshawi mujawwad -->
+        <item></item>
+        <!-- mohammad al tablaway -->
+        <item></item>
+        <!-- muhammad ayyoub -->
+        <item></item>
+        <!-- muhammad jibreel -->
+        <item>abdul_basit_murattal</item>
+        <!-- sa3ood al shuraim -->
+        <item>abdul_basit_mujawwad</item>
+        <!-- yasser ad dussary -->
+        <item>aziz_alili</item>
+        <item>salah_budair</item>
+        <item>shuraym</item>
+        <item>yasser_dussary</item>
+        <item>mohammad_altablawi</item>
+        <item>sahl_yaseen</item>
+        <item>shatri</item>
+        <item>ahmad_nauina</item>
+        <item>akram_al_alaqmi</item>
+        <item>ali_hajjaj_alsouasi</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>sa3d_alghamidi</item>
+        <item>bandar_baleela</item>
+        <item>mahmoud_ali_albana</item>
+        <item>abdulrahman_alshahat</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+        <item>mishari_alafasy</item> <!-- mishari rashid -->
+        <item>hani_rifai</item> <!-- hani rifai -->
+        <item>muhammad_ayyoub</item> <!-- mohammad ayoob -->
+        <item>mishari_walk</item> <!-- mishaari with ibrahim walk -->
+        <item>mjibreel</item> <!-- muhammad jibreel -->
+        <item>abdullah_basfar</item> <!-- basfar -->
+        <item>ibrahim_walk</item> <!-- ibrahim walk -->
+
+        <item>maher_al_muaiqly</item>
+        <item>abdullah_matroud</item>
+        <item>salah_bukhatir</item>
+        <item>ali_jaber</item>
+        <item>ahmed_al3ajamy</item>
+        <item>abdul_muhsin_alqasim</item>
+        <item>abdullah_juhany</item>
+        <item>fares_abbad</item>
+        <item>khalifa_taniji</item>
+        <item>husary_iza3a</item>
+        <item>abdulaziz_zahrani</item>
+        <item>abdurrashid_sufi</item>
+        <item>mostafa_ismaeel</item>
+        <item>husary_muallim</item>
+        <item>husary_mujawwad</item>
+        <item>ayman_suwaid</item>
+    </string-array>
+
+    <string-array name="quran_readers_urls" translatable="false">
+        <item>muhammad_siddeeq_al-minshaawee/</item>
+        <item>mahmood_khaleel_al-husaree/</item>
+        <item>abdurrahmaan_as-sudays/</item>
+        <item>nasser_bin_ali_alqatami/</item>
+        <item>Abdul_Basit_Murattal_192kbps/</item>
+        <item>Abdul_Basit_Mujawwad_128kbps/</item>
+        <item>Abdullah_Basfar_192kbps/</item>
+        <item>Abdurrahmaan_As-Sudais_192kbps/</item>
+        <item>Abu_Bakr_Ash-Shaatree_128kbps/</item>
+        <item>Alafasy_128kbps/</item>
+        <item>Ghamadi_40kbps/</item>
+        <item>Ibrahim_Walk_192kbps_TEST/</item>
+        <item>Hani_Rifai_192kbps/</item>
+        <item>Husary_128kbps_Mujawwad/</item>
+        <item>Hudhaify_128kbps/</item>
+        <item>Maher_AlMuaiqly_64kbps/</item>
+        <item>Minshawy_Mujawwad_192kbps/</item>
+        <item>Mohammad_al_Tablaway_128kbps/</item>
+        <item>Muhammad_Ayyoub_128kbps/</item>
+        <item>Muhammad_Jibreel_128kbps/</item>
+        <item>Saood_ash-Shuraym_128kbps/</item>
+        <item>Yasser_Ad-Dussary_128kbps/</item>
+        <item>abdul_basit_murattal/</item>
+        <item>abdulbaset_mujawwad/</item>
+        <item>aziz_alili/</item>
+        <item>salahbudair/</item>
+        <item>sa3ood_al-shuraym/</item>
+        <item>yasser_ad-dussary/</item>
+        <item>mohammad_altablawi/</item>
+        <item>sahl_yaaseen/</item>
+        <item>abu_bakr_ash-shaatree/</item>
+        <item>ahmad_nauina/</item>
+        <item>akram_al_alaqmi/</item>
+        <item>ali_hajjaj_alsouasi/</item>
+        <item>Husary_Muallim_128kbps/</item>
+        <item>Basfar_Walk_192kbps/</item>
+        <item>urdu_farhat_hashmi/</item>
+        <item>urdu_shamshad_ali_khan_46kbps/</item>
+        <item>sa3d_al-ghaamidi/</item>
+        <item>bandar_baleela/</item>
+        <item>mahmood_ali_albana/</item>
+        <item>abdulrahman_al_shahat/</item>
+        <item>Ayman_Sowaid_64kbps/</item>
+        <item>Abdullah_Matroud_128kbps/</item>
+        <item>ahmed_ibn_ali_al_ajamy_128kbps/</item>
+        <item>Salaah_AbdulRahman_Bukhatir_128kbps/</item>
+        <item>Ali_Jaber_64kbps/</item>
+
+        <item>mishari_alafasy/</item>
+        <item>hani_rifai/</item>
+        <item>muhammad_ayyoub/</item>
+        <item>mishari_walk/</item>
+        <item>mjibreel/</item>
+        <item>abdullah_basfar/</item>
+        <item>ibrahim_walk/</item>
+
+        <item>maher_al_muaiqly/</item>
+        <item>abdullah_matroud/</item>
+        <item>salah_bukhatir/</item>
+        <item>ali_jaber/</item>
+        <item>ahmed_alajamy/</item>
+        <item>abdul_muhsin_alqasim/</item>
+        <item>abdullah_juhany/</item>
+        <item>fares_abbad/</item>
+        <item>khalifa_taniji/</item>
+        <item>husary_iza3a/</item>
+        <item>abdulaziz_zahrani/</item>
+        <item>abdurrashid_sufi/</item>
+        <item>mostafa_ismaeel/</item>
+        <item>husary_muallim_gtaf/</item>
+        <item>husary_mujawwad_gtaf/</item>
+        <item>ayman_suwaid_gtaf/</item>
+    </string-array>
+
+
+    <string-array name="arabic_letters">
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+    </string-array>
+
+    <string-array name="times">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="timeValues" translatable="false">
+        <item>0</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>-1</item>
+    </string-array>
+</resources>

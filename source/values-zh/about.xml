@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">分享此应用</string>
+    <string name="share_app_info">"古兰经(经注和逐词学习)是为方便所有人学习古兰经的工具。 此应用有逐节可重复诵读的音频、伊本·凯希尔经注、色彩标注的泰吉威德诵读规则、逐词的释义及讲解、可自定义书签、搜索功能、多语言的翻译对照、不同的主题、字体，还有更多的其他功能。
+
+现在在谷歌商店下载: bit.ly/AlQuranApp "</string>
+    <string name="shareApk">分享apk文件</string>
+    <string name="sharelink">分享链接</string>
+    <string name="getapp">获取古兰经应用</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">穆圣(愿主福安之)说：“不感谢世人的人，不感赞安拉。”\n[艾布·达吾德4811]\n\n抽出几分钟的时间为我们的应用软件评分以激励我们做更多的善行。</string>
+    <string name="ratingtext">我们非常重视您的评分</string>
+    <string name="menu_rate">请评分吧！</string>
+    <string name="ratelater">稍后再说</string>
+    <string name="ratenothanks">不，谢谢</string>
+    <string name="app_details">"感赞真主。古兰经（经注&amp;单字释义）是一款学习古兰经的工具，你可以借助此应用软件：
+\n 
+\n • 内嵌阿拉伯语的伊本·卡希尔英语经注 
+\n • 与iquran相似的色彩标注诵读规则（安卓4.0及以上）
+\n • 逐词译注、语法、词根及动词形态等详细解释
+\n • 用户自定义分类的书签/关注 
+\n • 古兰经索引 
+\n • 记笔记功能 
+\n • 书签/笔记可在线导入/导出，或由文件入/导出的功能 
+\n • 强大的全文高亮标注检索引擎 
+\n • 强大的音频播放系统，可重复播放、经文组合播放以帮助记忆 
+\n • 多种字体、双指放大功能，多个主题 
+\n • 自动卷轴阅读功能
+\n • QuranWBW.com
+\n • https://www.alhudapk.com/products/hindi-section.html
+\n • 可同时显示的多语种古兰经译文：有孟加拉语、中文、英语、法语、印地语、德语、印度尼西亚语、意大利语、马来语、俄语、西班牙语和乌尔都语等多个语种 
+\n • 多位古兰经诵读家的分节音频（支持无间隔/连贯播放）可下载，包括米沙里·阿法希，胡萨里（教学模式）
+
+
+\n\n\n 声明：
+\n 任何古兰经的翻译不可能完全准确，译文不能替代原本古兰经文。我们尽全力提供全球最普遍接受的译本，但是不能保证他们的权威性和准确性。请对译文加以斟酌。 "</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">请帮助翻译</string>
+    <string name="contribute_title">参与项目资助</string>
+    <string name="contribute_text">GreenTech 应用软件为大家实现了创新的、现代化的、精美的伊斯兰应用软件。\n\n
+此应用软件不含任何广告而且完全免费。\n\n
+对我们来说，我们意欲为我们这个群体提供更多新的应用软件和新功能，我们这个团队需要常规的资金以支撑这个项目的不断地进行下去。\n\n
+这是一个改变自己的机会，有利于穆斯林群体的机会，分享真主回赐的机会。</string>
+    <string name="contribute_button">我要捐赠</string>
+    <!--more apps -->
+    <string name="devDetails">创新、简约、完美，若真主意欲</string>
+</resources>

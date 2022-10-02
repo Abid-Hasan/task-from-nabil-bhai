@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Al Quran (Tafsir &amp; per perkataan)</string>
+    <!-- CommonOperations -->
+    <string name="save">Simpan</string>
+    <string name="delete">Padam</string>
+    <string name="close">Tutup</string>
+    <string name="cancel">Batal</string>
+    <string name="ok">OK</string>
+    <string name="share_image">Gambar (Tangkapan Skrin)</string>
+    <string name="share_text">Teks</string>
+    <string name="multiple_ayahs">Pelbagai Ayat</string>
+    <string name="ayah_copied_popup">Ayat Disalin</string>
+    <string name="stringshotshare">Kongsi Tangkapan Skrin</string>
+    <string name="popup_open_in_sura_view">Paparan Mengikut Surah</string>
+    <string name="popup_tafsir_ibn_kathir">Paparan Mengikut Tafsir/Nota</string>
+    <string name="popup_play_this_ayah">Mainkan Ayat ini</string>
+    <!--Search-->
+    <string name="searchTitle">Cari berdasarkan Frasa</string>
+    <string name="searchhelptext">Contoh:
+
+
+
+Gunakan * di akhir perkataan untuk carian rawak</string>
+    <string name="noWordTyped">Tiada Yang Ditaip</string>
+    <string name="search_in_all_collections">Cari di dalam: Semua Koleksi</string>
+    <string name="search_in">"Cari di dalam: %1$s"</string>
+    <string name="filter_hint">Taip untuk tapis</string>
+    <string name="search_result">"%1$s dijumpai sebanyak %2$d kali"</string>
+    <string name="search_result_root">"Kata akar %1$s dijumpai sebanyak %2$d kali"</string>
+    <string name="searching">"Mencari… %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">Kata akar</string>
+    <string name="lemma">Lema/terbitan</string>
+    <string name="click_root_search_quran">Klik pada kata akar atau segmen untuk mencari Quran</string>
+    <string-array name="verb_form_names">
+        <item>Kala Sempurna</item>
+        <item>Kala Tidak Sempurna</item>
+        <item>Kata Kerja (Perintah)</item>
+        <item>Active Participle</item>
+        <item>Passive Participle</item>
+        <item>Bentuk Kata Nama</item>
+    </string-array>
+    <string name="writenote">Tulis nota</string>
+    <string name="choose_translations">Pilih Terjemahan</string>
+    <string name="auto_scroll">Skrol sendiri</string>
+    <string name="jump_sura">PERGI kepada Surah</string>
+    <string name="jump_tafsir">PERGI kepada Tafsir</string>
+    <!-- sura metainfo -->
+    <string name="makki">Mekah</string>
+    <string name="madani">Madani</string>
+    <string name="surah_location">"Lokasi:"</string>
+    <string name="sura_num_ayahs">"Ayat:"</string>
+    <string name="sura_ruku_num">"Ruku:"</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">Membatalkan&#8230;</string>
+    <string name="timing_database">Fail-fail Yang Diperlukan</string>
+    <string name="quran_sura">Surah</string>
+    <string name="quran_ayah">Ayat</string>
+    <string name="quran_page">Muka Surat</string>
+    <string name="quran_hizb">Hizb</string>
+    <string name="quran_juz2">Juzuk</string>
+    <string name="juz2_description">"Juzuk %1$d%2$s"</string>
+    <string name="juzpage_description">": Muka Surat %1$d"</string>
+    <string name="page_description">"Muka Surat %1$d"</string>
+    <string name="hizb_description">"Juzuk %1$d%2$s"</string>
+    <string name="permission_save_in_sdcard">Kebenaran diperlukan untuk menyimpan data di dalam sdcard</string>
+    <string name="permission_save_in_sdcard_unable">Penyimpanan data tidak berjaya</string>
+    <string name="note_saved">Nota disimpan</string>
+    <string name="topics_verses_index">Topic berkaitan dengan Ayat ini</string>
+    <!-- Bookmark -->
+    <string name="create_new">Cipta &amp;#8230 baru</string>
+    <string name="create_add">Cipta &amp; Tambah</string>
+    <string name="bookmark_result">"\'%1$s\' dijumpai sebanyak %2$d kali"</string>
+    <string name="bookmark_last_read">Bacaan sebelum ini</string>
+    <!--menu-->
+    <string name="menu_share">Kongsi</string>
+    <string name="menu_quran_index">Indeks Quran</string>
+    <string name="menu_quran_dictionary">Kamus</string>
+    <string name="menu_quran_planner">Perancang Quran</string>
+    <string name="menu_report">Lapor</string>
+    <string name="menu_copy">Salin</string>
+    <string name="menu_bookmarks">Penanda Buku</string>
+    <string name="add_bookmarks">Tambah Penanda Buku</string>
+    <string name="menu_jump">Pergi ke Versi</string>
+    <string name="menu_settings">Tetapan</string>
+    <string name="menu_search">Cari</string>
+    <string name="menu_notes">Nota</string>
+    <string name="menu_day_ayah">Ayat untuk hari ini</string>
+    <!--Options-->
+    <string name="pref_apperance">Paparan</string>
+    <string name="pref_settings_choose_language">Bahasa</string>
+    <string name="pref_theme">Tema</string>
+    <string name="pref_show_translation">Tunjuk Terjemahan</string>
+    <string name="pref_translations">Terjemahan</string>
+    <string name="pref_translation">Terjemahan</string>
+    <string name="pref_translation_font_size">Ukuran Font Terjemahan</string>
+    <string name="pref_arabic">Bahasa Arab</string>
+    <string name="pref_arabic_font_size">Saiz fon Arab</string>
+    <string name="pref_showarabic">Tunjuk Bahasa Arab</string>
+    <string name="pref_arabic_font">Tulisan Jawi</string>
+    <string name="pref_showwordbyword">Per Perkataan</string>
+    <string name="pref_showtajweed">Tajwid</string>
+    <string name="pref_mushaftype">Jenis Mushaf</string>
+    <string name="pref_arabicfont">Tulisan Arab</string>
+    <string name="pref_rtl">Ragam Tampilan dari Kanan ke Kiri</string>
+    <string name="pref_keepscreenon">Layar Tetap Menyala</string>
+    <string name="pref_audio_manager">Pengatur Audio</string>
+    <string name="pref_audio_manager_summary">Mengatur dan Mengunduh Pembacaan Quran</string>
+    <string name="notification_time">Masa Pemberitahuan</string>
+    <string name="notification_time_details">Pagi dan Petang</string>
+    <string name="notification">Pemberitahuan</string>
+    <string name="morning">Pagi dan</string>
+    <string name="evening">Petang</string>
+    <string name="pref_notification_switch">Pemberitahuan Harian</string>
+    <string name="pref_clearsearch">Bersihkan Riwayat Pencarian</string>
+    <string name="searchistoryremoved">Riwayat Pencarian Dihapus</string>
+    <string name="pref_tajweedrules">Aturan Tajwid</string>
+    <string name="pref_tajweed_summary">Tanda-tanda Berhenti, Aturan Pengucapan Tajwid</string>
+    <string-array name="mushaf_names">
+        <item>Utsmani</item>
+        <item>Pek Indo/Asia (beta)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>Putih</item>
+        <item>Hitam (Malam)</item>
+        <item>Hijau</item>
+        <item>Coklat</item>
+        <item>Dark Blue (Night)</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">BERIKUTNYA</string>
+    <string name="done_tut">MENGERTI</string>
+    <!--Tutorial overlay-->
+    <string name="share_ayah_title">Bagikan Ayat</string>
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Pengunduhan Berhasil</string>
+    <string name="download_processing">Pengunduhan sedang Berjalan&#8230;</string>
+    <string name="notification_download_canceled">Pengunduhan dibatalkan</string>
+    <string name="download_non_wifi_prompt">Anda tidak dalam jaringan Wi-Fi. Pengunduhan data tetap dilanjutkan?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">Sudah diunduh %1$s / %2$s</string>
+    <string name="download_sura_progress">Sudah diunduh %1$s / %2$s dari surat %3$d</string>
+    <string name="process_progress">Sedang memproses berkas %1$d / %2$d</string>
+    <string name="download_all">Mengunduh Semua</string>
+    <string name="all">Semua</string>
+    <string name="downloaded">Sudah diunduh</string>
+    <string name="available">Tersedia</string>
+    <string name="download_question">Mengunduh?</string>
+    <string name="partial_text">" (sebagian)"</string>
+    <string name="error_general">Pengunduhan Gagal</string>
+    <string name="error_disk">Tidak cukup ruang</string>
+    <string name="error_network">Masalah jaringan</string>
+    <string name="error_insufficient_permissions">Izin tidak mencukupi</string>
+    <string name="error_invalid_download_retry">Berkas rusak, sedang mencoba unduh ulang</string>
+    <string name="error_network_retry">Masalah jaringan, sedang mencoba melanjutkan &#8230;</string>
+    <string name="error_error_unknown">Kesalahan Tidak Diketahui</string>
+    <!-- Audio panel -->
+    <string name="play_apply">Terapkan</string>
+    <string name="previous">Sebelumnya</string>
+    <string name="play">Mainkan</string>
+    <string name="pause">Istirahat</string>
+    <string name="stop">Berhenti</string>
+    <string name="next">Berikutnya</string>
+    <string name="repeat_range">Ulang Yang DIpilih:</string>
+    <string name="repeat_each_verse">Ulang Ayat:</string>
+    <string name="audio_from">Dari</string>
+    <string name="audio_to">Sampai</string>
+    <string name="downloading_title">Sedang Mengunduh</string>
+    <string name="downloading_message">Mohon menunggu untuk unduh file (mendukung lanjut pengunduhan)</string>
+    <string name="processing">Sedang memproses&#8230;</string>
+    <string name="remove_dlg_title">Hapus ini?</string>
+    <string name="remove_dlg_msg">Apakah Anda yakin akan menghapus %1$s?</string>
+    <string name="remove_dlg_note_msg">Anda ingin memdam nota untuk %1$s?</string>
+    <string name="remove_button">Hapus</string>
+    <!--Tajweed Activity-->
+    <string name="title_activity_tawjeed_rules">Aturan Tajwid</string>
+    <string name="qalqala_tr">Qalqalah (Memantul)</string>
+    <string name="iqlab_tr">Iqlab (Mengganti)</string>
+    <string name="idgham_tr">Idgham (Memasukkan/Menggabungkan)</string>
+    <string name="idghamwg_tr">Idgham tanpa Ghunnah</string>
+    <string name="ikhfa_tr">"Ikhfa\' (Samar/Menutupi)"</string>
+    <string name="ghunna_tr">Ghunnah (Dengung)</string>
+    <string name="must_stop">Harus berhenti</string>
+    <string name="_22_times">Ditemukan 22 kali</string>
+    <string name="better_to_stop">Lebih baik berhenti</string>
+    <string name="bettertostp_603_times">Ditemukan 603 kali</string>
+    <string name="pause_at_one">Berhenti pada salah satu</string>
+    <string name="_12_times">Ditemukan 12 kali</string>
+    <string name="a_slight_pause">Berhenti sejenak</string>
+    <string name="_7_times">Ditemukan 7 kali</string>
+    <string name="stop_or_continue">Berhenti atau lanjut</string>
+    <string name="_1972_times">Ditemukan 1972 kali</string>
+    <string name="better_to_continue">Lebih baik lanjut</string>
+    <string name="_1682_times">Ditemukan 1682 kali</string>
+    <string name="dont_stop">Jangan berhenti</string>
+    <string name="_68_times">Ditemukan 68 kali</string>
+    <string name="num_times">%1$d kali</string>
+    <string name="num_second">%1$d det</string>
+    <string name="num_seconds">%1$d det</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="gunnahtext">Salah satu نّ atau مّ memiliki bunyi yang keluar dari hidung</string>
+    <string name="ikhfatext">Salah satu نْ atau ً ٍ ٌ bertemu dengan salah satu huruf-huruf ini ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت maka diucapkan dengan suara sedikit sengau\n\nATAU\n\nKetika huruf ب muncul setelah مْ maka diucapkan dengan suara sengau ringan di dalam hidung</string>
+    <string name="idhghamtext">Salah satu نْ atau ً ٍ ٌ bertemu dengan salah satu huruf-huruf ini و م ن ي maka akan berubah menjadi huruf berikutnya dan akan dibaca dengan ghunnah\n\nATAU\n\nKetika مْ bertemu dengan مّ, maka huruf sebelumnya akan menyatu ke huruf setelahnya dan dibaca dengan ghunnah</string>
+    <string name="idhghamwgtext">Salah satu نْ atau ً ٍ ٌ bertemu dengan huruf ل atau ر akan berubah menjadi huruf berikutnya tetapi diucapkan tanpa ghunnah</string>
+    <string name="iqlabtext">Salah satu نْ atau ً ٍ ٌ bertemu dengan ب akan berubah menjadi م.</string>
+    <string name="qalqalatext">Salah satu dari lima huruf-huruf ini د ج ب ط ق ketika terkena sukun ْ &amp;atau sebagai huruf terakhir dari sebuah ayat harus dibaca dengan sedikit memantul atau suara menghentak</string>
+    <string name="verb_form_basic">"Kata Kerja Bentuk 1 Kasus %1$d"</string>
+    <string name="verb_form">"Kata Kerja Bentuk %1$d"</string>
+    <string name="word_by_word_language">Bahasa Kata Per Kata</string>
+    <string-array name="parts_of_speech">
+        <item>Partikel Penderita</item>
+        <item>Kata Sifat</item>
+        <!--2-->
+        <item>Partikel Perubahan</item>
+        <item>Partikel Jawab</item>
+        <item>Partikel Penolakan</item>
+        <item>Partikel Sebab</item>
+        <item>Partikel Kepastian</item>
+        <item>Partikel Keadaan</item>
+        <item>Partikel Penggabungan</item>
+        <item>Partikel Syarat</item>
+        <item>Kata Sambung Koordinasi</item>
+        <!--11-->
+        <item>Kata Ganti Isyarat</item>
+        <item>Kata Sandang</item>
+        <item>Awalan Laam Penegasan</item>
+        <item>Partikel Penyamaan</item>
+        <item>Partikel Anjuran</item>
+        <item>Partikel Penjelasan</item>
+        <item>Partikel Perkecualian</item>
+        <item>Partikel Akan Datang</item>
+        <item>Kata Benda Kerja Perintah</item>
+        <item>Awalan Laam Perintah</item>
+        <item>Partikel Permulaan</item>
+        <item>Huruf Awal Qurani</item>
+        <item>Partikel Tafsir</item>
+        <item>Partikel Tanya</item>
+        <item>Kata Keterangan Tempat</item>
+        <item>Kata Benda</item>
+        <!--26-->
+        <item>Partikel Negatif</item>
+        <item>Kata Depan</item>
+        <item>Kata Benda Tertentu</item>
+        <item>Partikel Pencegahan</item>
+        <item>Partikel Larangan</item>
+        <item>Kata Ganti Orang</item>
+        <item>Awalan Laam Tujuan</item>
+        <item>Kata Ganti Tak Tentu</item>
+        <item>Partikel Pemulaian</item>
+        <item>Partikel Pembatasan</item>
+        <item>Partikel Pengalihan</item>
+        <item>Partikel Hasil</item>
+        <item>Kata Sambung Subordinat</item>
+        <item>Kata Tambahan</item>
+        <item>Partikel Tak Terduga</item>
+        <item>Kata Keterangan Waktu</item>
+        <item>Kata Kerja</item>
+        <!--43-->
+        <item>Partikel Seru</item>
+        <item>Kata Kerja Kata Benda</item>
+        <item>Perhatian</item>
+        <item>Jarak</item>
+        <item>Alamat</item>
+    </string-array>
+    <string name="transliteration_warning_msg">Penggunaan transliterasi untuk membaca/menulis Quran adalah tidak dibenarkan. Hal itu akan menimbulkan kesalahan pengucapan dan hilangnya semangat untuk mempelajari tajwid dengan benar.
+Lihat untuk lebih jelasnya @
+https://islamqa.info/en/191497\n\n
+
+
+Kita seharusnya ingat bahwa Allah (SWT) akan memberikan ganjaran berlipat bagi yang mempelajari bacaan dengan benar. [Bukhaari 4937].\n\n
+
+Anda bisa mempelajarinya dari seorang Syeikh/Ulama/Dari di lokasi anda atau di situs-situs ini.\n
+
+1. http://www.searchtruth.com/quran_teacher/quran.php\n
+
+2. http://www.readwithtajweed.com/tajweed_letters.htm\n
+
+Kami akan segera menghilangkan transliterasi ini Insya Allah, untuk memperbaiki kesalahan kami.
+Sebagai alternatif, anda dapat mengunduh pembacaan dan mendengarkannya apabila anda ingin melakukan pengecekan pengucapan.\n\n
+
+Semoga Allah mengampuni kita semua.</string>
+    <string name="agree">Saya setuju</string>
+    <string name="transliteration_warning_title">Peringatan!!</string>
+    <string name="file_content_invalid">Isi file tidak terbaca</string>
+    <string name="imported">Pengambilan Berhasil</string>
+    <string name="mushaf">Mushaf</string>
+    <string name="click_more">Klik untuk Selanjutnya</string>
+    <string name="sync_online">Penyelarasan</string>
+    <string name="update">Perbarui</string>
+    <string name="add_note">Tambahkan Catatan</string>
+    <string name="exact_word_match">Huruf yang Cocok</string>
+    <!--todo indopak under construction -->
+    <string name="suggestion">Saran</string>
+    <string name="comment">Komentar</string>
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <string name="minutes_left">%1$d menit</string>
+    <string name="minute_left">%1$d menit</string>
+    <string name="less_than_minute">Kurang dari satu menit</string>
+    <string name="pref_font_size">Ukuran Font</string>
+    <string name="none_text">Tidak ada</string>
+    <string name="sign_out">Keluar</string>
+    <string name="download_app_needed">Perlu mengunduh aplikasi dulu</string>
+    <!-- Match results -->
+    <string name="say_in_arabic">"Bicara sesuatu dengan bahasa Arab "</string>
+    <string name="saved_in_download_folder">Cadangan %1$s tersimpan di dalam folder unduhan</string>
+    <string name="new_version_available">Versi Baru Tersedia</string>
+    <string name="please_update_to_new_version">Silakan perbarui aplikasi ke versi terbaru untuk melanjutkan</string>
+    <string name="skip">Lewati</string>
+    <string name="action_undo">PATAH BALIK</string>
+    <!--quran planner-->
+    <string name="khatmah_on_track">Di Landasan</string>
+    <string name="khatmah_session_ahead">%1$d sesi di hadapan</string>
+    <string name="khatmah_session_behind">%1$d sesi terkebelakang</string>
+    <string name="khatmah_in_end_days">dalam %1$d hari</string>
+    <string name="khatmah_complete">Anda mencapai sasaran. Tahnia!</string>
+    <string name="cannot_be_empty">Tidak boleh kosong</string>
+    <string name="current_session">Sesi terkini</string>
+    <string name="complete">Selesai</string>
+    <string name="all_session">Semua Sesi</string>
+    <string name="progress">Kemajuan</string>
+    <string name="read">Baca</string>
+    <string name="pages">Muka surat</string>
+    <string name="days">Hari</string>
+    <string name="save_progress">Simpan kemajuan</string>
+    <string name="currently_at">Sekarang di</string>
+    <string name="add_planner">Tambah Perancang</string>
+    <string name="name">Nama</string>
+    <string name="number_of_days">Bilangan Hari</string>
+    <!--changelog-->
+    <string name="changelog_title">Terbaru</string>
+    <string name="changelog_ok_button">OK</string>
+    <string name="view">Paparan</string>
+    <string name="tafsir">Tafsir</string>
+    <string name="text_ayatul_kursi">Ayat Kursiyy</string>
+    <string name="juz_description">Juzuk %1$d</string>
+</resources>

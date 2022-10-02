@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>ئایەتی ڕۆژانە</item>
+        <item>ئایەتی ئەمڕۆ</item>
+        <item>گرنگی ئەدەی بە خوێندنی ئایەتێک؟</item>
+        <item>ئایەتێک فێربە ئەمڕۆ</item>
+        <item>ئایەتی ڕۆژانە</item>
+        <item>ئەتەوێ ئایەتێک بزانیت؟</item>
+        <item>فێری ئایەتێک ببە</item>
+        <item>ئایەتی ئەمڕۆ</item>
+        <item>ئایەتێکت خوێند ئەمڕۆ؟</item>
+        <item>پەنجەی پێدابنێ بۆ خوێندنی ئایەتێک</item>
+        <item>خوا چیت پێ ئەڵێ؟</item>
+        <item>با خوای گەورە ئەمڕۆ قسەت لەگەڵ بکات</item>
+        <item>قسەت لەگەڵ خوای گەورە کردووە ئەمڕۆ؟</item>
+        <item>با قسە لەگەڵ خوا بکەین</item>
+        <item>بیرت لە خوا کردەوە ئەمڕۆ؟</item>
+        <item>ئەمڕۆ ستایشی خودات کرد؟</item>
+        <item>یادی خودا کردنەوە</item>
+        <item>خۆراکی ڕۆح</item>
+        <item>کات تا هۆشىم ببووژێنێتەوە</item>
+        <item>یادی خودا بکە</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>دەتەوێ لەبارەی قورئانەوە شتێک بزانیت؟</item>
+        <item>چی دەڵێیت دەربارەی قورئان</item>
+        <item>چی دەڵێی دەربارەی اللە</item>
+        <item>دەربارەی ئایەتەکان</item>
+        <item>دەربارەی بەشەکان</item>
+        <item>بابەتى سەرنجڕاكێش لە قورئان</item>
+        <item>بابەتەکانی/ئەمڕۆ</item>
+        <item>ئەمە لەدەرەوەی قورئان بپشکنە</item>
+        <item>لەم قورئانەوە فێربە</item>
+    </string-array>
+</resources>

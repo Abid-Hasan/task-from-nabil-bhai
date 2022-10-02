@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">قۇرئان</string>
+    <!-- CommonOperations -->
+    <string name="cancel">ۋاز كەچ</string>
+    <string name="ayah_copied_popup">ئايەت كۆچۈرۈلدى</string>
+    <!--Search-->
+    <!-- Viewer Activity -->
+    <!-- sura metainfo -->
+    <string name="makki">مەككە</string>
+    <string name="madani">مەدىنە</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">ۋاز كېچىۋاتىدۇ…</string>
+    <string name="timing_database">زۆرۈر ھۆججەتلەر</string>
+    <string name="quran_sura">سۈرە</string>
+    <string name="quran_page">بەت</string>
+    <string name="quran_hizb">ھىزب</string>
+    <string name="quran_juz2">پارە</string>
+    <string name="juz2_description">"%1$d%2$s -پارە"</string>
+    <string name="page_description">" -پارە، %1$d -بەت"</string>
+    <!-- Bookmark -->
+    <!--menu-->
+    <string name="menu_bookmarks">خەتكۈچلەر</string>
+    <string name="menu_jump">يۆتكەل</string>
+    <string name="menu_settings">تەڭشەكلەر</string>
+    <string name="menu_search">ئىزدە</string>
+    <!--Options-->
+    <!--Tutorials-->
+    <!--Tutorial overlay-->
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">چۈشۈرۈش مۇۋەپپەقىيەتلىك</string>
+    <string name="download_processing">چۈشۈرۈشنى بىر تەرەپ قىلىۋاتىدۇ…</string>
+    <string name="notification_download_canceled">چۈشۈرۈشتىن ۋاز كەچتى</string>
+    <string name="download_non_wifi_prompt">سىز wifi تورىدا ئەمەس. سانلىق مەلۇماتنى چۈشۈرىۋېرەمسىز؟</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">%1$s / %2$s چۈشۈرۈلدى</string>
+    <string name="process_progress">بىر تەرەپ قىلىۋاتقىنى %1$d / %2$d</string>
+    <string name="error_general">چۈشۈرەلمىدى</string>
+    <string name="error_disk">چۈشۈرۈشكە يېتەرلىك دىسكا بوشلۇقى يوق</string>
+    <string name="error_network">تور خاتالىقى تۈپەيلىدىن چۈشۈرەلمەيدۇ</string>
+    <string name="error_insufficient_permissions">ھوقۇق خاتالىقى تۈپەيلىدىن چۈشۈرەلمەيدۇ</string>
+    <string name="error_invalid_download_retry">ھۆججەت بۇزۇلغان، قايتا چۈشۈرۈشنى سىناۋاتىدۇ</string>
+    <string name="error_network_retry">تور خاتالىقى، داۋاملاشتۇرۇشنى سىناۋاتىدۇ…</string>
+    <!-- Audio panel -->
+    <string name="downloading_title">چۈشۈرۈۋاتىدۇ…</string>
+    <string name="downloading_message">ھۆججەتلەرنى چۈشۈرۈشنى كۈتۈڭ. (داۋاملاشتۇرۇشنى قوللايدۇ)</string>
+    <string name="processing">بىر تەرەپ قىلىۋاتىدۇ…</string>
+    <string name="remove_dlg_title">تەرجىمىنى چىقىرىۋېتەمدۇ؟</string>
+    <string name="remove_dlg_msg">سىز %1$s نى راسلا چىقىرىۋېتەمسىز؟</string>
+    <string name="remove_button">چىقىرىۋەت</string>
+    <!--Tajweed Activity-->
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <!--todo indopak under construction -->
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <!-- Match results -->
+    <!--quran planner-->
+    <!--changelog-->
+</resources>

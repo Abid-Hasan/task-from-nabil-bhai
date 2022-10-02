@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Ayat Hari Ini</item>
+        <item>Ayat Hari Ini</item>
+        <item>Tertarik untuk membaca satu ayat?</item>
+        <item>Pelajari sebuah ayat hari ini</item>
+        <item>Ayat Harian</item>
+        <item>Ingin tahu sebuah ayat?</item>
+        <item>Ayo belajar sebuah ayat</item>
+        <item>Ayat Untuk Hari Ini</item>
+        <item>Sudah membaca sebuah ayat hari ini?</item>
+        <item>Klik Untuk Membaca Satu Ayat</item>
+        <item>Apa yang Allah sedang kabarkan kepadamu?</item>
+        <item>Biarkan Allah berbicara kepadamu hari ini</item>
+        <item>Sudahkah berdoa kepada Allah hari ini?</item>
+        <item>Ayo kita berdoa kepada Allah</item>
+        <item>Sudah berzikir kepada Allah hari ini?</item>
+        <item>Sudah memuji Allah hari ini?</item>
+        <item>Ayo berzikir kepada Allah</item>
+        <item>Makanan Untuk Jiwa</item>
+        <item>Waktunya Untuk Menyegarkan Kembali Pikiranku</item>
+        <item>Ingat Tuhanmu</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Ingin tahu tentang sesuatu dari Quran</item>
+        <item>Apa yang Quran katakan tentang</item>
+        <item>Apa yang Allah katakan tentang</item>
+        <item>Ayat-ayat tentang</item>
+        <item>Ayat-ayat tentang</item>
+        <item>Topik Menarik Dalam Quran</item>
+        <item>Topik Hari Ini</item>
+        <item>Periksa Ini Di Quran</item>
+        <item>Pelajari ini Di Quran</item>
+    </string-array>
+</resources>

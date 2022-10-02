@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <string-array name="sura_translation">
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A ABERTURA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A VACA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>"A FAMÍLIA DE IMRAN "</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS MULHERES</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A MESA SERVIDA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O GADO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS CISMOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS ESPÓLIOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O ARREPENDIMENTO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>JONAS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>HUD</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>JOSÉ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O TROVÃO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ABRAÃO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AL HIJR</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS ABELHAS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A VIAGEM NOTURNA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A CAVERNA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>MARIA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>TÁ, HÁ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS PROFETAS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS PEREGRINAÇÃO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS CRENTES</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A LUZ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O DISCERNIMENTO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS POETAS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS FORMIGAS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS NARRATIVAS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A ARANHA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS BIZANTINOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>LUCMAN</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A PROSTRAÇÃO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS PARTIDOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>SABÁ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O CRIADOR</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>YÁ SIN</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS ENFILEIRADOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A LETRA SAD</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS GRUPOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O REMISSÓRIO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS DETALHADOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A CONSULTA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS ORNAMENTOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A FUMAÇA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O GENUFLEXO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS DUNAS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>MUHAMMAD</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O TRIUNFO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS APOSENTOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A LETRA CAF</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS VENTOS DISSEMINADORES</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O MONTE</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A ESTRELA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A LUA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O CLEMENTE</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O EVENTO INEVITAVÉL</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O FERRO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A ARGUMENTAÇÃO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O DESTERRO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A EXAMINADA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS FILEIRAS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A SEXTA-FEIRA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS HIPÓCRITAS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS DEFRAUDAÇÕES RECÍPROCAS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O DIVÓRCIO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS PROIBIÇÕES</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A SOBERANIA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O CÁLAMO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A REALIDADE</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS VIAS DE ASCENÇO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>NOÉ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS GÊNIOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O ACOBERTADO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O ENVOLTO NO MANTO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A RESSURREIÇÃO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O HOMEM</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS ENVIADOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A NOTÍCIA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS ARREBATADORES</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O AUSTERO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O ENROLAMENTO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O FENDIMENTO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS FRAUDADORES</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A FENDA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS CONSTELAÇÕES</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O VISITANTE NOTURNO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O ALTÍSSIMO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O EVENTO ASSOLADOR</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A AURORA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A METRÓPOLE</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O SOL</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A NOITE</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>AS HORAS DA MANHÃ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O CONFORTO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O FIGO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O COÁGULO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O DECRETO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A EVIDÊNCIA CLARA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O TERREMOTO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS CORCÉIS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A CALAMIDADE</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O ACÚMULO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A ERA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O DIFAMADOR</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O ELEFANTE</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS CORAIXITAS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS OBSÉQUIOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A ABUNDÂNCIA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS INCRÉDULOS</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O SOCORRO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>O ESPARTO</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A SINCERIDADE</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>A ALVORADA</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>OS HUMANOS</item>
+    </string-array>
+    <string-array name="sura_transliteration">
+        <item>A ABERTURA</item>
+        <item>A VACA</item>
+        <item>A FAMÍLIA DE IMRAN</item>
+        <item>AS MULHERES</item>
+        <item>A MESA SERVIDA</item>
+        <item>O GADO</item>
+        <item>OS CISMOS</item>
+        <item>OS ESPÓLIOS</item>
+        <item>O ARREPENDIMENTO</item>
+        <item>JONAS</item>
+        <item>HUD</item>
+        <item>JOSÉ</item>
+        <item>O TROVÃO</item>
+        <item>ABRAÃO</item>
+        <item>AL HIJR</item>
+        <item>AS ABELHAS</item>
+        <item>A VIAGEM NOTURNA</item>
+        <item>A CAVERNA</item>
+        <item>MARIA</item>
+        <item>TA HÁ</item>
+        <item>OS PROFETAS</item>
+        <item>A PEREGRINAÇÃO</item>
+        <item>OS CRENTES</item>
+        <item>A LUZ</item>
+        <item>O DISCERNIMENTO</item>
+        <item>OS POETAS</item>
+        <item>AS FORMIGAS</item>
+        <item>AS NARRATIVAS</item>
+        <item>A ARANHA</item>
+        <item>OS BIZANTINOS</item>
+        <item>LUC MAN</item>
+        <item>A PROSTRAÇÃO</item>
+        <item>OS PARTIDOS</item>
+        <item>SABÁ</item>
+        <item>O CRIADOR</item>
+        <item>YA SIN</item>
+        <item>OS ENFILEIRADOS</item>
+        <item>A LETRA SAD</item>
+        <item>OS GRUPOS</item>
+        <item>O REMISSÓRIO</item>
+        <item>OS DETALHADOS</item>
+        <item>A CONSULTA</item>
+        <item>OS ORNAMENTOS</item>
+        <item>A FUMAÇA</item>
+        <item>O GENUFLEXO</item>
+        <item>AS DUNAS</item>
+        <item>MUHAMMAD</item>
+        <item>O TRIUNFO</item>
+        <item>OS APOSENTOS</item>
+        <item>A LETRA CAF</item>
+        <item>OS VENTOS DISSEMINADORES</item>
+        <item>O MONTE</item>
+        <item>A ESTRELA</item>
+        <item>A LUA</item>
+        <item>O CLEMENTE</item>
+        <item>O EVENTO INEVITAVÉL</item>
+        <item>O FERRO</item>
+        <item>A ARGUMENTAÇÃO</item>
+        <item>O DESTERRO</item>
+        <item>A EXAMINADA</item>
+        <item>AS FILEIRAS</item>
+        <item>A SEXTA-FEIRA</item>
+        <item>OS HIPÓCRITAS</item>
+        <item>AS DEFRAUDAÇÕES RECÍPROCAS</item>
+        <item>O DIVÓRCIO</item>
+        <item>AS PROIBIÇÕES</item>
+        <item>A SOBERANIA</item>
+        <item>O CÁLAMO</item>
+        <item>A REALIDADE</item>
+        <item>AS VIAS DE ASCENSÃO</item>
+        <item>NOÉ</item>
+        <item>OS GÊNIOS</item>
+        <item>O ACOBERTADO</item>
+        <item>O ENVOLTO NO MANTO</item>
+        <item>A RESSURREIÇÃO</item>
+        <item>O HOMEM</item>
+        <item>OS ENVIADOS</item>
+        <item>A NOTÍCIA</item>
+        <item>OS ARREBATADORES</item>
+        <item>O AUSTERO</item>
+        <item>O ENROLAMENTO</item>
+        <item>O FENDIMENTO</item>
+        <item>OS FRAUDADORES</item>
+        <item>A FENDA</item>
+        <item>AS CONSTELAÇÕES</item>
+        <item>O VISITANTE NOTURNO</item>
+        <item>O ALTISSÍMO</item>
+        <item>O EVENTO ASSOLADOR</item>
+        <item>A AURORA</item>
+        <item>A METRÓPOLE</item>
+        <item>O SOL</item>
+        <item>A NOITE</item>
+        <item>AS HORAS DA MANHÃ</item>
+        <item>O CONFORTO</item>
+        <item>O FIGO</item>
+        <item>O COÁGULO</item>
+        <item>O DECRETO</item>
+        <item>A EVIDÊNCIA</item>
+        <item>O TERREMOTO</item>
+        <item>OS CORCÉIS</item>
+        <item>A CALAMIDADE</item>
+        <item>A COBIÇA</item>
+        <item>A ERA</item>
+        <item>O DIFAMADOR</item>
+        <item>O ELEFANTE</item>
+        <item>OS CORAIXATAS</item>
+        <item>OS OBSÉQUIOS</item>
+        <item>"A ABUNDÂNCIA "</item>
+        <item>OS INCRÉDULOS</item>
+        <item>O SOCORRO</item>
+        <item>O ESPARTO</item>
+        <item>A UNICIDADE</item>
+        <item>A ALVORADA</item>
+        <item>OS HUMANOS</item>
+    </string-array>
+</resources>

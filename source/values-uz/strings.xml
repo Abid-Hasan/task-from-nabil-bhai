@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Qurʼon</string>
+    <!-- CommonOperations -->
+    <string name="save">Saqlash</string>
+    <string name="delete">O\'chirish</string>
+    <string name="close">Yopish</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="ok">OK</string>
+    <string name="share_image">Rasm (ekran tasviri)</string>
+    <string name="share_text">Matn</string>
+    <string name="multiple_ayahs">Bir necha oyatlar</string>
+    <string name="ayah_copied_popup">Oyat xotiraga koʻchirildi</string>
+    <string name="stringshotshare">Ekran tasvirini ulashish</string>
+    <string name="popup_open_in_sura_view">Surani ko\'rish</string>
+    <string name="popup_tafsir_ibn_kathir">Tafsir/Eslatmani ko\'rish</string>
+    <string name="popup_play_this_ayah">Oyat audiosini tinglash</string>
+    <!--Search-->
+    <string name="searchTitle">So\'z iboralar bilan qidirish</string>
+    <string name="searchhelptext">Misollar:
+
+\n\nSuraning raqamini qo\'llash: Biror oyatga borish uchun o\'sha oyat raqamini kiritish</string>
+    <string name="noWordTyped">Hech nima kiritilmadi</string>
+    <string name="search_in_all_collections">Qidiruv ko\'lami: Barcha to\'plamlar</string>
+    <string name="search_in">"Qidiruv ko'lami: %1$s"</string>
+    <string name="filter_hint">Filtrlash uchun matnni kiriting</string>
+    <string name="search_result">"%2$d marta \"%1$s\" topildi"</string>
+    <string name="search_result_root">"%1$s o'zak %2$d marta topildi"</string>
+    <string name="searching">"Qidirilmoqda… %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">O\'zak</string>
+    <string name="lemma">Bosh/yasama so\'z</string>
+    <string name="click_root_search_quran">Qur\'ondan qidirish uchun o\'zak yoki jumla qismiga bosing</string>
+    <string-array name="verb_form_names">
+        <item>Tugallangan zamon</item>
+        <item>Tugallanmagan zamon</item>
+        <item>Buyruq tarzidagi</item>
+        <item>Aktiv ishtirokchi</item>
+        <item>Passiv ishtirokchi</item>
+        <item>Ot shakli</item>
+    </string-array>
+    <string name="writenote">Eslatma yozing</string>
+    <string name="choose_translations">Tarjimalarni tanlang</string>
+    <string name="auto_scroll">Avtomatik navbatdagi sahifaga o\'tuvchi</string>
+    <string name="jump_sura">Suraga borish</string>
+    <string name="jump_tafsir">Tafsirga borish</string>
+    <!-- sura metainfo -->
+    <string name="makki">Makkiy</string>
+    <string name="madani">Madaniy</string>
+    <string name="surah_location">"Davr: "</string>
+    <string name="sura_num_ayahs">"Oyatlar: "</string>
+    <string name="sura_ruku_num">"Qismlar: "</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">Bekor qilinmoqda&#8230;</string>
+    <string name="timing_database">Kerakli fayllar</string>
+    <string name="quran_sura">Sura</string>
+    <string name="quran_ayah">Oyat</string>
+    <string name="quran_page">Sahifa</string>
+    <string name="quran_hizb">guruh (hizb)</string>
+    <string name="quran_juz2">Juz</string>
+    <string name="juz2_description">"%1$d%2$s-juz"</string>
+    <string name="juzpage_description">" : Sahifa %1$d"</string>
+    <string name="page_description">"%1$d-bet"</string>
+    <string name="hizb_description">"Juz %1$d%2$s"</string>
+    <string name="permission_save_in_sdcard">Ma\'lumotlarni SD-kartaga saqlash uchun ruxsat kerak</string>
+    <string name="permission_save_in_sdcard_unable">Xotiraga saqlay olmadi</string>
+    <string name="note_saved">Qayd etildi</string>
+    <string name="topics_verses_index">Mazkur oyatga oid mavzular</string>
+    <!-- Bookmark -->
+    <string name="create_new">Yangi&#8230; yaratish</string>
+    <string name="create_add">Yaratish va qo\'shish</string>
+    <string name="bookmark_result">"%2$d marta \'%1$s\' topildi"</string>
+    <string name="bookmark_last_read">Oxirgi o\'qilgan</string>
+    <!--menu-->
+    <string name="menu_share">Ulashish</string>
+    <string name="menu_quran_index">Qur\'on indeksi</string>
+    <string name="menu_quran_dictionary">Lugʻat</string>
+    <string name="menu_quran_planner">Qur\'on rejalashtiruvchi</string>
+    <string name="menu_report">Xabar qilish</string>
+    <string name="menu_copy">Nusxa ko\'chirish</string>
+    <string name="menu_bookmarks">Xatchoʻplar</string>
+    <string name="add_bookmarks">Xatcho\'p qo\'shish</string>
+    <string name="menu_jump">Oʻtish</string>
+    <string name="menu_settings">Sozlamalar</string>
+    <string name="menu_search">Izlash</string>
+    <string name="menu_notes">Qaydlar</string>
+    <string name="menu_day_ayah">Kunning oyati</string>
+    <!--Options-->
+    <string name="pref_apperance">Ko\'rinish</string>
+    <string name="pref_settings_choose_language">Til</string>
+    <string name="pref_theme">Tema</string>
+    <string name="pref_show_translation">Tarjimasini ko\'rsatish</string>
+    <string name="pref_translations">Tarjimalar</string>
+    <string name="pref_translation">Tarjima</string>
+    <string name="pref_translation_font_size">Tarjima shrift hajmi</string>
+    <string name="pref_arabic">Arabcha</string>
+    <string name="pref_arabic_font_size">Arab shriftlarining hajmi</string>
+    <string name="pref_showarabic">Arabchani ko\'rsatish</string>
+    <string name="pref_arabic_font">Arabcha shrift</string>
+    <string name="pref_showwordbyword">So\'zma-so\'z</string>
+    <string name="pref_showtajweed">Tajvid</string>
+    <string name="pref_mushaftype">Yozma Qur\'on (Mus-haf) ko\'rinishida</string>
+    <string name="pref_arabicfont">Arabcha</string>
+    <string name="pref_rtl">O\'ngdan chapga ko\'rish rejimi</string>
+    <string name="pref_keepscreenon">Ekranni yoqiq tutish</string>
+    <string name="pref_fixed_bars">Belgilangan yuqori va quyi satr</string>
+    <string name="pref_audio_manager">Audio Menejer (eksperimental)</string>
+    <string name="pref_audio_manager_summary">Qurʼon audio fayllarini saqlab olish va boshqarish</string>
+    <string name="notification_time">Xabarnoma vaqti</string>
+    <string name="notification_time_details">Tushlikdan oldin va keyin</string>
+    <string name="notification">Xabarnoma</string>
+    <string name="morning">Tushlikdan oldin va</string>
+    <string name="evening">tushlikdan keyin</string>
+    <string name="pref_notification_switch">Kundalik eslatma</string>
+    <string name="pref_clearsearch">Qidiruv tarixini tozalash</string>
+    <string name="searchistoryremoved">Qidiruv tarixi tozalandi</string>
+    <string name="pref_tajweedrules">Tajvid qoidalari</string>
+    <string name="pref_tajweed_summary">To\'xtash belgisi, tajvid talaffuz qoidalari</string>
+    <string-array name="mushaf_names">
+        <item>Usmoniy/Madaniy</item>
+        <item>HindPok/Osiyo (beta)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>Oq</item>
+        <item>Qora</item>
+        <item>Yashil</item>
+        <item>Jigarrang</item>
+        <item>Dark Blue (Night)</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">Keyingi</string>
+    <string name="done_tut">Tushunarli</string>
+    <!--Tutorial overlay-->
+    <string name="share_ayah_title">Oyatni ulashish</string>
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Muvaffaqiyatli saqlandi</string>
+    <string name="download_processing">Saqlanmoqda&#8230;</string>
+    <string name="notification_download_canceled">Saqlash bekor qilindi</string>
+    <string name="download_non_wifi_prompt">Wi-Fi tarmogʻiga ulanmagansiz, baribir fayllarni saqlab olmoqchimisiz?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">%1$s/%2$s saqlandi</string>
+    <string name="download_sura_progress">%3$d-suraning %1$s (jami: %2$s) saqlanmoqda&#8230;</string>
+    <string name="process_progress">%1$d/%2$d ishlandi</string>
+    <string name="download_all">Barchasini saqlash</string>
+    <string name="all">Barchasi</string>
+    <string name="downloaded">Yuklandi</string>
+    <string name="available">Mavjud</string>
+    <string name="download_question">Yuklaysizmi?</string>
+    <string name="partial_text">" (qisman)"</string>
+    <string name="error_general">Saqlash muvaffaqiyatsiz boʻldi</string>
+    <string name="error_disk">Uskunada yetarli xotira mavjud emas</string>
+    <string name="error_network">Tarmoq bogʻlanishida xatolik yuz berdi</string>
+    <string name="error_insufficient_permissions">Ruhsat muammosi tufayli saqlab boʻlmadi</string>
+    <string name="error_invalid_download_retry">Fayl buzilgan, qayta saqlab olishga harakat qilinmoqda&#8230;</string>
+    <string name="error_network_retry">Tarqmoq xatoligi, qayta harakat qilinmoqda&#8230;</string>
+    <string name="error_error_unknown">Noma\'lum xato</string>
+    <!-- Audio panel -->
+    <string name="play_apply">Joriy qilish</string>
+    <string name="previous">Avvalgi</string>
+    <string name="play">Chalish</string>
+    <string name="pause">Pauza</string>
+    <string name="stop">Toʻxtatish</string>
+    <string name="next">Keyingi</string>
+    <string name="repeat_range">Tanlanganni takrorlash</string>
+    <string name="repeat_each_verse">Oyatni takrorlash:</string>
+    <string name="audio_from">dan</string>
+    <string name="audio_to">ga</string>
+    <string name="downloading_title">Saqlanmoqda&#8230;</string>
+    <string name="downloading_message">Iltimos, fayllar toʻliq saqlanib olinguncha biroz kutib turing.</string>
+    <string name="processing">Ishlanmoqda&#8230;</string>
+    <string name="remove_dlg_title">Tarjima oʻchirilsinmi?</string>
+    <string name="remove_dlg_msg">Haqiqatda \"%1$s\" tarjimasini oʻchirmoqchimisiz??</string>
+    <string name="remove_dlg_note_msg">%1$s uchun qaydni o\'chirmoqchimisiz?</string>
+    <string name="remove_button">Oʻchirish</string>
+    <!--Tajweed Activity-->
+    <string name="title_activity_tawjeed_rules">Tajvid qoidalari</string>
+    <string name="qalqala_tr">Qalqala (mazkur ق  ط  ب  ج  د] 5] harf sukunli bo’lganida tebratib o’qish)</string>
+    <string name="iqlab_tr">Iqlob (nun harfining mim harfiga talaffuzi o\'zgarishi)</string>
+    <string name="idgham_tr">Idg\'om (bir harf ikkinchi harf ichiga kirgizib o\'qilishi)</string>
+    <string name="idghamwg_tr">Idg\'om G\'unnasiz</string>
+    <string name="ikhfa_tr">"Ixfo (nun harfining tovushi yashirinishi)"</string>
+    <string name="ghunna_tr">G\'unna ([nun] va [mim] harflari burun bo\'shlig\'ida uzun talaffuzi)</string>
+    <string name="must_stop">To\'xtash kerak</string>
+    <string name="_22_times">22 marta topildi</string>
+    <string name="better_to_stop">To\'xtatish tavsiya etiladi</string>
+    <string name="bettertostp_603_times">603 marta topildi</string>
+    <string name="pause_at_one">Bir marta tanaffuz (pauza) qilish</string>
+    <string name="_12_times">12 marta topildi</string>
+    <string name="a_slight_pause">Biroz tanaffuz (pauza)</string>
+    <string name="_7_times">7 marta topildi</string>
+    <string name="stop_or_continue">To\'xtash yoki davom etish</string>
+    <string name="_1972_times">1972 marta topildi</string>
+    <string name="better_to_continue">Davom etish tavsiya etiladi</string>
+    <string name="_1682_times">1682 marta topildi</string>
+    <string name="dont_stop">To\'xtamang</string>
+    <string name="_68_times">68 marta topildi</string>
+    <string name="num_times">%1$d marta</string>
+    <string name="num_second">%1$d soniya</string>
+    <string name="num_seconds">%1$d soniyalar</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="gunnahtext">نّ  yoki مّ  harfi burundan chiqqan ovozga ega bo\'ladi.</string>
+    <string name="ikhfatext">نْ yoki ً ٍ ٌ  belgisi mazkur [ د ج ث ت  ك ق ف ظ ط ض ص ش س ز ذ ] harflardan oldin kelsa yengil burun tovushi bilan talaffuz qilinadi. 
+\n\nYoki\n\n agar  ب  harfi مْ dan keyin kelsa, burundagi yengil burun tovushi bilan talaffuz qilinadi.</string>
+    <string name="idhghamtext">نْ yoki ً ٍ ٌ  belgisi mazkur [ و م ن ي ] harflardan oldin kelsa, shu harflarga singib ketadi va G\'unna bilan o\'qiladi.
+\n\n\Yoki\n\n agar  مْ dan keyin  مّ  kelsa, oldingisi keyingisiga qo\'shiladi va G\'unna bilan o\'qiladi.</string>
+    <string name="idhghamwgtext">نْ yoki ً ٍ ٌ  belgisi mazkur [ ل yoki ر ] harflardan oldin kelsa, shu harflarga singib ketadi, ammo G\'unna bilan o\'qilmaydi.</string>
+    <string name="iqlabtext">نْ yoki ً ٍ ٌ   belgisi ب dan oldin kelsa,  talaffuzi م ga o\'zgaradi.</string>
+    <string name="qalqalatext">Mazkur besh harfdan [د ج ب ط ق] birortasi Sukun bilan birga kelganda,  yoki oyatning oxirgi harfi bo\'lsa, biroz tebranib yoki to\'satdan ko\'tarilgan ovoz bilan talaffuz qilinishi kerak.</string>
+    <string name="verb_form_basic">"Fe'lning 1-turiga misol %1$d"</string>
+    <string name="verb_form">"Fe'l turi %1$d"</string>
+    <string name="word_by_word_language">So\'zma-so\'z til</string>
+    <string-array name="parts_of_speech">
+        <item>E\'tibor kuchaytiruvchi qo\'shimcha/so\'zlar</item>
+        <item>Sifat</item>
+        <!--2-->
+        <item>Aniqlik kirituvchi qo\'shimcha/so\'zlar</item>
+        <item>Javob ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Rad/qarshilik ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Sabab ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Aniqlik ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Hol</item>
+        <item>Birgalik ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Shart  ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Ko\'rsatish/Yo\'naltirish bog\'lovchilari</item>
+        <!--11-->
+        <item>Ifodali atama</item>
+        <item>Aniqlovchi</item>
+        <item>Ifodali old qo\'shimcha (lam)</item>
+        <item>Tenglovchi qo\'shimcha/so\'zlar</item>
+        <item>Buyruq qo\'shimcha/so\'zlar</item>
+        <item>T\'arif qo\'shimcha/so\'zlar</item>
+        <item>Istisno/Zidlik qo\'shimcha/so\'zlar</item>
+        <item>Kelajak qo\'shimcha/so\'zlar</item>
+        <item>Buyruq og\'zaki so\'zlar</item>
+        <item>Buyruq oldingi qo\'shimcha (lam)</item>
+        <item>Boshlang\'ich qo\'shimcha/so\'zlar</item>
+        <item>Qur\'onga oid bosh harflar</item>
+        <item>Izohlovchi qo\'shimcha/so\'zlar</item>
+        <item>So\'roq qo\'shimcha/so\'zlar</item>
+        <item>Joy ravishi</item>
+        <item>Ot</item>
+        <!--26-->
+        <item>Inkor qo\'shimcha/so\'zlar</item>
+        <item>Old ko\'makchi</item>
+        <item>Tegishli atama</item>
+        <item>Ogohlantiruvchi/qarshi qo\'shimcha/so\'zlar</item>
+        <item>Taqiqlovchi qo\'shimcha/so\'zlar</item>
+        <item>Kishilik olmoshi</item>
+        <item>Maqsad old qo\'shimchasi (lam)</item>
+        <item>Nisbiy/qiyosiy olmosh</item>
+        <item>Qayta bog\'lovchi qo\'shimcha/so\'zlar</item>
+        <item>Cheklovchi qo\'shimcha/so\'zlar</item>
+        <item>Bekor qiluvchi qo\'shimcha/so\'zlar</item>
+        <item>Natija qo\'shimcha/so\'zlar</item>
+        <item>Birlashtiruvchi bog\'lovchilar</item>
+        <item>To\'ldiruvchi qo\'shimcha/so\'zlar</item>
+        <item>Hayratlanish qo\'shimcha/so\'zlar</item>
+        <item>Vaqt ravishi</item>
+        <item>Fe\'l</item>
+        <!--43-->
+        <item>Vositachi qo\'shimcha/so\'zlar</item>
+        <item>Ot-fe\'l</item>
+        <item>Diqqat</item>
+        <item>Masofa</item>
+        <item>Manzil</item>
+    </string-array>
+    <string name="transliteration_warning_msg">Arab harflaridan boshqa harflar bilan Qur\'oni Karimni o\'qish va yozish maqsadga muvofiq emas.
+Chunki, arab harflaridan boshqa harflar ifodasi noto\'g\'ri talaffuzga sabab bo\'lishi yoki to\'g\'ri tajvid qoidalari bilan o\'zlashtirishga to\'siq bo\'lishi mumkin.
+Bu haqida kengroq yoritilgan ma\'lumotlarni quyidagidan tekshiring: @ https://islamqa.info/en/191497\n\n. Shuni yodimizda tutishimiz kerakki, Qur\'onni to\'g\'ri o\'qish va yod olishga harakat qilsak, Alloh (s.v.t) savobini ikki hissa beradi, inshaAlloh [Buxoriy 4937].\n\n Yashash joyingizga yaqindagi shayx/olim/qorilardan o\'rganishingiz mumkin.\n
+Agar imkoniyatingiz bo\'lmasa, quyidagi veb-sahifalaridan foydalanishingiz mumkin:\n
+
+1. http://www.iou-gqmc.com/tajweed-programs/\n
+
+2. http://www.searchtruth.com/quran_teacher/quran.php \n
+
+Shu bilan bir qatorda, bizning ilovamizdan Shayx Ayman Suvayd / Shayx Minshaviy / Shayx Husariylarning qiroatini yuklab olishingiz va talaffuzini tekshirmoqchi bo\'lsangiz, ularning o\'qilishlarini tinglashingiz mumkin.
+Shuningdek, ularning qiroatini eshitish orqali tajvid qoidalari bilan to\'g\'ri qiroat qilishni o\'rganishingiz mumkin, inshaAlloh.
+Ushbu arab harflaridan boshqa harflar bilan ifodalangan qismini biz ham kelajakda ilovamizga kiritmasligimiz mumkin, inshaAlloh, chunki bu bizning ham xatomiz.\n
+Alloh(s.v.t) barchamizga oson qilsin, va kamchiliklarimizni kechirsin.</string>
+    <string name="agree">Roziman</string>
+    <string name="transliteration_warning_title">Ogohlantirish!!</string>
+    <string name="file_content_invalid">Fayl matnida xato bor</string>
+    <string name="imported">Muvaffaqiyatli yuklandi!</string>
+    <string name="mushaf">Mus\'xaf</string>
+    <string name="click_more">Ko\'proq ma\'lumot uchun bosing</string>
+    <string name="sync_online">Onlayn sinxronlash</string>
+    <string name="update">Yangilash</string>
+    <string name="add_note">Qayd qo\'shish</string>
+    <string name="exact_word_match">So\'zga  to\'liq muvofiq</string>
+    <!--todo indopak under construction -->
+    <string name="suggestion">Taklif</string>
+    <string name="comment">Mulohaza</string>
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <string name="minutes_left">%1$d daqiqalar</string>
+    <string name="minute_left">%1$d daqiqa</string>
+    <string name="less_than_minute">Bir daqiqadan kam</string>
+    <string name="pref_font_size">Shrift hajmi</string>
+    <string name="none_text">Hech biri</string>
+    <string name="sign_out">Chiqish</string>
+    <string name="download_app_needed">Buning uchun ilovani yuklash kerak</string>
+    <!-- Match results -->
+    <string name="say_in_arabic">Arabchada biror nima ayting</string>
+    <string name="saved_in_download_folder">Yuklab olish papkasiga %1$s zaxira nusxasi saqlandi!</string>
+    <string name="new_version_available">Yangi versiyasi mavjud</string>
+    <string name="please_update_to_new_version">Foydalanishni davom ettirish uchun ilovani yangi versiyasiga yangilang</string>
+    <string name="skip">Tashab o\'tish</string>
+    <string name="action_undo">Orqaga</string>
+    <!--quran planner-->
+    <string name="khatmah_on_track">Jarayonda</string>
+    <string name="khatmah_session_ahead">%1$d bo\'lim qoldi</string>
+    <string name="khatmah_session_behind">%1$d bo\'lim yakunlandi</string>
+    <string name="khatmah_in_end_days">%1$d kun ichida</string>
+    <string name="khatmah_complete">Siz bunga erishdingiz. Tabriklaymiz!</string>
+    <string name="cannot_be_empty">Bo\'sh bo\'laolmaydi</string>
+    <string name="current_session">Hozirgi bo\'lim</string>
+    <string name="complete">To\'liq, mukammal</string>
+    <string name="all_session">Barcha bo\'limlar</string>
+    <string name="progress">Jarayon</string>
+    <string name="read">O\'qish</string>
+    <string name="pages">Sahifalar</string>
+    <string name="days">Kunlar</string>
+    <string name="save_progress">Jarayonni saqlash</string>
+    <string name="currently_at">Hozirda</string>
+    <string name="add_planner">Rejalashtiruvchini qo\'shish</string>
+    <string name="name">Ism</string>
+    <string name="number_of_days">Kunlar soni</string>
+    <!--changelog-->
+    <string name="changelog_title">Yangiliklar</string>
+    <string name="changelog_ok_button">OK</string>
+    <string name="changelog_show_full">Ko\'proq...</string>
+    <string name="changelog_full_title">Kiritilgan o\'zgartirishlar ro\'yhati</string>
+    <string name="view">Ko\'rinishi</string>
+    <string name="font">Shrift</string>
+    <string name="content">Kontent (tarkib)</string>
+    <string name="tafsir">Tafsir</string>
+    <string name="quick_links">Tez havolalar</string>
+    <string name="text_ayatul_kursi">Oyatal Kursiy</string>
+    <string name="juz_description">Juz %1$d</string>
+</resources>

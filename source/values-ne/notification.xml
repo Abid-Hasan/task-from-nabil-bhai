@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>दिनको आयत</item>
+        <item>आजको आयत</item>
+        <item>एउटा आयत पढ्न चाहनुहुन्छ ?</item>
+        <item>आज एउटा आयत सिकौ</item>
+        <item>दैनिक श्लोक</item>
+        <item>एउटा श्लोक बुझ्न चाहनुहुन्छ</item>
+        <item>एउटा श्लोक सिकौं</item>
+        <item>आजको लागि आयत</item>
+        <item>आज एउटा श्लोक पढ्न चाहनुहुन्छ ?</item>
+        <item>एउटा श्लोक पढ्न क्लिक गर्नुहोस्</item>
+        <item>अल्लाहले तपाईंलाई के भन्दै हुनुहुन्छ ?</item>
+        <item>अल्लाहलाई तपाईंसँग कुरा गर्न दिनुहोस्</item>
+        <item>आज अल्लाहसँग कुरा गर्नुभयो ?</item>
+        <item>अल्लाहसँग कुरा गर्नुहोस्</item>
+        <item>आज अल्लाहलाई याद गर्नुभयो ?</item>
+        <item>आज अल्लाहको प्रशंसा गर्नुभयो ?</item>
+        <item>अल्लाहको सम्झना गरौं</item>
+        <item>आत्माको लागि खाना</item>
+        <item>मेरो मनलाई ताजा गर्ने समय</item>
+        <item>आफ्नो ईश्वरलाई सम्झनुहोस्</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>कुरआनबाट जान्न चाहनुहुन्छ</item>
+        <item>कुरआनले के भन्छ</item>
+        <item>अल्लाहले के भन्नुहुन्छ</item>
+        <item>सम्बन्धित आयतहरु</item>
+        <item>सम्बन्धित श्लोकहरु</item>
+        <item>कुरआनमा रोचक विषय</item>
+        <item>आजको विषय</item>
+        <item>यसबारे कुरआनमा चेक गर्नुहोस्</item>
+        <item>कुरआनबाट यसबारे सिक्नुहोस्</item>
+    </string-array>
+</resources>

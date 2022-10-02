@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--backup-->
+    <!--<color name="primaryColorGreen">#2e7d32</color>-->
+    <!--<color name="primaryColorWhite">#FE074B84</color>-->
+    <!--<color name="primaryColorBlack">#424242</color>-->
+
+    <color name="light_green">#39873c</color>
+
+    <color name="bg_green">#ffffff</color>
+    <color name="bg_black">#111111</color>
+    <color name="bg_white">#fff</color>
+    <color name="bg_brown">#fff8e1</color>
+    <color name="bg_dark_blue">#16202A</color>
+
+    <color name="bg_surface_white">#ffF5F5F5</color>
+    <color name="bg_surface_black">#ff1a1a1a</color>
+    <color name="bg_surface_green">#ffF5F5F5</color>
+    <color name="bg_surface_brown">#ffeee7d2</color>
+    <color name="bg_surface_dark_blue">#ff1C2939</color>
+
+    <color name="primaryColorWhiteLight">#6679bff8</color>
+    <color name="primaryColorBlackLight">#664592CF</color>
+    <color name="primaryColorGreenLight">#6666966a</color>
+    <color name="primaryColorBrownLight">#668E8380</color>
+    <color name="primaryColorDarkBlueLight">#662F6C9D</color>
+
+    <color name="primaryColorWhite">#4592cf</color>
+    <color name="primaryColorBlack">#4592cf</color>
+    <color name="primaryColorGreen">#539055</color>
+    <color name="primaryColorBrown">#795548</color>
+    <color name="primaryColorDarkBlue">#4592cf</color>
+
+    <color name="primaryColorWhiteDark">#3176ba</color>
+    <color name="primaryColorBlackDark">#3176ba</color>
+    <color name="primaryColorGreenDark">#38733b</color>
+    <color name="primaryColorBrownDark">#5E342E</color>
+    <color name="primaryColorDarkBlueDark">#3176ba</color>
+    <color name="brown_6">#7A4938</color>
+
+    <color name="secondaryColorWhite">#8f4330</color>
+    <color name="secondaryColorGreen">#795548</color>
+    <color name="secondaryColorBrown">#009688</color>
+
+    <color name="secondaryColorLightWhite">#33965646</color>
+    <color name="secondaryColorLightGreen">#337D655C</color>
+    <color name="secondaryColorLightBrown">#334AADA4</color>
+
+
+    <color name="errorColor">#CF6679</color>
+
+    <color name="neutral10">#000000</color>
+    <color name="neutral9">#1B1B1B</color>
+    <color name="neutral8">#3D3D3D</color>
+    <color name="neutral7">#5C5C5C</color>
+    <color name="neutral6">#707070</color>
+    <color name="neutral5">#8F8F8F</color>
+    <color name="neutral4">#A3A3A3</color>
+    <color name="neutral3">#C2C2C2</color>
+    <color name="neutral2">#D6D6D6</color>
+    <color name="neutral1.5">#EDEDED</color>
+    <color name="neutral1">#F5F5F5</color>
+    <color name="neutral0">#fff</color>
+
+
+    <color name="devPrimaryColor">#6ab954</color>
+    <color name="devSecondaryColor">#262b2d</color>
+
+    <color name="color_qalqala">#ff2f9900</color>
+    <color name="color_iqlab">#ff3164c5</color>
+    <color name="color_idgham">#ffb955c8</color>
+    <color name="color_ikhfa">#ffb60000</color>
+    <color name="color_ghunna">#ffd16a00</color>
+    <color name="color_idghamwo">#aaa</color>
+
+    <color name="wbw_bg_green">#AED0AF</color>
+    <color name="wbw_bg_dark">#265C87</color>
+    <color name="wbw_bg_white">#9DCEF5</color>
+    <color name="wbw_bg_brown">#CC8F7A</color>
+    <color name="wbw_bg_dark_blue">#265C87</color>
+
+    <color name="update_button">#CEE3CF</color>
+
+    <color name="semiTransparentColor2">#9E000000</color>
+
+    <string-array name="colors" translatable="false">
+        <item>#4297DB</item>
+        <item>#539055</item>
+        <item>#BA6268</item>
+        <item>#A46BC0</item>
+        <item>#C7B574</item>
+        <item>#C19757</item>
+    </string-array>
+
+    <color name="tajweed1">#ca2f2f</color>
+    <color name="tajweed2">#b3582a</color>
+    <color name="tajweed3">#b37a2a</color>
+    <color name="tajweed4">#b3ac2a</color>
+    <color name="tajweed5">#9eb32a</color>
+    <color name="tajweed6">#8ab32a</color>
+    <color name="tajweed7">#67bf4c</color>
+
+    <color name="gray">#75000000</color>
+    <color name="light_gray">#FFC5C5C5</color>
+
+    <color name="radio_button_selected_color">#ff33b5e5</color>
+    <color name="radio_button_unselected_color">#e0e0e0</color>
+
+    <!-- image share utils colors -->
+
+    <!-- end image share utils colors -->
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="red">#CF3640</color>
+    <color name="light_red">#F5E1E3</color>
+
+    <color name="divider1_night">#717E7E</color>
+    <color name="divider2_night">#192B2B</color>
+
+    <color name="divider1_day">#DEE5EB</color>
+    <color name="divider2_day">#9E9E9E</color>
+    <color name="divider3_day">#999E99</color>
+
+    <color name="banner">#E1ECF5</color>
+    <color name="banner_button">#4090CF</color>
+    <color name="CircleProgress">#399CFF</color>
+
+
+</resources>

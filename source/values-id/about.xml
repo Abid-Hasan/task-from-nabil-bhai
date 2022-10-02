@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">Berbagi Aplikasi</string>
+    <string name="share_app_info">"Al Quran (Tafsir &amp; Per Kata) adalah sebuah alat bantu belajar Quran untuk semua kalangan, yang memiliki kemampuan memainkan audio ayat per ayat dengan fungsi-fungsi pengulangan, Tafsir Ibnu Katsir, kode tajwid berwarna, analisa kata per kata dan terjemahan, penanda-bacaan sesuai keinginan, fungsi pencarian, tampilan beberapa terjemahan sekaligus, berbagai macam tema dan jenis huruf, dan banyak lagi.
+
+Dapatkan sekarang di Google Play Store: https://gtaf.org/apps/quran \n\n#GreentechApps
+   "</string>
+    <string name="shareApk">Berbagi Berkas APK</string>
+    <string name="sharelink">Berbagi Tautan</string>
+    <string name="getapp">Dapatkan Aplikasi Quran:</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">Rasulullah (s.a.w) berkata: \'\'Tidak dikatakan bersyukur kepada Allah bagi siapa yang tidak tahu berterimakasih kepada manusia\'\'\n[HR Abu Dawud No. 4811] \n\nLuangkan waktu sejenak untuk memberikan penilaian dan menginspirasi kami agar menghasilkan karya yang lebih baik lagi!</string>
+    <string name="ratingtext">PENILAIAN ANDA SANGAT BERARTI BANYAK BAGI KAMI</string>
+    <string name="menu_rate">Berikan penilaian!</string>
+    <string name="ratelater">Lain kali</string>
+    <string name="ratenothanks">Tidak, terima kasih</string>
+    <string name="app_details">Alhamdulillah. Al Quran (Tafsir &amp; Per Kata) adalah alat bantu belajar Quran yang memungkinkan anda untuk menikmati:
+\n
+\n • Tafsir Ibnu Katsir Bahasa Indonesia
+\n • Kode tajwid berwarna, sama seperti iQuran (untuk Kitkat dan setelahnya)
+\n • Terjemahan kata per kata, tata bahasa, akar kata, dan rincian bentuk kata kerja
+\n • Penanda-bacaan/Favorit yang dikelompokkan ke dalam kategori yang dibuat oleh pengguna 
+\n • Indeks Quran 
+\n • Membuat catatan-catatan 
+\n • Fitur pengambilan/pengiriman penanda-bacaan/catatan ke berkas daring/online 
+\n • Mesin pencari kata yang berdayaguna dengan tanda sorot pada kata yang ditemukan
+\n • Sistem audio yang handal dengan fungsi pengulangan, memainkan sekelompok ayat untuk membantu dalam menghafal
+\n • Variasi jenis huruf, fitur perbesaran dengan mencubit dan berbagai macam tema
+\n • Fitur menggulung sendiri
+\n • Beberapa terjemahan Quran yang dapat dilihat bersamaan sekaligus: Inggris, Indonesia, Malaysia, dan banyak lagi
+\n • Sejumlah pembacaan Quran yang dapat diunduh untuk mendengarkan bacaan ayat per ayat (mendukung pembacaan tanpa jeda/pembacaan terus-menerus), di antaranya Misyary Al-Afasy, Husari (Mualim)
+
+\n\nUcapan Terima Kasih:
+\n • Grafian.com untuk kode-kode inisialnya.
+\n • Quran.com untuk server database dan mekanisme audio-nya.
+\n • Quran Tafsir Pro App untuk Tafsir Ibnu Katsir dan kumpulan tulisan-tulisannya.
+\n • Guidedverses.com untuk komentar Khan &amp; Hilali.
+\n • Quranindex.info untuk database indeks Quran-nya.
+\n • Academy of Quran Studies/Understand Quran untuk database bentuk-bentuk kata kerjanya.
+\n • Saudara-saudara dan teman-teman lainnya yang telah membantu dalam projek ini. Semoga Allah memberkati mereka semua.
+
+\n\n\nSangkalan
+\nTidak ada terjemahan yang bisa seratus persen tepat, juga tidak ada yang bisa digunakan sebagai pengganti teks Al Quran. Di sini kami hanya mencoba untuk menghadirkan kumpulan terjemahan yang paling bisa diterima, tetapi kami tidak bisa menjamin keotentikan dan/atau ketepatannya. Silahkan menggunakannya dengan pertimbangan Anda sendiri.</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Bantu Kami Menerjemahkan</string>
+    <string name="contribute_title">Ayo ber-shadaqah jariyah</string>
+    <string name="contribute_text">Greentech Apps berusaha memenuhi kebutuhan aplikasi-aplikasi Islami Anda yang inovatif, modern dan indah.\n\n
+Aplikasi-aplikasi kami tidak mengandung iklan dan sepenuhnya gratis.\n\n
+Agar kami bisa lebih berkontribusi untuk umat dengan aplikasi-aplikasi dan fitur-fitur yang baru, tim kami membutuhkan dana untuk mendukung pengembangannya.\n\n
+Inilah kesempatan anda untuk membuat suatu perbedaan, bermanfaat bagi umat dan berbagi pahala.</string>
+    <string name="contribute_button">Saya ingin berkontribusi</string>
+    <!--more apps -->
+    <string name="devDetails">Kreativitas, Kesederhanaan, Keunggulan insya Allah</string>
+    <string-array name="appsName" translatable="false">
+        <!--
+            <item>Al Quran (Tafsir &amp; by Word)</item>-->
+        <item>দোআ ও যিকির (হিসনুল মুসলিম)</item>
+        <!--
+
+            <item>Al Quran (Tafsir &amp; by Word)</item>-->
+        <item>Dua and Zikr (Hisnul Muslim)</item>
+        <!--
+
+            <item>Al Quran (Tafsir &amp; by Word)</item>-->
+        <item>অর্থপূর্ণ নামায (সালাত) শব্দসহ</item>
+        <!--
+
+
+
+            <item>Al Quran (Tafsir &amp; by Word)</item>-->
+        <item>Hadith Collection (All in one)</item>
+        <item>Muslim Scholars &amp; Companions</item>
+    </string-array>
+    <string-array name="description" translatable="false">
+        <!--
+            <item>"Connect with the Quran through Word by Word translation, Analysis and Tafsir"</item>-->
+        <item>"কুরআন এবং হাদিস থেকে সংকলিত সহীহ দোয়া ও যিকির যা নিত্যদিনের জন্য খুবই প্রয়োজনীয়"</item>
+        <!--
+
+            <item>"Connect with the Quran through Word by Word translation, Analysis and Tafsir"</item>-->
+        <item>"Doa dan Zikir dari sumber asli untuk ibadah harian seorang muslim dan peristiwa-peristiwa khusus"</item>
+        <!--
+
+            <item>"Connect with the Quran through Word by Word translation, Analysis and Tafsir"</item>-->
+        <item>"এর দ্বারা আপনি আল্লাহর সামনে দাড়িয়ে কি বলছেন তা বুঝতে পারবেন এবং সলাতে মনোযোগ বাড়বে "</item>
+        <!--
+
+
+
+            <item>"Connect with the Quran through Word by Word translation, Analysis and Tafsir"</item>-->
+        <item>"Koleksi 14 buku-buku hadits termasuk Musnad Ahmad"</item>
+        <item>"Kumpulan biografi para ulama muslim sejak jaman para sahabat"</item>
+    </string-array>
+    <string-array name="urls" translatable="false">
+        <!--
+            <item>"market://details?id=com.greentech.quran</item>-->
+        <item>"market://details?id=com.greentech.hisnulmuslimbn"</item>
+        <!--
+
+            <item>"market://details?id=com.greentech.quran</item>-->
+        <item>"market://details?id=com.greentech.hisnulmuslim"</item>
+        <!--
+
+            <item>"market://details?id=com.greentech.quran</item>-->
+        <item>""market://details?id=com.greentech.salatbn"</item>
+        <!--
+
+
+
+            <item>"market://details?id=com.greentech.quran</item>-->
+        <item>""market://details?id=com.greentech.hadith"</item>
+        <item>""market://details?id=com.greentech.muslimscholars"</item>
+    </string-array>
+</resources>

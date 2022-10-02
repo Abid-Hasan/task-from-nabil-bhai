@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <string-array name="sura_translation">
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সূচনা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>বকনা-বাছুর</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ইমরানের পরিবার</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নারী</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>খাদ্য পরিবেশিত টেবিল</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>গৃহপালিত পশু</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>উচু স্থান</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>যুদ্ধ-লব্ধ ধনসম্পদ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>অনুশোচনা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নবী ইউনুস</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নবী হুদ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নবী ইউসুফ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>বজ্রপাত</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নবী ইবরাহীম</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>পাথুরে পাহাড়</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>মৌমাছি</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ইহুদি জাতি</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>গুহা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>মারইয়াম (ঈসা নবীর মা)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ত়া হা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নবীগণ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>হ়াজ্জ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>বিশ্বাসী</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>আলো</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>মানদণ্ড</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>কবি</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>পিঁপড়া</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>কাহিনি</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>মাকড়শা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>রোমান জাতি</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>এক জ্ঞানী ব্যাক্তি</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সিজদা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>জোট</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>রানী সাবা/শেবা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>আদি স্রষ্টা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ইয়াসীন</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সারিবদ্ধভাবে দাঁড়ানো</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>আরবি বর্ণ সাদ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>দলবদ্ধ জনতা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ক্ষমাকারী</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সুস্পষ্ট বিবরণ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>পরামর্শ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সোনাদানা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ধোঁয়া</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নতজানু</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>বালুর পাহাড়</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নবী মুহাম্মদ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>বিজয়</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>আবাস</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>কাফ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>বিক্ষেপকারী বাতাস</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>পাহাড়</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>তারা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>চাঁদ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>পরম করুণাময়</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নিশ্চিত ঘটনা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>লোহা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>অনুযোগকারিণী</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সমাবেশ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নারী, যাকে পরীক্ষা করা হবে</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সারিবদ্ধ সৈন্যদল</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সম্মেলন/শুক্রবার</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ভণ্ড বিশ্বাসী</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>মোহ অপসারণ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>তালাক</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নিষিদ্ধকরণ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সার্বভৌম কর্তৃত্ব</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>কলম</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নিশ্চিত সত্য</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>উন্নয়নের সোপান</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নবী নূহ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>জিন সম্প্রদায়</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>বস্ত্রাচ্ছাদনকারী</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>পোশাক পরিহিত</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>পুনরুত্থান</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>মানবজাতি</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>প্রেরিত পুরুষ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>মহাসংবাদ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>প্রচেষ্টাকারী</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সে ভ্রু কুঁচকালো</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>অন্ধকারাচ্ছন্ন</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>বিদীর্ণ করা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>প্রতারণা করা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>খণ্ড-বিখণ্ডকরণ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নক্ষত্রপুঞ্জ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>রাতের আগন্তুক</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সর্বোন্নত</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>বিহ্বলকর ঘটনা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ভোরবেলা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নগর</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সূর্য</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>রাত</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>পূর্বাহ্নের সুর্যকিরণ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>বক্ষ প্রশস্তকরণ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ডুমুর</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>রক্তপিণ্ড</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>মহিমান্বিত</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>প্রমাণ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>ভূমিকম্প</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>অভিযানকারী</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>মহাসংকট</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>প্রাচুর্যের প্রতিযোগিতা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সময়</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>পরনিন্দাকারী</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>হাতি</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>কুরাইশ গোত্র</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সাহায্য সহায়তা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>কাউসার/প্রাচুর্য</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>অবিশ্বাসী</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>সাহায্য</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>খেজুরের পাকানো (রশি)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>আন্তরিকতা</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>নিশিভোর</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>মানুষ জাতি</item>
+    </string-array>
+    <string-array name="sura_transliteration">
+        <item>আল-ফাতিহা</item>
+        <item>আল-বাকারাহ</item>
+        <item>আলি ‘ইমরান</item>
+        <item>আন নিসা</item>
+        <item>আল-মা’ইদাহ</item>
+        <item>আল-আন‘আম</item>
+        <item>আল-আ‘রাফ</item>
+        <item>আল-আনফাল</item>
+        <item>আত-তাওবাহ</item>
+        <item>ইউনুস</item>
+        <item>হুদ</item>
+        <item>ইউসুফ</item>
+        <item>রা’দ</item>
+        <item>ইবরাহীম</item>
+        <item>আল-হিজ্‌র</item>
+        <item>আন-নাহ্‌ল</item>
+        <item>বানু ইসরাঈল</item>
+        <item>আল-কাহ্‌ফ</item>
+        <item>মারইয়াম</item>
+        <item>তাহা</item>
+        <item>আল-আম্বিয়া</item>
+        <item>আল-হাজ্জ</item>
+        <item>আল-মু’মিনূন</item>
+        <item>আন-নূর</item>
+        <item>আল-ফুরকান</item>
+        <item>আশ-শু‘আরা</item>
+        <item>আন-নাম্‌ল</item>
+        <item>আল-কাসাস</item>
+        <item>আল-আনকাবূত</item>
+        <item>আর-রূম</item>
+        <item>লুকমান</item>
+        <item>আস-সিজদাহ</item>
+        <item>আল-আহযাব</item>
+        <item>সাবা</item>
+        <item>ফাতির</item>
+        <item>ইয়াসীন</item>
+        <item>আস-সাফফাত</item>
+        <item>সাদ</item>
+        <item>আয-যুমার</item>
+        <item>গাফির</item>
+        <item>ফুসসিলাত (হা-মীম সিজদাহ)</item>
+        <item>আশ-শুরা</item>
+        <item>আয-যুখরুফ</item>
+        <item>আদ-দুখান</item>
+        <item>আল-জাসিয়া</item>
+        <item>আল-আহকাফ</item>
+        <item>মুহাম্মাদ</item>
+        <item>আল-ফাত্‌হ</item>
+        <item>আল-হুজরাত</item>
+        <item>কাফ</item>
+        <item>আয-যারিয়াত</item>
+        <item>আত-তূর</item>
+        <item>আন-নাজ্‌ম</item>
+        <item>আল-কামার</item>
+        <item>আর-রহমান</item>
+        <item>আল-ওয়াকিয়া</item>
+        <item>আল-হাদীদ</item>
+        <item>আল-মুজাদালাহ</item>
+        <item>আল-হাশ্‌র</item>
+        <item>আল-মুমতাহিনা</item>
+        <item>আস-সফ</item>
+        <item>আল-জুমু‘আহ</item>
+        <item>আল-মুনাফিকূন</item>
+        <item>আত-তাগাবুন</item>
+        <item>আত-তালাক</item>
+        <item>আত-তাহরীম</item>
+        <item>আল-মুল্‌ক</item>
+        <item>আল-কালাম</item>
+        <item>আল-হাক্কাহ</item>
+        <item>আল-মা’আরিজ</item>
+        <item>নূহ</item>
+        <item>আল-জিন</item>
+        <item>আল-মুযযামমিল</item>
+        <item>আল-মুদ্দাসসির</item>
+        <item>আল-কিয়ামাহ</item>
+        <item>আল-ইনসান</item>
+        <item>আল-মুরসালাত</item>
+        <item>আন-নাবা</item>
+        <item>আন-নযি‘আত</item>
+        <item>\‘আবাসা</item>
+        <item>আত-তাকউইর</item>
+        <item>আল-ইনফিতার</item>
+        <item>আত-মুতাফ্‌ফিফীন</item>
+        <item>আল-ইনশিকাক</item>
+        <item>আল-বুরূজ</item>
+        <item>আত-তারিক</item>
+        <item>আল-আ‘লা</item>
+        <item>আল-গাশিয়াহ</item>
+        <item>আল-ফাজ্‌র</item>
+        <item>আল-বালাদ</item>
+        <item>আশ-শাম্‌স</item>
+        <item>আল-লাইল</item>
+        <item>আদ-দুহা</item>
+        <item>আশ-শার্‌হ</item>
+        <item>আত-তীন</item>
+        <item>আল-‘আলাক</item>
+        <item>আল-কাদ্‌র</item>
+        <item>আল-বাইয়্যিনাহ</item>
+        <item>আয-যিলযাল</item>
+        <item>আল-‘আদিয়াত</item>
+        <item>আল-কারিয়াহ</item>
+        <item>আত-তাকাসুর</item>
+        <item>আল-‘আস্‌র</item>
+        <item>আল-হুমাযাহ</item>
+        <item>আল-ফীল</item>
+        <item>কুরাইশ</item>
+        <item>আল-মা‘ঊন</item>
+        <item>আল-কাউসার</item>
+        <item>আল-কাফিরূন</item>
+        <item>আন-নাস্‌র</item>
+        <item>আল-মাসাদ</item>
+        <item>আল-ইখলাস</item>
+        <item>আল-ফালাক</item>
+        <item>আন-নাস</item>
+    </string-array>
+</resources>

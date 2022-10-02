@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <string-array name="sura_translation">
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Eröffnende</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Kuh</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Sippe ʿImrāns</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Frauen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Tisch (mit Speisen)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Vieh</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Höhen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Kriegsbeute</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Reue</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Jonas</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Hūd</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Josef</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Donner</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Abraham</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das steinige Land</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Bienen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Nachtreise</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Höhle</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Maria</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>(Die Buchstaben) Ṭā-Hā</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Propheten</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Pilgerfahrt</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Gläubigen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Licht</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Unterscheidung</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Dichter</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Ameisen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Geschichte</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Spinne</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Römer</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Luqmān</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Niederwerfung</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Verbündeten</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Saba (Königreich aus der Antike)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Schöpfer (der Existenz)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>(Die Buchstaben) Yā-Sīn</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Sich-Reihenden</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>(Der Buchstabe) Ṣād</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Gruppen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Vergebende</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Sie sind ausführlich erläutert (die Verse)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Beratung</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Verzierung</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Rauch</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Knien</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Sanddünen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Muḥammad ﷺ</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Sieg</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Gemächer</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>(Der Buchstabe) Qāf</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Zerstreuenden (Winde)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Berg</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Stern</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Mond</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Allerbarmer</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das eintreffende Ereignis</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Eisen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Diskussion</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Versammlung</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Geprüfte (Frau)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Reihe; die Einreihung</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Freitag</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Heuchler</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>(Der Tag von) Gewinn und Verlust</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Scheidung</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Verbot</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Herrschaft</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Schreibrohr; der Stift</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die unabwendbare Wahrheit</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Aufstiegswege</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Noah</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Dschinn</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Eingehüllte</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Zugedeckte</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Auferstehung</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Mensch</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Entsandten</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Kunde</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Entreißenden</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Er runzelte die Stirn</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Umschlingen; das Zusammenrollen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Zerbrechen (des Himmels)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die das Maß Kürzenden (betrügende Händler)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Auseinanderspalten (des Himmels)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Türme</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Pochende (helle Stern)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Allerhöchste</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Überdeckende (Stunde)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Morgendämmerung; das Frühlicht</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Ortschaft</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Sonne</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Nacht</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Morgenhelle; der Vormittag</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Auftun; das Weiten (der Brust)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Feige</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Anhängsel; der Blutklumpen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die (Nacht der) Bestimmung</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der klare Beweis</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Beben</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Rennenden (Pferde)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Verhängnis</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Vermehrung; das Streben nach Mehr</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Das Zeitalter; die Zeit; der Nachmittag</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Stichler (der mit der Rede verleumdet)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Elefant</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Quraisch (arab. Stamm)</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Hilfeleistung</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Überfülle; der Überfluss</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Ungläubigen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Hilfe</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Palmfasern</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Aufrichtigkeit</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Der Tagesanbruch; das Morgengrauen</item>
+        <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+        <item>Die Menschen</item>
+    </string-array>
+    <string-array name="sura_transliteration">
+        <item>Al-Fātiḥah</item>
+        <item>Al-Baqarah</item>
+        <item>Āl ʿImrān</item>
+        <item>An-Nisāʾ</item>
+        <item>Al-Māʾidah</item>
+        <item>Al-Anʿām</item>
+        <item>Al-Aʿrāf</item>
+        <item>Al-Anfāl</item>
+        <item>At-Tauwbah</item>
+        <item>Yūnus</item>
+        <item>Hūd</item>
+        <item>Yūsuf</item>
+        <item>Ar-Raʿd</item>
+        <item>Ibrāhīm</item>
+        <item>Al-Ḥiǧr</item>
+        <item>An-Naḥl</item>
+        <item>Al-Isrāʾ</item>
+        <item>Al-Kahf</item>
+        <item>Maryam</item>
+        <item>Ṭā-Hā</item>
+        <item>Al-Anbiyāʾ</item>
+        <item>Al-Ḥaǧǧ</item>
+        <item>Al-Muʾminūn</item>
+        <item>An-Nūr</item>
+        <item>Al-Furqān</item>
+        <item>Aš-Šuʿarāʾ</item>
+        <item>An-Naml</item>
+        <item>Al-Qaṣaṣ</item>
+        <item>Al-ʿAnkabūt</item>
+        <item>Ar-Rūm</item>
+        <item>Luqmān</item>
+        <item>As-Saǧdah</item>
+        <item>Al-Aḥzāb</item>
+        <item>Sabaʾ</item>
+        <item>Fāṭir</item>
+        <item>Yā-Sīn</item>
+        <item>Aṣ-Ṣāffāt</item>
+        <item>Ṣād</item>
+        <item>Az-Zumar</item>
+        <item>Ġāfir</item>
+        <item>Fuṣṣilat</item>
+        <item>Aš-Šūrā</item>
+        <item>Az-Zuḫruf</item>
+        <item>Ad-Duḫān</item>
+        <item>Al-Ǧāṯiyah</item>
+        <item>Al-Aḥqāf</item>
+        <item>Muḥammad</item>
+        <item>Al-Fatḥ</item>
+        <item>Al-Ḥuǧurāt</item>
+        <item>Qāf</item>
+        <item>Aḏ-Ḏāriyāt</item>
+        <item>Aṭ-Ṭūr</item>
+        <item>An-Naǧm</item>
+        <item>Al-Qamar</item>
+        <item>Ar-Raḥmān</item>
+        <item>Al-Wāqiʿah</item>
+        <item>Al-Ḥadīd</item>
+        <item>Al-Muǧādalah</item>
+        <item>Al-Ḥašr</item>
+        <item>Al-Mumtaḥinah</item>
+        <item>Aṣ-Ṣaff</item>
+        <item>Al-Ǧumʿah</item>
+        <item>Al-Munāfiqūn</item>
+        <item>At-Taġābun</item>
+        <item>Aṭ-Ṭalāq</item>
+        <item>At-Taḥrīm</item>
+        <item>Al-Mulk</item>
+        <item>Al-Qalam</item>
+        <item>Al-Ḥāqqah</item>
+        <item>Al-Maʿāriǧ</item>
+        <item>Nūḥ</item>
+        <item>Al-Ǧinn</item>
+        <item>Al-Muzzammil</item>
+        <item>Al-Muddaṯṯir</item>
+        <item>Al-Qiyāmah</item>
+        <item>Al-Insān</item>
+        <item>Al-Mursalāt</item>
+        <item>An-Nabaʾ</item>
+        <item>An-Nāziʿāt</item>
+        <item>ʿAbasa</item>
+        <item>At-Takwīr</item>
+        <item>Al-Infiṭār</item>
+        <item>Al-Muṭaffifīn</item>
+        <item>Al-Inšiqāq</item>
+        <item>Al-Burūǧ</item>
+        <item>Aṭ-Ṭāriq</item>
+        <item>Al-Aʿlā</item>
+        <item>Al-Ġāšiyah</item>
+        <item>Al-Faǧr</item>
+        <item>Al-Balad</item>
+        <item>Aš-Šams</item>
+        <item>Al-Layl</item>
+        <item>Aḍ-Ḍuḥā</item>
+        <item>Aš-Šarḥ</item>
+        <item>At-Tīn</item>
+        <item>Al-ʿAlaq</item>
+        <item>Al-Qadr</item>
+        <item>Al-Bayyinah</item>
+        <item>Az-Zalzalah</item>
+        <item>Al-ʿĀdiyāt</item>
+        <item>Al-Qāriʿah</item>
+        <item>At-Takāṯur</item>
+        <item>Al-ʿAṣr</item>
+        <item>Al-Humazah</item>
+        <item>Al-Fīl</item>
+        <item>Qurayš</item>
+        <item>Al-Māʿūn</item>
+        <item>Al-Kauwṯar</item>
+        <item>Al-Kāfirūn</item>
+        <item>An-Naṣr</item>
+        <item>Al-Masad</item>
+        <item>Al-Iḫlāṣ</item>
+        <item>Al-Falaq</item>
+        <item>An-Nās</item>
+    </string-array>
+</resources>

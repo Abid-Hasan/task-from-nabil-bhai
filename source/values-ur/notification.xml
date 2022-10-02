@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>آج كے دن کی آیت</item>
+        <item>آج کی آیت</item>
+        <item>ہر آيات پڑھنے كا خاص خيال ركها جائے</item>
+        <item>"چلو آج إيک آيت سيكهتے ہیں "</item>
+        <item>روزانہ كی آيت</item>
+        <item>کیا آپ آیت سیکھنا چاہتے ہے</item>
+        <item>چلو ایک آیت سیکھتے ہیں</item>
+        <item>آج كي آيت</item>
+        <item>آج کی آیت پڑھی</item>
+        <item>کلک کرکے آیت پڑھیے</item>
+        <item>سنو! الله آپ سے کیا کہ رہا ہے</item>
+        <item>کیا آج اللہ سے بات کی</item>
+        <item>کیا آج اللہ سے بات کی</item>
+        <item>چلو اللہ سے بات کرتے ہیں</item>
+        <item>کیا آج اللہ کو یاد کیا .</item>
+        <item>كيا آج الله تعالى كی تعريف بيان كی؟</item>
+        <item>چلو اللہ کو یاد کرتے ہیں</item>
+        <item>روح کے لیے غزا</item>
+        <item>دماغ کو تازہ کرنے کا وقت</item>
+        <item>اپنے رب کو یاد کرو</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>إس كے بارے میں قرآن پاک سے جاننا چاہتے ہو!</item>
+        <item>"إس كے بارے میں قرآن پاک كيا كہتا ہے "</item>
+        <item>الله تعالى إس بارے میں کیا کہتا ہے</item>
+        <item>آيت إس بارے میں</item>
+        <item>آیات إس بارے میں</item>
+        <item>قرآن پاک میں دلچسپ موضوع</item>
+        <item>آج کا موضوع</item>
+        <item>قرآن عظيم سے إس كا معائنہ کیجیے</item>
+        <item>یہ قرآن
+ سے سیکهيئے</item>
+    </string-array>
+</resources>

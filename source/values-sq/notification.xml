@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomReminderTxt">
+        <item>Ajeti për sot</item>
+        <item>Ajeti i sotëm</item>
+        <item>Ke merak të lexosh një Ajet?</item>
+        <item>Mësoje sot një Ajet</item>
+        <item>Ajeti i përditshëm</item>
+        <item>Do që të dish një Ajet?</item>
+        <item>Le të mësojmë një Ajet</item>
+        <item>Ajeti për sot</item>
+        <item>Ke lexuar sot një Ajet?</item>
+        <item>Kliko që të lexosh një Ajet</item>
+        <item>Për çfarë po të thotë Allahu?</item>
+        <item>Le të të flasë sot Allahu</item>
+        <item>A ke biseduar me Allahun sot?</item>
+        <item>Le të flasim me Allahun</item>
+        <item>E ke përkujtuar sot Allahun?</item>
+        <item>E ke falënderuar sot Allahun?</item>
+        <item>Le ta kujtojmë Allahun</item>
+        <item>Ushqim për shpirtin</item>
+        <item>Koha për të rifreskuar mendjen time</item>
+        <item>Mos harro Zotin tënd</item>
+    </string-array>
+    <string-array name="randomIndexReminder">
+        <item>Do që të dish rreth Kuranit</item>
+        <item>Çfarë thotë Kurani në lidhje me</item>
+        <item>Çfarë thotë Allahu në lidhje me</item>
+        <item>Ajete në lidhje me</item>
+        <item>Ajete në lidhje me</item>
+        <item>Tema interesante në Kuran</item>
+        <item>Tema e sotme</item>
+        <item>Kontrollo këtë nga Kurani</item>
+        <item>Mëso këtë nga Kurani</item>
+    </string-array>
+</resources>

@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">قرآن</string>
+    <!-- CommonOperations -->
+    <string name="save">ذخیره</string>
+    <string name="delete">حذف</string>
+    <string name="close">بستن</string>
+    <string name="cancel">لغو</string>
+    <string name="ok">تائید</string>
+    <string name="share_image">عکس (صفحه نمایش)</string>
+    <string name="share_text">متن</string>
+    <string name="multiple_ayahs">چند آیه</string>
+    <string name="ayah_copied_popup">آيه کپي شد</string>
+    <string name="stringshotshare">اشتراک صفحه نمایش</string>
+    <string name="popup_open_in_sura_view">نمایش سوره</string>
+    <string name="popup_tafsir_ibn_kathir">نمایش تفسیر/یادداشت</string>
+    <string name="popup_play_this_ayah">پخش این آیه</string>
+    <!--Search-->
+    <string name="searchTitle">جستجو با استفاده از عبارات</string>
+    <string name="searchhelptext">نمونه:
+
+\n\n استفاده از شماره سوره: شماره آیه تا سریعا بروید به آیه</string>
+    <string name="noWordTyped">چیزی نوشته نشده</string>
+    <string name="search_in_all_collections">جستجو در: تمام مجموعه‌ها</string>
+    <string name="search_in">"جستجو در: %1$s"</string>
+    <string name="filter_hint">نحوه‌ی پالایش کردن</string>
+    <string name="search_result">"\"%1$s\"پیدا شد %2$d بار"</string>
+    <string name="search_result_root">"ریشه %1$s یافت شد %2$d بار"</string>
+    <string name="searching">"در حال جستجو … %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">ریشه</string>
+    <string name="lemma">اصل موضوع/مشتق</string>
+    <string name="click_root_search_quran">برای جستجوی قرآن روی قسمت ریشه یا بخش کلیک کنید</string>
+    <string-array name="verb_form_names">
+        <item>زمان حال کامل</item>
+        <item>زمان نقلی گذشته</item>
+        <item>امری</item>
+        <item>اسم فاعل</item>
+        <item>مجهول</item>
+        <item>اسم</item>
+    </string-array>
+    <string name="writenote">یک یادداشت بنویسید</string>
+    <string name="choose_translations">ترجمه را انتخاب کنید</string>
+    <string name="auto_scroll">مطالعه خودکار</string>
+    <string name="jump_sura">برو به سوره</string>
+    <string name="jump_tafsir">برو به تفسیر</string>
+    <!-- sura metainfo -->
+    <string name="makki">مکي</string>
+    <string name="madani">مدني</string>
+    <string name="surah_location">"دوره:"</string>
+    <string name="sura_num_ayahs">"آیه‌ها"</string>
+    <string name="sura_ruku_num">"رکوع‌ها"</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">در حال لغو</string>
+    <string name="timing_database">فايل هاي مورد نياز</string>
+    <string name="quran_sura">سوره</string>
+    <string name="quran_ayah">آیه</string>
+    <string name="quran_page">صفحه</string>
+    <string name="quran_hizb">حزب</string>
+    <string name="quran_juz2">جزء</string>
+    <string name="juz2_description">"جزء %1$d%2$s"</string>
+    <string name="juzpage_description">": صفحه %1$d"</string>
+    <string name="page_description">"صفحه %1$d"</string>
+    <string name="page_number">"شماره صفحه."</string>
+    <string name="hizb_description">"جزء %1$d%2$s"</string>
+    <string name="permission_save_in_sdcard">برای ذخیره داده‌ها در کارت حافظه، مجوز لازم است</string>
+    <string name="permission_save_in_sdcard_unable">امکان ذخیره کردن اطلاعات در حافظه نیست</string>
+    <string name="note_saved">ذخیره نشد</string>
+    <string name="topics_verses_index">موضوعات مشابه این آیه</string>
+    <!-- Bookmark -->
+    <string name="create_new">ایجاد جدید&#8230;</string>
+    <string name="create_add">ایجاد و افزودن</string>
+    <string name="bookmark_result">"\'%1$s\' یافت شد %2$d بار"</string>
+    <string name="bookmark_last_read">آخرین مطالعه</string>
+    <!--menu-->
+    <string name="menu_share">اشتراک</string>
+    <string name="menu_quran_index">فهرست قرآن</string>
+    <string name="menu_quran_dictionary">فرهنگ لغت</string>
+    <string name="menu_quran_planner">برنامه‌ریز</string>
+    <string name="menu_report">گزارش</string>
+    <string name="menu_copy">رونوشت</string>
+    <string name="menu_bookmarks">نشانکها</string>
+    <string name="add_bookmarks">افزودن نشانک</string>
+    <string name="menu_jump">پرش</string>
+    <string name="menu_settings">تنظيمات</string>
+    <string name="menu_search">جستجو</string>
+    <string name="menu_notes">یادداشت‌ها</string>
+    <string name="menu_day_ayah">آیه روزانه</string>
+    <!--Options-->
+    <string name="pref_apperance">ظاهر</string>
+    <string name="pref_settings_choose_language">زبان</string>
+    <string name="pref_theme">زمینه</string>
+    <string name="pref_show_translation">نمایش ترجمه</string>
+    <string name="pref_translations">ترجمه‌ها</string>
+    <string name="pref_translation">ترجمه</string>
+    <string name="pref_translation_font_size">اندازه قلم ترجمه</string>
+    <string name="pref_arabic">عربی</string>
+    <string name="pref_arabic_font_size">اندازه قلم عربی</string>
+    <string name="pref_showarabic">نمایش عربی</string>
+    <string name="pref_arabic_font">قلم عربی</string>
+    <string name="pref_showwordbyword">واژه به واژه</string>
+    <string name="pref_showtajweed">تجوید</string>
+    <string name="pref_mushaftype">نوع رسم‌الخط</string>
+    <string name="pref_arabicfont">عربی</string>
+    <string name="pref_rtl">حالت نمایش از راست به چپ</string>
+    <string name="pref_keepscreenon">صفحه را روشن نگه دار</string>
+    <string name="pref_fixed_bars">ثابت ماندن نوار بالا و پایین</string>
+    <string name="pref_audio_manager">مدیریت صوت</string>
+    <string name="pref_audio_manager_summary">مدیریت و بارگیری تلاوت‌های قرآنی</string>
+    <string name="notification_time">زمان پیام</string>
+    <string name="notification_time_details">ق .ظ و ب.ظ</string>
+    <string name="notification">اطلاع‌رسانی</string>
+    <string name="morning">ق.ظ و</string>
+    <string name="evening">ب‌.ظ</string>
+    <string name="pref_notification_switch">اطلاع‌رسانی روزانه</string>
+    <string name="pref_clearsearch">پاک کردن تاریخچه جستجو</string>
+    <string name="searchistoryremoved">تاریخچه جستجو پاک شد</string>
+    <string name="pref_tajweedrules">قواعد تجوید</string>
+    <string name="pref_tajweed_summary">علائم وقف، قواعد تلفظ تجویدی</string>
+    <string-array name="mushaf_names">
+        <item>عثمانی/مدنی</item>
+        <item>هندی‌پاکستانی/آسیایی (اولیه)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>روشن</item>
+        <item>سیاه (شب)</item>
+        <item>سبز</item>
+        <item>قهوه‌ای</item>
+        <item>آبی تیره</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">بعدی</string>
+    <string name="done_tut">فهمیدم</string>
+    <!--Tutorial overlay-->
+    <string name="share_ayah_title">اشتراک آیه</string>
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">با موفقيت بارگذاري انجام شد</string>
+    <string name="download_processing">در حال بارگذاري;</string>
+    <string name="notification_download_canceled">بارگذاري لغو شده ها</string>
+    <string name="download_non_wifi_prompt">شبکه بي سيم شما خاموش است، در هر صورت بارگذاري نمايد؟</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">بارگذاري %1$s / %2$s</string>
+    <string name="download_sura_progress">بارگیری شده %1$s / %2$s از سوره %3$d</string>
+    <string name="process_progress">پردازش %1$d / %2$d</string>
+    <string name="download_all">بارگیری همه</string>
+    <string name="all">همه</string>
+    <string name="downloaded">بارگیری شده</string>
+    <string name="available">دسترس</string>
+    <string name="download_question">بارگیری شود؟</string>
+    <string name="partial_text">"(جزئی)"</string>
+    <string name="error_general">بارگیری ناموفق</string>
+    <string name="error_disk">فضای خالی، کافی نیست</string>
+    <string name="error_network">خطای شبکه</string>
+    <string name="error_insufficient_permissions">مجوزها کافی نیست</string>
+    <string name="error_invalid_download_retry">فایل خراب شد، تلاش برای بارگیری دوباره</string>
+    <string name="error_network_retry">خطای شبکه، تلاش برای ادامه و#8230;</string>
+    <string name="error_error_unknown">خطای نامعلوم</string>
+    <!-- Audio panel -->
+    <string name="play_apply">پذیرفتن</string>
+    <string name="previous">قبلی</string>
+    <string name="play">پخش</string>
+    <string name="pause">مکث</string>
+    <string name="stop">توقف</string>
+    <string name="next">بعدی</string>
+    <string name="repeat_range">تکرار محدوده انتخابی:</string>
+    <string name="repeat_each_verse">تکرار آیه:</string>
+    <string name="audio_from">از</string>
+    <string name="audio_to">تا</string>
+    <string name="downloading_title">بارگيري</string>
+    <string name="downloading_message">لطفا براي بارگيري فايلها صبر نماييد. (از ادامه پشتیبانی می‌شود)</string>
+    <string name="processing">در حال پردازش&#8230;</string>
+    <string name="remove_dlg_title">حذف ترجمه</string>
+    <string name="remove_dlg_msg">آيا مطمئن هستيد که مي خواهيد حذف کنيد %1$s?</string>
+    <string name="remove_dlg_note_msg">آیا شما میخواهید که یادداشت را پاک کنید برای %1$s؟</string>
+    <string name="remove_button">حذف</string>
+    <!--Tajweed Activity-->
+    <string name="title_activity_tawjeed_rules">قواعد تجوید</string>
+    <string name="qalqala_tr">غنه (طنین‌انداز)</string>
+    <string name="iqlab_tr">اقلاب (جذب/پرت)</string>
+    <string name="idgham_tr">ادغام (حذف/یکی کردن)</string>
+    <string name="idghamwg_tr">ادغام بدون غنه</string>
+    <string name="ikhfa_tr">"اخفاء (ضعیف گفتن/پنهان کردن)"</string>
+    <string name="ghunna_tr">غنه (از بینی)</string>
+    <string name="must_stop">توقف حتمی</string>
+    <string name="_22_times">۲۲ بار پیدا شد</string>
+    <string name="better_to_stop">توقف بهتر است</string>
+    <string name="bettertostp_603_times">۶۰۳ بار پیدا شد</string>
+    <string name="pause_at_one">مکث بر سر یکی</string>
+    <string name="_12_times">۱۲ بار پیدا شد</string>
+    <string name="a_slight_pause">یک توقف جزئی</string>
+    <string name="_7_times">۷ بار پیدا شد</string>
+    <string name="stop_or_continue">توقف کن یا ادامه بده</string>
+    <string name="_1972_times">۱۹۷۲ بار پیدا شد</string>
+    <string name="better_to_continue">بهتر است که ادامه دهید</string>
+    <string name="_1682_times">۱۶۸۲ بار پیدا شد</string>
+    <string name="dont_stop">اجازه توقف ندارید</string>
+    <string name="_68_times">۶۸ بار پیدا شد</string>
+    <string name="num_times">%1$d بار</string>
+    <string name="num_second">%1$d ثانیه</string>
+    <string name="num_seconds">%1$d ثانیه‌ها</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="gunnahtext">هر نّ یا مّ صدایی خواهد داشت که از بینی سرچشمه می‌گیرد.</string>
+    <string name="ikhfatext">هر نْ یا ً ٍ ٌ به دنبال هر یک از این حروف ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت بیاید از بینی با صدای نازک تلفظ می‌گردد
+
+ یا
+
+ هنگامی که حرف ب بعد از یک مْ ظاهر می شود با صدای نازک بینی در بینی تلفظ می شود.</string>
+    <string name="idhghamtext">هر نْ یا ً ٍ ٌ که به دنبال هریک از حروف و م ن ی بیاید در حروف بعد خود تلفیق شده و با غنه خوانده می‌شود
+
+ یا
+
+ هنگامی که یک مْ به دنبال یک مّ بیاید ، اولی در دومی گنجانیده می‌شود و با غنه خوانده می‌شود.</string>
+    <string name="idhghamwgtext">هر نْ یا ً ٍ ٌ به دنبال آن حرف ل یا ر در حرف بعدی تلفیق می‌شود اما غنه تلفظ نمی‌شود.</string>
+    <string name="iqlabtext">هرگاه نْ یا ً ٍ ٌ بعدش ب بیاید تبدیل به م می‌شود.</string>
+    <string name="qalqalatext">هر یک از این پنج حرف د ج ب ط ق هنگامی که به سکون ْ برسد و یا به عنوان آخرین حرف آیه بیاید باید با صدایی کوتاه و تند و تیز تلاوت شود.</string>
+    <string name="verb_form_basic">"فرم عملیاتی ۱ مورد %1$d"</string>
+    <string name="verb_form">"نسخه عملیاتی %1$d"</string>
+    <string name="word_by_word_language">زبان واژه به واژه</string>
+    <string-array name="parts_of_speech">
+        <item>حرف نصب</item>
+        <item>صفت</item>
+        <!--2-->
+        <item>حرف استدراک</item>
+        <item>حرف جواب</item>
+        <item>حرف ابتداء</item>
+        <item>حرف سببیت</item>
+        <item>حرف تحقیق</item>
+        <item>حرف حالیه</item>
+        <item>مفعول معه</item>
+        <item>حرف شرط</item>
+        <item>حرف ربط</item>
+        <!--11-->
+        <item>صفت اشاره</item>
+        <item>تخصیص‌گر</item>
+        <item>پیشوند لام برجسته</item>
+        <item>حرف تسویه</item>
+        <item>حرف تفصيل</item>
+        <item>حرف تفصيل</item>
+        <item>ادات استثناء</item>
+        <item>حرف استقبال</item>
+        <item>اسم فعل امر</item>
+        <item>پسوند لام امر</item>
+        <item>حرف ابتداء</item>
+        <item>حروف مقطعه</item>
+        <item>حرف تفسیر</item>
+        <item>حرف استفهام</item>
+        <item>ظرف مکان</item>
+        <item>اسم</item>
+        <!--26-->
+        <item>حرف نفی</item>
+        <item>حرف جر</item>
+        <item>اسم خاص</item>
+        <item>حرف كاف</item>
+        <item>حرف نهی</item>
+        <item>ضمیر</item>
+        <item>لام تعلیل</item>
+        <item>اسم موصول</item>
+        <item>حرف استیناف</item>
+        <item>ادات حصر</item>
+        <item>حرف اضراب</item>
+        <item>حرف جواب شرط</item>
+        <item>حرف مصدری</item>
+        <item>حرف زائد</item>
+        <item>حرف فجائیه</item>
+        <item>ظرف زمان</item>
+        <item>فعل</item>
+        <!--43-->
+        <item>حرف ندا</item>
+        <item>اسم فعل</item>
+        <item>توجه</item>
+        <item>فاصله</item>
+        <item>نشانی</item>
+    </string-array>
+    <string name="transliteration_warning_msg">استفاده از ترجمه برای خواندن / نوشتن قرآن روش مناسبی نیست.
+ زیرا ممکن است منجر به برداشت اشتباه شود و مانع یادگیری صحیح تجوید قرآن گردد.
+ برای اطلاعات بیشتر @ https://islamqa.info/fa/191497
+
+
+ باید به یاد داشته باشیم که خداوند برای تلاش برای یادگیری قرائت مناسب، پاداش مضاعف می بخشد ان‌شاءالله [بخاری ۴۹۳۷].
+
+
+ می توانید از شیخ / \'عالمان /\'قاریان محل زندگی خود بیاموزید که در صورت امکان ترجیح دارند.
+
+ اگر امکان پذیر نباشد ، می توانید از این سایت‌ها یاد بگیرید:
+
+
+۱. http://www.iou-gqmc.com/tajweed-programs
+
+
+۲. http://www.searchtruth.com/quran_teacher/quran.php
+
+
+ از طرف دیگر، می‌توانید قرائت توسط شیخ ایمان سوید / شیخ منشاوی / شیخ حصری را از برنامه ما بارگیری کنید و در صورت تمایل برای بررسی تلفظ می‌توانید، به قرائت آنها گوش فرا دهید.
+ همچنین ممکن است شما از تلاوت های آنها بیاموزید ، چگونه به طور صحیح با تجوید تلاوت کنید ان‌شاءالله.
+ ما ممکن است  این ترجمه را در آینده حذف کنیم ان‌شاءالله، زیرا این نیز اشتباه ما است.
+
+ باشد که خداوند این کار را برای همه آسان کند و کاستی‌هایی ما را ببخشد.</string>
+    <string name="agree">موافقم</string>
+    <string name="transliteration_warning_title">اخطار!!</string>
+    <string name="file_content_invalid">محتوای فایل نامعتبر است</string>
+    <string name="imported">با موفقیت وارد شد!</string>
+    <string name="mushaf">مصحف</string>
+    <string name="click_more">برای بیشتر کلیک کنید</string>
+    <string name="sync_online">همگام‌سازی آنلاین</string>
+    <string name="update">بروزرسانی</string>
+    <string name="add_note">افزودن یادداشت</string>
+    <string name="exact_word_match">مطابقت دقیق با واژه</string>
+    <!--todo indopak under construction -->
+    <string name="suggestion">پیشنهاد</string>
+    <string name="comment">نظر</string>
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <string name="minutes_left">%1$d دقیقه‌ها</string>
+    <string name="minute_left">%1$d دقیقه</string>
+    <string name="less_than_minute">کمتر از یک دقیقه</string>
+    <string name="pref_font_size">اندازه قلم</string>
+    <string name="none_text">هیچ‌یک</string>
+    <string name="sign_out">خروج</string>
+    <string name="download_app_needed">نیاز به بارگیری برنامه هست برای این</string>
+    <!-- Match results -->
+    <string name="say_in_arabic">چیزی به عربی بگویید</string>
+    <string name="saved_in_download_folder">نسخه پشتیبانی %1$ذخیره شد در پوشه بارگیریs!</string>
+    <string name="new_version_available">نسخه جدید موجود است</string>
+    <string name="please_update_to_new_version">برای ادامه استفاده، لطفاً برنامه را به نسخه جدید به روز کنید</string>
+    <string name="skip">رد شدن</string>
+    <string name="action_undo">عقب</string>
+    <!--quran planner-->
+    <string name="khatmah_on_track">در مسیر</string>
+    <string name="khatmah_session_ahead">%1$d جلسات در پیش</string>
+    <string name="khatmah_session_behind">%1$d جلسات پشت‌سر</string>
+    <string name="khatmah_in_end_days">(در %1$d روزها)</string>
+    <string name="khatmah_complete">شما به این هدف رسیدید.  تبریک می‌گوییم!</string>
+    <string name="cannot_be_empty">امکان ندارد خالی بماند</string>
+    <string name="current_session">جلسه کنونی</string>
+    <string name="sessions">جلسات</string>
+    <string name="complete">تکمیل</string>
+    <string name="warning_end_page">شماره آخرین صفحه باید بیشتر باشد</string>
+    <string name="all_session">تمام جلسات</string>
+    <string name="ends_in">پایان در %1$s</string>
+    <string name="completed_in">تکمیل شده در</string>
+    <string name="progress">پیشرفت</string>
+    <string name="read">مطالعه</string>
+    <string name="pages">صفحات</string>
+    <string name="days">روزها</string>
+    <string name="save_progress">ذخیره پیشرفت</string>
+    <string name="currently_at">هم‌اکنون در</string>
+    <string name="add_planner">افزودن برنامه‌ریزی</string>
+    <string name="name">نام</string>
+    <string name="number_of_days">تعداد روزها</string>
+    <!--changelog-->
+    <string name="changelog_title">چه خبر</string>
+    <string name="changelog_ok_button">خوب</string>
+    <string name="changelog_show_full">بیشتر...</string>
+    <string name="changelog_full_title">تاریخچه تغییراتی</string>
+    <string name="view">مشاهده</string>
+    <string name="font">قلم</string>
+    <string name="content">محتوا</string>
+    <string name="tafsir">تفسیر</string>
+    <string name="quick_links">پیوندهای کوتاه</string>
+    <string name="text_ayatul_kursi">آیت الکرسی</string>
+    <string name="no_file_explorer_found">هیچ برنامه جستجوگری پیدا نشد!</string>
+    <string name="delay_ayah_length">طول آیه</string>
+    <string name="no_planner_created">هنوز برنامه‌ریزی ایجاد نشده است</string>
+    <string name="text_planner_empty_title">هنوز هیچ برنامه‌ریزی ایجاد نشده است. \nکلیک <b>ایجاد برنامه‌ریزی</b> کنید تا یکی بسازید.</string>
+    <string name="view_details">مشاهده جزئیات</string>
+    <string name="msg_add_planner">آیا شما می‌خواهید یک برنامه‌ریزی قرآن بسازید؟</string>
+    <string name="text_12_00pm">12:00PM</string>
+    <string name="text_tafsir_data_demo">loabdad askjdga skdgaskhdg ahgdajk sgdashdg jashg dkashg djkahgd kajsgdk ajsdgkajhdgk as ghdakh dgaksjdhgashdgaksjdh gaskhdgkajshdgakshdg kjahgdjkashdgkjashdgjkashg djashgdka sgdah sgdkh asgd hkgas kd agshd loabdad askjdga skdgaskhdg ahgdajk sgdashdg jashg dkashg djkahgd kajsgdk ajsdgkajhdgk as ghdakh dgaksjdhgashdgaksjdh gaskhdgkajshdgakshdg kjahgdjkashdgkjashdgjkashg djashgdka sgdah sgdkh asgd hkgas kd agshd</string>
+    <string name="_text_arabic">عربی</string>
+    <string name="starting_page">صفحه‌ی ابتدایی</string>
+    <string name="ending_page">صفحه‌ی انتهایی</string>
+    <string name="delete_plan">پاک کردن برنامه‌ریزی</string>
+    <string name="text_session">جلسه</string>
+    <string name="ends_at">پایان در</string>
+    <string name="text_out_of">بیرون از</string>
+    <string name="text_target">هدف</string>
+    <string name="no">صفحه</string>
+    <string name="done">انجام شد</string>
+    <string name="start_range">شروع محدوده</string>
+    <string name="end_range">پایان محدوده</string>
+    <string name="qari">قاری</string>
+    <string name="advanced_settings">تنظیمات پیشرفته</string>
+    <string name="choose_qari">انتخاب قاری</string>
+    <string name="current_qari">قاری کنونی</string>
+    <string name="basic_info">اطلاعات پایه</string>
+    <string name="downloaded_sura">بارگیری سوره</string>
+    <string name="device_space_used">فضای استفاده شده دستگاه</string>
+    <string name="remove_all">حذف همه</string>
+    <string name="sura_list">لیست سوره</string>
+    <string name="download_manager">مدیریت بارگیری</string>
+    <string name="zero_kb">0 KB</string>
+    <string name="stream_without_downloading">بخش در جریان بدون بارگیری</string>
+    <string name="scroll_while_playing">حرکت خودکار در زمان اجرا</string>
+    <string name="delay_between_verse">تاخیر بین آیه</string>
+    <string name="stop_after_range">توقف با اتمام محدوده</string>
+    <string name="juz_description">جزء %1$d</string>
+</resources>

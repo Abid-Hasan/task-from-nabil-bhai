@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Al Qur´an (Tafsir &amp; by Word)</string>
+    <!-- CommonOperations -->
+    <string name="save">Salvar</string>
+    <string name="delete">Apagar</string>
+    <string name="close">Fechar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="share_image">imagem (Captura de Tela)</string>
+    <string name="share_text">Texto</string>
+    <string name="ayah_copied_popup">Ayat Copiada</string>
+    <string name="stringshotshare">Compartilhar Captura de Tela</string>
+    <string name="popup_open_in_sura_view">Surah Visualizada</string>
+    <string name="popup_tafsir_ibn_kathir">Ver Tafseer/Nota</string>
+    <string name="popup_play_this_ayah">Reproduzir esta Ayat</string>
+    <!--Search-->
+    <string name="searchTitle">Fazer busca por frase</string>
+    <string name="searchhelptext">Exemplos:
+
+\n\nUse o Número:da Surah Número:da Ayat para ir até a Ayat desejada</string>
+    <string name="noWordTyped">Nada digitado</string>
+    <string name="search_in_all_collections">Buscar em todas as Surahs</string>
+    <string name="search_in">"Buscar em: %1$s"</string>
+    <string name="filter_hint">Digite para filtrar</string>
+    <string name="search_result">"\"%1$s\" foram encontrado %2$d vezes"</string>
+    <string name="search_result_root">"Palavra Raiz %1$s foi encontrada %2$d vezes"</string>
+    <string name="searching">"Buscando… %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">Raíz</string>
+    <string name="lemma">Lemma/Derivado</string>
+    <string name="click_root_search_quran">Clique sobre a palavra raiz ou nos segmentos para buscar no Qur´an</string>
+    <string-array name="verb_form_names">
+        <item>Pretérito Perfeito</item>
+        <item>Pretérito Imperfeito</item>
+        <item>Modo Imperativo</item>
+        <item>Voz Ativa</item>
+        <item>Voz Passiva</item>
+        <item>Substantitvo</item>
+    </string-array>
+    <string name="writenote">Escrever uma Anotação</string>
+    <string name="choose_translations">Escolha uma ou mais Traduções</string>
+    <string name="auto_scroll">Rolagem Automática</string>
+    <string name="jump_sura">IR para a Surah</string>
+    <string name="jump_tafsir">IR para o Tafseer</string>
+    <!-- sura metainfo -->
+    <string name="makki">Makki</string>
+    <string name="madani">Madani</string>
+    <string name="surah_location">"Localização:"</string>
+    <string name="sura_num_ayahs">"Ayats:"</string>
+    <string name="sura_ruku_num">"Rukus"</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">Cancelando&#8230;</string>
+    <string name="timing_database">Arquivos Requeridos</string>
+    <string name="quran_sura">Surah</string>
+    <string name="quran_ayah">Ayats</string>
+    <string name="quran_page">Página</string>
+    <string name="quran_hizb">Hizb</string>
+    <string name="quran_juz2">Juz</string>
+    <string name="juz2_description">"Juz %1$d%2$s"</string>
+    <string name="juzpage_description">": Página %1$d"</string>
+    <string name="page_description">"Página %1$d"</string>
+    <string name="hizb_description">"Juz %1$d%2$s"</string>
+    <string name="permission_save_in_sdcard">Precisa de permissão para salvar os dados no Cartão de Memória SD</string>
+    <string name="permission_save_in_sdcard_unable">Não foi possível salvar os dados na memória</string>
+    <string name="note_saved">Notas salvas</string>
+    <string name="topics_verses_index">Tópicos relacionados com esta Ayat</string>
+    <!-- Bookmark -->
+    <string name="create_new">Criar nova&#8230;</string>
+    <string name="create_add">Criar &amp; Adicionar</string>
+    <string name="bookmark_result">"\'%1$s\' foi encontrado %2$d vezes"</string>
+    <string name="bookmark_last_read">Lido pela última Vez</string>
+    <!--menu-->
+    <string name="menu_share">Compartilhar</string>
+    <string name="menu_quran_index">Índice do Qur´an</string>
+    <string name="menu_report">Reportar</string>
+    <string name="menu_copy">Copiar</string>
+    <string name="menu_bookmarks">Marcador de Páginas</string>
+    <string name="add_bookmarks">Adicionar a Páginas Marcadas</string>
+    <string name="menu_jump">Pular para o Ayat</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_search">Buscar</string>
+    <string name="menu_notes">Anotações</string>
+    <!--Options-->
+    <string name="pref_apperance">Aparência</string>
+    <string name="pref_settings_choose_language">Idioma</string>
+    <string name="pref_theme">Tema</string>
+    <string name="pref_show_translation">Mostrar Tradução</string>
+    <string name="pref_translations">Traduções</string>
+    <string name="pref_translation">Tradução</string>
+    <string name="pref_translation_font_size">Tamanho da fonte da Tradução</string>
+    <string name="pref_arabic">Árabe</string>
+    <string name="pref_arabic_font_size">Tamanho da fonte Árabe</string>
+    <string name="pref_showarabic">Mostrar Árabe</string>
+    <string name="pref_arabic_font">Fonte Árabe</string>
+    <string name="pref_showwordbyword">Palavra por Palavra</string>
+    <string name="pref_showtajweed">Tajweed</string>
+    <string name="pref_mushaftype">Modo Mushaf</string>
+    <string name="pref_arabicfont">Árabe</string>
+    <string name="pref_rtl">Visualizar da Esquerda para Direita</string>
+    <string name="pref_keepscreenon">Manter Tela Ligada</string>
+    <string name="pref_audio_manager">Administrar Áudios</string>
+    <string name="pref_audio_manager_summary">Administrar e fazer download das Recitações do Qur\'an</string>
+    <string name="pref_notification_switch">Notificação Diária</string>
+    <string name="pref_clearsearch">Limpar Histórico de Pesquisa</string>
+    <string name="searchistoryremoved">Histórico de Pesquisas Apagado</string>
+    <string name="pref_tajweedrules">Regras de Recitação do Qur\'an (Tajweed)</string>
+    <string name="pref_tajweed_summary">Sinais de Pausa, Regras de Pronunciação do Tajweed</string>
+    <string-array name="mushaf_names">
+        <item>Uthmani</item>
+        <item>IndoPak/Asiático (Beta)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>Branco</item>
+        <item>Preto (Modo Noturno)</item>
+        <item>Verde</item>
+        <item>Marrom</item>
+        <item>Dark Blue (Night)</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">PRÓXIMO</string>
+    <string name="done_tut">IR PARA</string>
+    <!--Tutorial overlay-->
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Download Efetuado com Sucesso</string>
+    <string name="download_processing">Processando Download&#8230;</string>
+    <string name="notification_download_canceled">Download cancelado</string>
+    <string name="download_non_wifi_prompt">Você não está conectado ao Wi-Fi. Efetuar download usando os dados móveis?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">Baixados %1$s / %2$s</string>
+    <string name="download_sura_progress">Baixados %1$s / %2$s da Surah %3$d</string>
+    <string name="process_progress">Processando arquivos %1$d / %2$d</string>
+    <string name="download_all">Baixar Todas</string>
+    <string name="all">Todas</string>
+    <string name="downloaded">Baixados</string>
+    <string name="available">"Disponíveis "</string>
+    <string name="download_question">Fazer Download?</string>
+    <string name="partial_text">" (parcial)"</string>
+    <string name="error_disk">Espaço Insuficiente para mover os arquivos do App</string>
+    <!-- Audio panel -->
+    <string name="play_apply">Aplicar</string>
+    <string name="previous">Anterior</string>
+    <string name="play">Tocar</string>
+    <string name="pause">Pausar</string>
+    <string name="stop">Parar</string>
+    <string name="next">Próximo</string>
+    <string name="repeat_range">Repetir seleção</string>
+    <string name="repeat_each_verse">Repetir Ayat</string>
+    <string name="audio_from">De</string>
+    <string name="audio_to">a</string>
+    <string name="downloading_title">Baixando</string>
+    <string name="downloading_message">Por favor espere a que os arquivos sejam baixados (será retomado se interrompido)</string>
+    <string name="processing">Processando&#8230;</string>
+    <string name="remove_dlg_title">Remover isto?</string>
+    <string name="remove_dlg_msg">Tem certeza que quer remover isto%1$s?</string>
+    <string name="remove_button">Remover</string>
+    <!--Tajweed Activity-->
+    <string name="title_activity_tawjeed_rules">Regras de Tajweed</string>
+    <string name="qalqala_tr">Qalqala (Som com Eco de Forma Enfática)</string>
+    <string name="iqlab_tr">Iqlab (Semelhante/Similar)</string>
+    <string name="idgham_tr">Idgham (Fusão do Primeiro Som No Segundo)</string>
+    <string name="idghamwg_tr">dgham sem Ghunna</string>
+    <string name="ikhfa_tr">"Ikhfa\'a (Som Fraco/Comprimido)"</string>
+    <string name="ghunna_tr">Ghunna (Som Nasal)</string>
+    <string name="must_stop">Pausa Obrigatória</string>
+    <string name="_22_times">encontrado 22 vezes</string>
+    <string name="better_to_stop">"É aconselhável parar "</string>
+    <string name="bettertostp_603_times">encontrado 603 vezes</string>
+    <string name="pause_at_one">Fazer uma pausa em um</string>
+    <string name="_12_times">encontrado 12 vezes</string>
+    <string name="a_slight_pause">Faça uma leve pausa</string>
+    <string name="_7_times">encontrado 7 vezes</string>
+    <string name="stop_or_continue">Pare ou Continue</string>
+    <string name="_1972_times">encontrado 1972 vezes</string>
+    <string name="better_to_continue">"É aconselhável continuar "</string>
+    <string name="_1682_times">encontrado 1682 vezes</string>
+    <string name="dont_stop">Não Pare</string>
+    <string name="_68_times">encontrado 68 vezes</string>
+    <string name="num_times">%1$d vezes</string>
+    <string name="num_second">%1$d segundo</string>
+    <string name="num_seconds">%1$d em segundos</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="gunnahtext">Qualquer نّ ou مّ irá ter o som que vem do nariz.</string>
+    <string name="ikhfatext">Qualquer نْ ou ً ٍ ٌ será seguido por qualquer dessas letras ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت será pronunciada de forma leve com o som que vem do nariz\n\nOR\n\nQuando a letra for ب aparecer depois da مْ está deverá ser pronunciada de forma nasal leve cujo o som deverá vir do  nariz.</string>
+    <string name="idhghamtext">Qualquer نْ ou ً ٍ ٌ seguido por qualquer uma dessas letras و م ن ي terá o som similar ao das letras seguidas e devem ser lidas com Ghunna\n\nOR\n\nQuando a مْ for seguida de مّ, o som da primeira será incorporado no som da segunda e será lido com Ghunna.</string>
+    <string name="idhghamwgtext">Qualquer نْ ou ً ٍ ٌ seguido pela letra ل ou ر terá o som absorvido pela letra que o segue, vale lembrar que o ghunna não deve ser pronunciado.</string>
+    <string name="iqlabtext">Qualquer نْ ou ً ٍ ٌ seguida pela ب irá mudar para م.</string>
+    <string name="qalqalatext">Qualquer uma dessas cinco letras د ج ب ط ق quando juntas com o Sukun ْ &amp;ou como a última letra do Ayat precisa ser recitada com um leve eco ou de forma enfática.</string>
+    <string name="verb_form_basic">"1º Forma Verbal %1$d"</string>
+    <string name="verb_form">"Forma Verbal %1$d"</string>
+    <string name="word_by_word_language">Idioma do Palavra por Palavra</string>
+    <string-array name="parts_of_speech">
+        <item>Caso Oblíquo</item>
+        <item>Adjetivo</item>
+        <!--2-->
+        <item>Locução Conjuntiva</item>
+        <item>Adverbio de Afirmação</item>
+        <item>Conjunções Coordenativas Adversativas</item>
+        <item>Adjunto Adverbial de Causa</item>
+        <item>Advérbio de Afirmação</item>
+        <item>Locução Conjuntiva</item>
+        <item>Locução Adverbial</item>
+        <item>Oração Condicional</item>
+        <item>Conjunção Coordenativa</item>
+        <!--11-->
+        <item>Pronome Demonstrativo</item>
+        <item>Determinante</item>
+        <item>Prefixo laam tipo Enfático</item>
+        <item>Verbo Transitivo Admoestar</item>
+        <item>Interjeição</item>
+        <item>Partícula Explicativa</item>
+        <item>Preposição exceptiva</item>
+        <item>Partícula Futura</item>
+        <item>Substantivo verbal do inifinitivo</item>
+        <item>"Prefixo Imperativo tipo laam "</item>
+        <item>Partícula Inceptiva</item>
+        <item>Letras árabes isoladas ao inicio de algumas Suratas</item>
+        <item>Partícula de Interpretação</item>
+        <item>Advérbio de Interrogação</item>
+        <item>Advérbio de lugar</item>
+        <item>Substantivo</item>
+        <!--26-->
+        <item>Advérbio de Negação</item>
+        <item>Preposição</item>
+        <item>Substantivo Próprio</item>
+        <item>Partícula Preventiva</item>
+        <item>Imperativo Negativo</item>
+        <item>Pronome Pessoal</item>
+        <item>Prefixo tipo laam Proposital</item>
+        <item>Pronome Relativo</item>
+        <item>Conjunção Conclusiva</item>
+        <item>Partícula de Retomada</item>
+        <item>Conjunção Adversativa</item>
+        <item>Conjunção Conclusiva</item>
+        <item>Conjunção Subordinada</item>
+        <item>Conjunção Subordinativa</item>
+        <item>Interjeições Exclamativas</item>
+        <item>Advérbio de Tempo</item>
+        <item>Verbo</item>
+        <!--43-->
+        <item>Vocativo</item>
+        <item>Verbo Nominal</item>
+        <item>Atenção</item>
+        <item>Distância</item>
+        <item>De Endereçamento</item>
+    </string-array>
+    <string name="transliteration_warning_msg">Usar a transliteração para leitura/escrita Qur\'an não é correta.
+Isso tende a levar uma pronúncia errada, e ela desencoraja a aprender o correcto Tajweed. 
+Saiba mais em
+https://islamqa.info/en/191497\n\n
+
+Nós devemos lembrar que Allah Subhanna Wa Ta\'ala irá recompensar-nos por tentar aprender a recitação devida [Bukhaari 4937].\n\n
+Você pode aprender de um Shaykh / \'Alim / \'Qari da sua localidade ou você também pode tentar em um destes sites\n
+
+1.
+http://www.searchtruth.com/quran_teacher/quran.php\n
+
+2. http://www.readwithtajweed.com/tajweed_letters.htm\n
+
+Muito em breve nós iremos remover a transliteração In shaa Allah, isto é um erro da  nossa parte. Alternativamente você pode baixar uma recitação e escutá-la caso queira checar a sua pronunciação.n\n
+Que Allah nos perdoe a todos.</string>
+    <string name="agree">Eu concordo</string>
+    <string name="transliteration_warning_title">"Advertência "</string>
+    <string name="file_content_invalid">Arquivo com conteúdo inválido</string>
+    <string name="imported">Importação realizada com Sucesso!</string>
+    <string name="mushaf">Mushaf</string>
+    <string name="click_more">Clique para mais</string>
+    <string name="sync_online">Sincronizar Online</string>
+    <string name="update">Atualizar</string>
+    <string name="add_note">Adicionar Nota</string>
+    <string name="exact_word_match">"Correspondência das Palavras Exatas "</string>
+    <!--todo indopak under construction -->
+    <string name="suggestion">Sugestão</string>
+    <string name="comment">Comentários</string>
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <string name="minutes_left">%1$d minutos</string>
+    <string name="minute_left">%1$d minuto</string>
+    <string name="less_than_minute">Menos de um minuto</string>
+    <string name="pref_font_size">Tamanho da Fonte</string>
+    <string name="none_text">Nenhum</string>
+    <string name="sign_out">Log Out</string>
+    <string name="download_app_needed">Precisa baixar o aplicativo para isso</string>
+    <!-- Match results -->
+    <string name="saved_in_download_folder">Backup %1$s guardado na pasta de download!</string>
+    <!--quran planner-->
+    <string name="khatmah_in_end_days">(em %1$d dias)</string>
+    <string name="current_session">Sessão atual</string>
+    <string name="sessions">Sessões</string>
+    <string name="juz_description">Juz %1$d</string>
+    <!--changelog-->
+</resources>

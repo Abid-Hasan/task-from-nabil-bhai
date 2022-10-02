@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--When you are syncing from onesky, make sure to check off 'fil' and 'zn-Hans' from the list-->
+    <!-- ActivityTitles & app name -->
+    <string name="app_name">Kur\'an (Tefsir &amp; riječ po riječ)</string>
+    <!-- CommonOperations -->
+    <string name="save">Spasi</string>
+    <string name="delete">Briši</string>
+    <string name="close">Zatvori</string>
+    <string name="cancel">Odustani</string>
+    <string name="ok">OK</string>
+    <string name="share_image">Slika (Screenshot)</string>
+    <string name="share_text">Tekst</string>
+    <string name="ayah_copied_popup">Ajet je kopiran</string>
+    <string name="stringshotshare">Podijeli Screenshot</string>
+    <string name="popup_open_in_sura_view">Pregled sure</string>
+    <string name="popup_tafsir_ibn_kathir">Pregled Tefsira/Bilješke</string>
+    <string name="popup_play_this_ayah">Prouči ovaj ajet</string>
+    <!--Search-->
+    <string name="searchTitle">Pretraga po pojmovima</string>
+    <string name="searchhelptext">Primjeri:
+
+\n\nKoristi broj sure: broj ajeta da brzo pronađete ajet</string>
+    <string name="noWordTyped">Ništa nije upisano</string>
+    <string name="search_in_all_collections">Pretražite u: Svim kolekcijama</string>
+    <string name="search_in">"Pretražite u: %1$s"</string>
+    <string name="filter_hint">upišite za filtriranje</string>
+    <string name="search_result">"\"%1$s\" je pronađeno %2$d puta"</string>
+    <string name="search_result_root">"Korijen %1$s je pronađen %2$d puta"</string>
+    <string name="searching">"Tražim... %1$s ..."</string>
+    <!-- Viewer Activity -->
+    <string name="root">Korijen</string>
+    <string name="lemma">Lemma/Izvedenica</string>
+    <string name="click_root_search_quran">Pritisnite na korijen ili isječak da pretražite Kur\'an</string>
+    <string-array name="verb_form_names">
+        <item>Svršeno vrijeme</item>
+        <item>Nesvršeno vrijeme</item>
+        <item>Naredba</item>
+        <item>Aktivni particip</item>
+        <item>Pasivni particip</item>
+        <item>Imenica</item>
+    </string-array>
+    <string name="writenote">Napiši bilješku</string>
+    <string name="choose_translations">Izaberite prijevode</string>
+    <string name="auto_scroll">Automatsko listanje</string>
+    <string name="jump_sura">Idi na suru</string>
+    <string name="jump_tafsir">Idi na Tefsir</string>
+    <!-- sura metainfo -->
+    <string name="makki">Mekanski</string>
+    <string name="madani">Medinski</string>
+    <string name="surah_location">"Lokacija: "</string>
+    <string name="sura_num_ayahs">"Ajeti: "</string>
+    <string name="sura_ruku_num">"Ruknovi: "</string>
+    <!-- End Number picker Strings -->
+    <string name="canceling">Otkazivanje&#8230;</string>
+    <string name="timing_database">Potrebne datoteke</string>
+    <string name="quran_sura">Sura</string>
+    <string name="quran_ayah">Ajet</string>
+    <string name="quran_page">Stranica</string>
+    <string name="quran_hizb">Hizb</string>
+    <string name="quran_juz2">Džuz</string>
+    <string name="juz2_description">"Džuz %1$d%2$s"</string>
+    <string name="juzpage_description">" : Stranica %1$d"</string>
+    <string name="page_description">"Stranica %1$d"</string>
+    <string name="hizb_description">"Džuz %1$d%2$s"</string>
+    <string name="permission_save_in_sdcard">Potrebno je odobrenje za spašavnje podataka na SD karticu</string>
+    <string name="permission_save_in_sdcard_unable">Podaci nisu mogli biti spašeni u memoriju</string>
+    <string name="note_saved">Bilješka je spašena</string>
+    <string name="topics_verses_index">Teme vezane za ovaj ajet</string>
+    <!-- Bookmark -->
+    <string name="create_new">Napravite novu&#8230;</string>
+    <string name="create_add">Napravi i dodaj</string>
+    <string name="bookmark_result">"\'%1$s\' je pronađeno %2$d puta"</string>
+    <string name="bookmark_last_read">Zadnje pročitano</string>
+    <!--menu-->
+    <string name="menu_share">Podijeli</string>
+    <string name="menu_quran_index">Kur\'an indeks</string>
+    <string name="menu_report">Prijavi</string>
+    <string name="menu_copy">Kopiraj</string>
+    <string name="menu_bookmarks">Oznake</string>
+    <string name="add_bookmarks">Dodaj oznaku</string>
+    <string name="menu_jump">Idi na ajet</string>
+    <string name="menu_settings">Postavke</string>
+    <string name="menu_search">Pretraga</string>
+    <string name="menu_notes">Bilješke</string>
+    <string name="menu_day_ayah">Ajet dana</string>
+    <!--Options-->
+    <string name="pref_apperance">Izgled</string>
+    <string name="pref_settings_choose_language">Jezik</string>
+    <string name="pref_theme">Tema</string>
+    <string name="pref_show_translation">Prikaži prijevod</string>
+    <string name="pref_translations">Prijevodi</string>
+    <string name="pref_translation">Prijevod</string>
+    <string name="pref_translation_font_size">Veličina slova prijevoda</string>
+    <string name="pref_arabic">Arapski</string>
+    <string name="pref_arabic_font_size">Veličina arapskih slova</string>
+    <string name="pref_showarabic">Prikaži arapski</string>
+    <string name="pref_arabic_font">Arapski Font</string>
+    <string name="pref_showwordbyword">Riječ po riječ</string>
+    <string name="pref_showtajweed">Tedžvid</string>
+    <string name="pref_mushaftype">Vrsta Mushafa</string>
+    <string name="pref_arabicfont">Arapski</string>
+    <string name="pref_rtl">S desna na lijevo - način prikaza</string>
+    <string name="pref_keepscreenon">Drži ekran upaljen</string>
+    <string name="pref_audio_manager">Upravljanje zvučnim datotekama</string>
+    <string name="pref_audio_manager_summary">Uprvljanje i preuzimanje Kur\'anskih učenja</string>
+    <string name="pref_notification_switch">Dnevna obavijest/podsjetnik</string>
+    <string name="pref_clearsearch">Briši historiju pretrage</string>
+    <string name="searchistoryremoved">Historija pretrage je izbrisana</string>
+    <string name="pref_tajweedrules">Tedžvidska pravila</string>
+    <string name="pref_tajweed_summary">Znakovi zaustavljanja, Tedžvidska pravila izgovora</string>
+    <string-array name="mushaf_names">
+        <item>Uthmani/Madani</item>
+        <item>IndoPak/Asian (Beta)</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>Bijela</item>
+        <item>Tamna (Noć)</item>
+        <item>Zelena</item>
+        <item>Smeđa</item>
+        <item>Dark Blue (Night)</item>
+    </string-array>
+    <!--Tutorials-->
+    <string name="next_tut">DALJE</string>
+    <string name="done_tut">JASNO</string>
+    <!--Tutorial overlay-->
+    <string name="share_ayah_title">Podijeli ajet</string>
+    <!-- AUDIO -->
+    <!-- download statuses and errors -->
+    <string name="download_successful">Preuzimanje uspješno</string>
+    <string name="download_processing">Obrada preuzimanja&#8230;</string>
+    <string name="notification_download_canceled">Preuzimanje zaustavljeno</string>
+    <string name="download_non_wifi_prompt">Niste na Wi-Fi mreži. Preuzmi podatke u svakom slučaju?</string>
+    <!-- downloading dialogs -->
+    <string name="download_progress">Preuzeto %1$s / %2$s</string>
+    <string name="download_sura_progress">Preuzeto %1$s / %2$s od sure %3$d</string>
+    <string name="process_progress">Obrada podatka %1$d / %2$d</string>
+    <string name="download_all">Preuzmi sve</string>
+    <string name="all">Sve</string>
+    <string name="downloaded">Preuzeto</string>
+    <string name="available">Dostupno</string>
+    <string name="download_question">Preuzmi?</string>
+    <string name="partial_text">" (djelimično)"</string>
+    <string name="error_general">Preuzimanje nije uspjelo</string>
+    <string name="error_disk">Nema dovoljno prostora na disku</string>
+    <string name="error_network">Greška na mreži</string>
+    <string name="error_insufficient_permissions">Nedovoljno dopuštenja</string>
+    <string name="error_invalid_download_retry">Oštećena datoteka, pokušavam ponovo preuzeti</string>
+    <string name="error_network_retry">Greška na mreži, pokušavam nastaviti&#8230;</string>
+    <string name="error_error_unknown">Nepoznata greška</string>
+    <!-- Audio panel -->
+    <string name="play_apply">Primijeni</string>
+    <string name="previous">Prethodni</string>
+    <string name="play">Izgovori</string>
+    <string name="pause">Pauziraj</string>
+    <string name="stop">Zaustavi</string>
+    <string name="next">Sljedeći</string>
+    <string name="repeat_range">Ponovi označeno:</string>
+    <string name="repeat_each_verse">Ponovi ajet:</string>
+    <string name="audio_from">od</string>
+    <string name="audio_to">do</string>
+    <string name="downloading_title">Preuzimanje</string>
+    <string name="downloading_message">Molimo sačekajte da se podaci preuzmu (moguće je nastaviti).</string>
+    <string name="processing">Obrada&#8230;</string>
+    <string name="remove_dlg_title">Izbriši ovo?</string>
+    <string name="remove_dlg_msg">Da li ste sigurni da želite izbrisati %1$s?</string>
+    <string name="remove_dlg_note_msg">Da li ste sigurni da želite izbrisati bilješku za %1$s?</string>
+    <string name="remove_button">Briši</string>
+    <!--Tajweed Activity-->
+    <string name="title_activity_tawjeed_rules">Pravila Tedžvida</string>
+    <string name="qalqala_tr">Kalkala (odjekujuća)</string>
+    <string name="iqlab_tr">Iqlab (preobražavanje/pretvaranje)</string>
+    <string name="idgham_tr">Idgam (uklapanje/slijevanje)</string>
+    <string name="idghamwg_tr">Idgam bez Gune</string>
+    <string name="ikhfa_tr">"Ihfa (skrivanje)"</string>
+    <string name="ghunna_tr">Guna (nazalacija)</string>
+    <string name="must_stop">Mora se stati</string>
+    <string name="_22_times">nalazi se 22 puta</string>
+    <string name="better_to_stop">Bolje je stati</string>
+    <string name="bettertostp_603_times">nalazi se 603 puta</string>
+    <string name="pause_at_one">Stati na prvom ili drugom</string>
+    <string name="_12_times">nalazi se 12 puta</string>
+    <string name="a_slight_pause">Kratko stati</string>
+    <string name="_7_times">nalazi se 7 puta</string>
+    <string name="stop_or_continue">Stati ili nastaviti</string>
+    <string name="_1972_times">nalazi se 1972 puta</string>
+    <string name="better_to_continue">Bolje je nastaviti</string>
+    <string name="_1682_times">nalazi se 1682 puta</string>
+    <string name="dont_stop">Nemojte stati</string>
+    <string name="_68_times">nalazi se 68 puta</string>
+    <string name="num_times">%1$d puta</string>
+    <string name="num_second">%1$d sekunda</string>
+    <string name="num_seconds">%1$d sekundi</string>
+    <!--color='#E55200' color='#E55200'-->
+    <!--color='#B60000' color=\'#B60000\'-->
+    <!--color='#B955C8'  color=\'#B955C8\'-->
+    <!--color='#7D7D7D' color=\'#7D7D7D\'-->
+    <!--color='#3164C5' color=\'#3164C5\'-->
+    <!--color='#2F9900' color=\'#2F9900\'-->
+    <!--![CDATA-->
+    <!---->
+    <!---->
+    <!---->
+    <!-->-->
+    <!---->
+    <!---->
+    <!---->
+    <!--</string>-->
+    <string name="gunnahtext">Svako نّ ili مّ će imati zvuk koji dolazi iz nosa.</string>
+    <string name="ikhfatext">Svako نْ ili ً ٍ ٌ  praćeno jednim od ovih slova ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت će biti izgovoreno djelimično zvukom koji dolazi iz nosa\n\nili\n\nKada se pojavi slovo ب poslije slova مْ biti će izgovoreno laganim zvukom koji dolazi iz nosa.</string>
+    <string name="idhghamtext">Svako نْ ili ً ٍ ٌ  praćeno jednim od ovih slova و م ن ي će se stopiti sa tim sljedećim slovom i pročitat će se sa Gunom\n\nili\n\nKada je مْ praćeno sa مّ, prijašnje slovo će se pripojiti sljedećem i pročitat će se sa Gunom.</string>
+    <string name="idhghamwgtext">Svako نْ ili ً ٍ ٌ  praćeno slovom ل ili ر će se stopiti sa tim sljedećim slovom ali se neće izgovoriti sa Gunom.</string>
+    <string name="iqlabtext">Svako نْ ili ً ٍ ٌ  praćeno slovom ب će se pretvoriti u م.</string>
+    <string name="qalqalatext">Svako od ovih pet slova د ج ب ط ق kada se pojavi sa Sukunom ْ i/ili kao posljednje slovo u ajetu treba se izgovoriti sa blagim odjekom ili trzajućim zvukom.</string>
+    <string name="verb_form_basic">"Glagol 1 Slučaj %1$d"</string>
+    <string name="verb_form">"Glagol %1$d"</string>
+    <string name="word_by_word_language">Riječ po riječ jezik</string>
+    <string-array name="parts_of_speech">
+        <item>Akuzativ</item>
+        <item>Pridjev</item>
+        <!--2-->
+        <item>Amandman/Izmjena</item>
+        <item>Dio odgovora</item>
+        <item>Dio odbojnosti</item>
+        <item>Dio uzroka</item>
+        <item>Dio uvjerenja/sigurnosti</item>
+        <item>Dio sticaja okolnosti</item>
+        <item>Djelovanje</item>
+        <item>Dio uslova</item>
+        <item>Koordinacija spona</item>
+        <!--11-->
+        <item>Pokazna zamjenica</item>
+        <item>Odredba</item>
+        <item>Istaknuti prefiks Laama</item>
+        <item>Dio izjednačavanja</item>
+        <item>Dio podsticanja</item>
+        <item>Dio objašnjavanja</item>
+        <item>Dio izuzimanja</item>
+        <item>Dio budućnsti</item>
+        <item>Imperativna verbalna imenica</item>
+        <item>Imperativni prefiks Laama</item>
+        <item>Dio počinjanja</item>
+        <item>Kur\'anski inicijali</item>
+        <item>Dio tumačenja</item>
+        <item>Dio upita</item>
+        <item>Prilog za mjesto</item>
+        <item>Imenica</item>
+        <!--26-->
+        <item>Negacija</item>
+        <item>Prijedlog</item>
+        <item>Vlastita imenica</item>
+        <item>Preventiva</item>
+        <item>Dio zabrane</item>
+        <item>Prisvojna zamjenica</item>
+        <item>Svrha Laam prefiksa</item>
+        <item>Odnosna zamjenica</item>
+        <item>Nastavljanje</item>
+        <item>Dio ograničenja</item>
+        <item>Dio povlačenja/poricanja</item>
+        <item>Dio ishoda</item>
+        <item>Podređujuća veza</item>
+        <item>Dio dopunjavanja</item>
+        <item>Dio iznenađenja</item>
+        <item>Prilog za vrijeme</item>
+        <item>Glagol</item>
+        <!--43-->
+        <item>Vokativ</item>
+        <item>Izvorni glagol</item>
+        <item>Pažnja</item>
+        <item>Udaljenost</item>
+        <item>Adresa</item>
+    </string-array>
+    <string name="transliteration_warning_msg">Korištenje transkripcije za čitanje/pisanje Kur\'ana nije ispravno.
+        To vas može dovesti do pogrešnog izgovora i odgovoriti vas od učenja pravilnog Tedžvida.
+        Više o ovome na https://islamqa.info/en/191497\n\n
+
+        Treba nam uvijek biti na umu da će Allah duplo više nagraditi naš trud za pravilno učenje [Buhari 4937].\n\n
+        Možete učiti od šejha / \'Alim / \'Qari na jednoj od ovih stranica\n
+
+        1. http://www.searchtruth.com/quran_teacher/quran.php\n
+
+        2. http://www.readwithtajweed.com/tajweed_letters.htm\n
+
+        Uskoro ćemo ukloniti ove transkripcije ako Bog da, jer je to i naša greška.
+        U svakom slučaju možete preuzeti učenje i poslušati ga ukoliko želite provjeriti izgovor.\n\n
+        Neka nam Allah svima oprosti.</string>
+    <string name="agree">Prihvatam</string>
+    <string name="transliteration_warning_title">Upozorenje!</string>
+    <string name="file_content_invalid">Sadržaj datoteke nije važeći</string>
+    <string name="imported">Uspješno ubačeno!</string>
+    <string name="mushaf">Mushaf</string>
+    <string name="click_more">Klikni za više</string>
+    <string name="sync_online">Sinhroniziraj online</string>
+    <string name="update">Ažuriranje</string>
+    <string name="add_note">Dodaj bilješku</string>
+    <string name="exact_word_match">Tačno podudaranje riječi</string>
+    <!--todo indopak under construction -->
+    <string name="suggestion">Prijedlog</string>
+    <string name="comment">Komentar</string>
+    <!--
+    <string name="answer">Random Verse</string>-->
+    <string name="minutes_left">%1$d minuta</string>
+    <string name="minute_left">%1$d minut</string>
+    <string name="less_than_minute">Manje od minute</string>
+    <string name="pref_font_size">Veličina slova</string>
+    <string name="none_text">Nijedan</string>
+    <string name="sign_out">Odjava</string>
+    <string name="download_app_needed">Potrebno je da preuzmete aplikaciju za ovo</string>
+    <!-- Match results -->
+    <string name="say_in_arabic">Recite nešto na arapskom</string>
+    <string name="saved_in_download_folder">Sigurnosna kopija %1$s spašena u folder preuzimanja!</string>
+    <string name="new_version_available">Dostupna je nova verzija</string>
+    <string name="please_update_to_new_version">Molimo ažurirajte aplikaciju na novu verziju da biste je nastavili koristiti</string>
+    <string name="skip">Preskoči</string>
+    <string name="action_undo">PONIŠTI</string>
+    <string name="juz_description">Džuz %1$d</string>
+    <!--quran planner-->
+    <!--changelog-->
+</resources>

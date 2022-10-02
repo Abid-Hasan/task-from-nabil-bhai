@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--About-->
+    <string name="menu_share_app">Compartir la App</string>
+    <string name="share_app_info">Al Quran (Tafsir y analisis palabra por palabra) es una herramienta para estudio del Corán. Esta App ofrece: Reproducción de audio individual de versículos con opción de repetición, el Tafsir de Ibn Kazir (inglés), Taywid con ayuda de colores, analisis y traducción palabra por palabra, marcapáginas personalizado, busqueda, varias traducciones, plantillas personalizables y mucho más.
+
+Encuentrela en Google Play Store:
+https://gtaf.org/apps/quran \n\n#GreentechApps</string>
+    <string name="shareApk">Compartir el archivo Apk</string>
+    <string name="sharelink">Compartir link</string>
+    <string name="getapp">Descargar Quran App</string>
+    <!-- About Dialog -->
+    <string name="ratingmessage">Rasulullah (SAWS) dijo: \'\'Quien no agradece a la gente, no habrá agradecido a Al-lah\'\'\n[Abu Dawud 4811]\n\nTomese unos minutos para calificar e inspirarnos para hacer más buenas acciones!</string>
+    <string name="ratingtext">TU EVALUACIÓN ES MUY IMPORTANTE PARA NOSOTROS</string>
+    <string name="menu_rate">Evaluar!</string>
+    <string name="ratelater">Tal vez después</string>
+    <string name="ratenothanks">No gracias</string>
+    <string name="app_details">Alhamdulillah. Al Quran (Tafsir y palabra por palabra) is a Quran Study Tool that allows you to enjoy:
+\n
+\n • English Tafsir Ibn Kathir with embedded Arabic
+\n • Color Coded Tajweed similar to iQuran (For Kitkat and up)
+\n • Word by Word Translation Rendering, Grammatical, Root and Verb Form Details
+\n • Bookmarks/Favourites separated into user made categories
+\n • Quran Index
+\n • Ability to take notes
+\n • Bookmarks/Notes Import/export to online, file feature
+\n • A powerful full-text search engine with highlights
+\n • Robust audio system with repeat, group playback of verses function to aid in memorization
+\n • Various fonts, pinch-zoom feature and multiple Themes
+\n • Autoscroll feature
+\n • Different Quran Translations viewable simultaneously: Bengali, Chinese, English, French, Hindi, German, Indonesian, Italian, Malay, Russian, Spanish, Urdu and more
+\n • Several downloadable recitations for verse by verse recital (supports gapless/continuous recitation) including  Mishary Al-Afasy, Husari (muallim)
+
+\n\nCourtesy:
+\n • Grafian.com for their initial codes.
+\n • Quran.com for their database server and Audio Mechanism.
+\n • Quran Tafsir Pro App for their tafsir ibn Kathir and Corpus.
+\n • Guidedverses.com for Khan &amp; Hilali Commentary.
+\n • Quranindex.info for their Quran index database.
+\n • Academy of Quran Studies/Understand Quran for their verb forms database.
+\n • Various other brothers &amp; sisters helping with the project. May Allah bless them all
+
+
+\n\n\nDescargo de responsabilidad:
+\nNinguna traducción del Corán es cien por ciento exacta y no se la puede tomar como un sustituto del texto árabe del Corán. Hemos tratado de proveer las traducciones másNo translation of Quran can be a hundred percent accurate, nor it can be used as a replacement of the Quran text. We have tried to provide a set of mostly acceptable quran translations here, but we cannot guarantee their authenticity and/or accuracy. Please use them at your own discretion.</string>
+    <!--more apps -->
+    <!-- contribution -->
+    <string name="translate">Ayúdanos a traducir</string>
+    <string name="contribute_title">Sé parte de una Sadaqa Yaria</string>
+    <string name="contribute_text">GreenTech Apps satisface tu necesidad de aplicaciones islámicas modernas y elegantes.\n\n 
+Las aplicaciones no contienen anuncios y son completamente gratis.\n\n 
+Para que podamos contribuir más a la Ummah con nuevas aplicaciones y funciones, nuestro equipo necesita fondos regulares que financien su desarrollo.\n\n 
+Esta es tu oportunidad de marcar la diferencia, beneficiar a la Ummah y compartir la recompensa.</string>
+    <string name="contribute_button">Quiero colaborar</string>
+    <!--more apps -->
+    <string name="devDetails">Creatividad, simpleza y excelencia, in sha Al-lah</string>
+</resources>
