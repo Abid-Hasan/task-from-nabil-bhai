@@ -1,0 +1,18 @@
+{
+  "save": "सुरक्षित करें",
+  "auto_scroll": "स्व घूमना",
+  "pref_arabic": "अरबी",
+  "pref_arabic_font_size": "अरबी फ़ॉन्ट आकार",
+  "pref_showarabic": "अरबी दिखाएं",
+  "next_tut": "आगामी",
+  "processing": "प्रसंस्करण…",
+  "remove_dlg_title": "हटाए इसे?",
+  "stop_or_continue": "रोको या जारी रखें",
+  "agree": "मैं सहमत हूँ",
+  "sync_online": "ऑनलाइन समकालीन करें",
+  "download_app_needed": "इसके लिए ऐप डाउनलोड करने की आवश्यकता है",
+  "string-array.mushaf_names.item_0": "उस्मानी",
+  "string-array.parts_of_speech.item_0": "विशेषण",
+  "string-array.parts_of_speech.item_1": "ध्यान",
+  "string-array.parts_of_speech.item_2": "ध्यान"
+}

@@ -1,0 +1,37 @@
+{
+  "menu_share_app": "Quran",
+  "ratingmessage": "Manzon Allaah (saw) ya ce: \\\"Wanda baya gode wa mutane, baya gode wa Allaah\\\"\\n[Abu Dawud 4811]\\n\\nDauki mintoci kadan don yaba mana da kara mana karfin gwuiwa don cigaba da ayyukan alheri!",
+  "menu_rate": "Yaba mana",
+  "ratelater": "Wata kila daga baya",
+  "ratenothanks": "A\\'a na gode",
+  "translate": "Taimake mu wajen fassara",
+  "contribute_title": "Kasance cikin masu sadaka mai gudana",
+  "contribute_button": "Ina so in taimaka",
+  "devDetails": "Kirkire kirkire, saukake, inganci in sha Allaah",
+
+
+  "string-array.randomReminderTxt.item_0": "Ayar yau",
+  "string-array.randomReminderTxt.item_1": "Ayar yau",
+  "string-array.randomReminderTxt.item_2": "Ko kana sha\\'awar karanta Aya daya?",
+  "string-array.randomReminderTxt.item_3": "Koyi Aya daya a rana",
+  "string-array.randomReminderTxt.item_4": "Ayar kullun",
+  "string-array.randomReminderTxt.item_5": "Kana so ka san Aya daya?",
+  "string-array.randomReminderTxt.item_6": "Mu koyi Aya daya",
+  "string-array.randomReminderTxt.item_7": "Aya don Yau",
+  "string-array.randomReminderTxt.item_8": "Karanta aya daya yau",
+  "string-array.randomReminderTxt.item_9": "Danna don karanta Aya daya",
+  "string-array.randomReminderTxt.item_10": "Menene Allaah ke fada maka?",
+  "string-array.randomReminderTxt.item_11": "Bari Allaah Ya yi magana da kai ayau",
+  "string-array.randomReminderTxt.item_12": "Yi magana da Allaah yau",
+  "string-array.randomReminderTxt.item_13": "Mu yi magana da Allaah",
+  "string-array.randomReminderTxt.item_14": "Tuna da Allaah yau",
+  "string-array.randomReminderTxt.item_15": "Shin ka yabi Allaah kuwa yau?",
+  "string-array.randomReminderTxt.item_16": "Mu tuna Allaah",
+  "string-array.randomReminderTxt.item_17": "Abincin ruhi",
+  "string-array.randomReminderTxt.item_18": "Tuna da Ubangijin ka",
+
+
+  "sync_online": "Hausa",
+  "please_update_to_new_version": "Yi kokari ka kyautata/sabonta don ci gaba da Amfani",
+  "skip": "Ketare"
+}
